@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mcdonald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mikeraymcdonald.com
+  * I am mcdonald (https://keybase.io/mcdonald) on keybase.
+  * I have a public key ASAbeVJYIFEkBYeZLDCibpSjP1uihqOhhU8Ac_3zkc_JPAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011a0e0195223cef0d450f1d7150d5447aa5d2df2756f89a5fcb0519365520e6380a",
+      "host": "keybase.io",
+      "kid": "01201b7952582051240587992c30a26e94a33f5ba286a3a1854f0073fdf391cfc93c0a",
+      "uid": "54fa0ac6fb7ba4b0ec2dc9fc8f7d5c19",
+      "username": "mcdonald"
+    },
+    "merkle_root": {
+      "ctime": 1505791432,
+      "hash": "7f7badf949db950472a2006986359f1a7b0470d57b14dac67032e3c68e60db431c1d003ded0adf013aaca359bb54734b53fda77748f4b4dc7fc5a925f5899b05",
+      "hash_meta": "ad91e76986a6b0fd5804ad5a20753d03e2d503d594415447e804f9b1b30fc7a4",
+      "seqno": 1405537
+    },
+    "service": {
+      "hostname": "mikeraymcdonald.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505791461,
+  "expire_in": 504576000,
+  "prev": "78c61a75a4f89f5732d45ef0b9585a3d4dcf0006c3fb59537a6d8917b7362206",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgG3lSWCBRJAWHmSwwom6Uoz9booajoYVPAHP985HPyTwKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMWEwZTAxOTUyMjNjZWYwZDQ1MGYxZDcxNTBkNTQ0N2FhNWQyZGYyNzU2Zjg5YTVmY2IwNTE5MzY1NTIwZTYzODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWI3OTUyNTgyMDUxMjQwNTg3OTkyYzMwYTI2ZTk0YTMzZjViYTI4NmEzYTE4NTRmMDA3M2ZkZjM5MWNmYzkzYzBhIiwidWlkIjoiNTRmYTBhYzZmYjdiYTRiMGVjMmRjOWZjOGY3ZDVjMTkiLCJ1c2VybmFtZSI6Im1jZG9uYWxkIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA1NzkxNDMyLCJoYXNoIjoiN2Y3YmFkZjk0OWRiOTUwNDcyYTIwMDY5ODYzNTlmMWE3YjA0NzBkNTdiMTRkYWM2NzAzMmUzYzY4ZTYwZGI0MzFjMWQwMDNkZWQwYWRmMDEzYWFjYTM1OWJiNTQ3MzRiNTNmZGE3Nzc0OGY0YjRkYzdmYzVhOTI1ZjU4OTliMDUiLCJoYXNoX21ldGEiOiJhZDkxZTc2OTg2YTZiMGZkNTgwNGFkNWEyMDc1M2QwM2UyZDUwM2Q1OTQ0MTU0NDdlODA0ZjliMWIzMGZjN2E0Iiwic2Vxbm8iOjE0MDU1Mzd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWlrZXJheW1jZG9uYWxkLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA1NzkxNDYxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6Ijc4YzYxYTc1YTRmODlmNTczMmQ0NWVmMGI5NTg1YTNkNGRjZjAwMDZjM2ZiNTk1MzdhNmQ4OTE3YjczNjIyMDYiLCJzZXFubyI6MjIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAblPDdepdxEGSMtlkPOJ03AbiojtgStBArxjlEBH7fB3+w7aAmt2uDCV55GKioOASBukGQ0CzhCvSWzoxCmJtC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILoeO8qEj5yWR0xyPHszfIkWkdq4+xtgsjmnF6CkIRfPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mcdonald
+
+==================================================================
