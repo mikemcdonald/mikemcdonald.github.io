@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <style>
+    h1 {
+      font-family: 'Roboto', sans-serif;
+      color: #555555;
+      font-weight: 300;
+    }
+  </style>
+  <title>ETH in DeFi</title>
+
+</head>
+<body>
+<noscript>
+  You need to enable JavaScript to run this app.
+</noscript>
+<div id="root">
+  <h1>ETH Locked in DeFi</h1>
+  <div id="container" style="width:100%; height:800px;"></div>
+</div>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="https://code.highcharts.com/stock/highstock.js"></script>
+  <script>
+    $.getJSON('./data.json', function (data) {
+      Highcharts.stockChart('container', {
+        chart: {
+          type: 'area',
+          backgroundColor: null,
+        },
+        rangeSelector: {
+          selected: 3,
+          buttons: [{
+            type: 'week',
+            count: 1,
+            text: '1w'
+          }, {
+            type: 'month',
+            count: 1,
+            text: '1m'
+          }, {
+            type: 'month',
+            count: 3,
+            text: '3m'
+          }, {
+            type: 'all',
+            text: 'All'
+          }],
+          inputEnabled: false
+        },
+        title: {
+          text: ''
+        },
+        plotOptions: {
+          area: {
+            stacking: 'normal'
+          }
+        },
+        legend: {
+          enabled: true,
+          align: 'center'
+        },
+        credits: {
+          enabled: false
+        },
+        navigator: {
+          enabled: false
+        },
+        scrollbar: {
+          barBackgroundColor: '#dee3eb',
+          trackBackgroundColor: '#f2f4f7',
+          buttonBackgroundColor: '#ffffff',
+          buttonArrowColor: '#dee3eb',
+          barBorderColor: '#dee3eb',
+          buttonBorderColor: '#dee3eb',
+          rifleColor: '#ffffff'
+        },
+        series: [{
+          name: 'Uniswap',
+          data: data.uniswap,
+          color: '#dc6be5',
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'dYdX',
+          data: data.dydx,
+          color: '#999999',
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'Compound',
+          data: data.compound,
+          color: '#4adcc5',
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'Augur',
+          data: data.augur,
+          color: '#553580',
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'Maker',
+          data: data.maker,
+          color: '#1ABC9C',
+          fillOpacity: 0.75,
+          visible: false,
+          tooltip: {
+            valueDecimals: 0
+          }
+        }]
+    });
+    });
+</script>
+</body>
+</html>
+
