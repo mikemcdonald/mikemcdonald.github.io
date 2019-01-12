@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <style>
+    h1 {
+      font-family: 'Roboto', sans-serif;
+      color: #555555;
+      font-weight: 300;
+    }
+  </style>
+  <title>Uniswap ETH Liquidity By Token</title>
+
+</head>
+<body>
+<noscript>
+  You need to enable JavaScript to run this app.
+</noscript>
+<div id="root">
+  <h1>Uniswap ETH Liquidity By Token</h1>
+  <div id="container" style="width:100%; height:800px;"></div>
+</div>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="https://code.highcharts.com/stock/highstock.js"></script>
+  <script>
+    $.getJSON('./uniswap_data.json', function (data) {
+      Highcharts.stockChart('container', {
+        chart: {
+          type: 'area',
+          backgroundColor: null,
+        },
+        rangeSelector: {
+          selected: 3,
+          buttons: [{
+            type: 'week',
+            count: 1,
+            text: '1w'
+          }, {
+            type: 'month',
+            count: 1,
+            text: '1m'
+          }, {
+            type: 'month',
+            count: 3,
+            text: '3m'
+          }, {
+            type: 'all',
+            text: 'All'
+          }],
+          inputEnabled: false
+        },
+        title: {
+          text: ''
+        },
+        plotOptions: {
+          area: {
+            stacking: 'normal'
+          }
+        },
+        legend: {
+          enabled: true,
+          align: 'center'
+        },
+        credits: {
+          enabled: false
+        },
+        navigator: {
+          enabled: false
+        },
+        yAxis: {
+          reversedStacks: false,
+        },
+        tooltip: {
+         shared: true,
+         split: false,
+         pointFormat: '<b>{series.name}:</b> {point.y} ( {point.percentage:.0f}% )<br>',
+         footerFormat: '<b>Total: {point.total:,.0f} </b>'
+        },
+        scrollbar: {
+          barBackgroundColor: '#dee3eb',
+          trackBackgroundColor: '#f2f4f7',
+          buttonBackgroundColor: '#ffffff',
+          buttonArrowColor: '#dee3eb',
+          barBorderColor: '#dee3eb',
+          buttonBorderColor: '#dee3eb',
+          rifleColor: '#ffffff'
+        },
+        series: [{
+          name: 'DAI',
+          data: data.DAI,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'MKR',
+          data: data.MKR,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'SPANK',
+          data: data.SPANK,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'PNK',
+          data: data.PNK,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'TKN',
+          data: data.TKN,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'FUN',
+          data: data.FUN,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'XCHF',
+          data: data.XCHF,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'NEXO',
+          data: data.NEXO,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'DGD',
+          data: data.DGD,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'QCH',
+          data: data.QCH,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'KNC',
+          data: data.KNC,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'KIN',
+          data: data.KIN,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'ANT',
+          data: data.ANT,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: '0xBTC',
+          data: data.BTC,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'BNB',
+          data: data.BNB,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'ZRX',
+          data: data.ZRX,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'ULT',
+          data: data.ULT,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'MANA',
+          data: data.MANA,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        },{
+          name: 'REP',
+          data: data.REP,
+          fillOpacity: 0.75,
+          tooltip: {
+            valueDecimals: 0
+          }
+        }]
+    });
+    });
+</script>
+</body>
+</html>
+
