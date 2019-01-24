@@ -1,0 +1,6723 @@
+{
+  "data":[
+  {
+    "address": "0xb35339e4bf2ccea197af9dfef83a229de38bc506",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0xd7e09dd4bf86dc3a3268831d26580c9e9f367b14",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x35663b155ee4113075f9febb685193f7198460d8",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xee0f968b84bfe7312466de1a3d46694828f0fbe7",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xd99b4e46027e4cb8a1ceb64b9f9d12787ea43da5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x3f0258c48161cac50e32ef10dae6e035a5150dcd",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x8f02c32bb06ba42af23e2d55a986a26aeba0b545",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc2673357f1042e6022f509761b041803f86c521b",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x0113e3c16360ca359f7754643a10cfd90f24fd89",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc64e96319366da7d00ef4bc14b42e8b1f3a31f52",
+    "totalTrades": 1328,
+    "profits": -282.2447402334914
+  },
+  {
+    "address": "0x2a544ee7dca6663841ac2956530bbd1bd482e657",
+    "totalTrades": 662,
+    "profits": 84.93518335662814
+  },
+  {
+    "address": "0x196a5b3fc7a7e4fb6627525be8dabb43c66dd8c3",
+    "totalTrades": 274,
+    "profits": 16.118449220598816
+  },
+  {
+    "address": "0x9162a85e01a1863c9fa3549c5d83af1f587f1ac7",
+    "totalTrades": 239,
+    "profits": -4.100030107275695
+  },
+  {
+    "address": "0x2404a39e447d0c8b417049fc42b468a26990b4cc",
+    "totalTrades": 229,
+    "profits": -387.5938528955714
+  },
+  {
+    "address": "0xd1ce6dca191446f3f99b951ad24853074923b101",
+    "totalTrades": 226,
+    "profits": -69.46906047022476
+  },
+  {
+    "address": "0xb1a587ba36c49e37f58c081b7071f4217db3f3ed",
+    "totalTrades": 210,
+    "profits": 18.354020527035004
+  },
+  {
+    "address": "0xa7f3dfed2bcf7b35a8824e11ae8f723650edfb58",
+    "totalTrades": 193,
+    "profits": -17.1061255999524
+  },
+  {
+    "address": "0x408bcc8c6d3e929f707b45fd2a3e4afe8c5c3bbf",
+    "totalTrades": 189,
+    "profits": -7.506047773590317
+  },
+  {
+    "address": "0x008c84421da5527f462886cec43d2717b686a7e4",
+    "totalTrades": 177,
+    "profits": 856.4656120181398
+  },
+  {
+    "address": "0x4a9767e85a4854c0660c38bb254a696eb5e08b7c",
+    "totalTrades": 166,
+    "profits": 8.327184631316992
+  },
+  {
+    "address": "0x6be9fa484fa24fedb0369b6ccb343f9c3a621026",
+    "totalTrades": 155,
+    "profits": -5.089103173342474
+  },
+  {
+    "address": "0xf2153d402f5a5d4ff5ef6bdb815c3c962c9d3e53",
+    "totalTrades": 151,
+    "profits": -109.48732694668594
+  },
+  {
+    "address": "0xdf8d7f7d2d2c25f02a347a001c3ba2cceadbf4c2",
+    "totalTrades": 150,
+    "profits": -18.16762532351043
+  },
+  {
+    "address": "0x54d7a0afda8303eaca8af53de597aba1bed4d3b6",
+    "totalTrades": 136,
+    "profits": 37.37290640114534
+  },
+  {
+    "address": "0x74e3d6152e92b4aa3ed58efecc6985274eb27a93",
+    "totalTrades": 131,
+    "profits": 0.02867854578754579
+  },
+  {
+    "address": "0x204ee2ce359972ae9d6f8dd5162380ca0a62f3f8",
+    "totalTrades": 131,
+    "profits": 0.01700292348557544
+  },
+  {
+    "address": "0xb65bb533b44932a0a64c8cbc11671e81a52fd47c",
+    "totalTrades": 126,
+    "profits": -0.40500049504950497
+  },
+  {
+    "address": "0xe4a8dfca175cdca4ae370f5b7aaff24bd1c9c8ef",
+    "totalTrades": 125,
+    "profits": -150.33854471643235
+  },
+  {
+    "address": "0x3b1364a4989f59cf5b92edc0e2094740862e8494",
+    "totalTrades": 115,
+    "profits": 0
+  },
+  {
+    "address": "0x5725e5a918eedc6f750ffac876230a09fdfabdd4",
+    "totalTrades": 115,
+    "profits": 0.633095140600323
+  },
+  {
+    "address": "0x482df8d3d1a4805a150c3416ea23fe1caebe9c9f",
+    "totalTrades": 114,
+    "profits": 10.844071750368212
+  },
+  {
+    "address": "0x5a84153e40968e93f175a534ee806cdf2c8c51cb",
+    "totalTrades": 106,
+    "profits": -223.44009717669695
+  },
+  {
+    "address": "0x828c6d028d1f804b94e738568be05cdcafc74396",
+    "totalTrades": 97,
+    "profits": -24.10222120918642
+  },
+  {
+    "address": "0x76af50b39de841a048832863e39a3076041dbef4",
+    "totalTrades": 93,
+    "profits": 48.89053668929551
+  },
+  {
+    "address": "0x871930f59563f379f00070dfc59876e05e730f89",
+    "totalTrades": 93,
+    "profits": -2.495016362298719
+  },
+  {
+    "address": "0xbc171a6258a8727d77d639d3079a628c523c6458",
+    "totalTrades": 92,
+    "profits": -0.27626936799026014
+  },
+  {
+    "address": "0xb6a3f13173d04a785358ed19f2fb81dad342f294",
+    "totalTrades": 90,
+    "profits": -27.723351951729065
+  },
+  {
+    "address": "0x6d9d708278877d474319e63b08f8b7440774d720",
+    "totalTrades": 89,
+    "profits": 35.11982616
+  },
+  {
+    "address": "0xcfc16a8d8dfb85524245a7fd27b28ed1ddd1af91",
+    "totalTrades": 87,
+    "profits": 4.1200512728704295
+  },
+  {
+    "address": "0x60dc0b25f6aa160ec8748a52f6c360c213454bd1",
+    "totalTrades": 84,
+    "profits": -13.49272208510446
+  },
+  {
+    "address": "0xc6f776a903cfa54f702ea7daf15cdca45d64f17e",
+    "totalTrades": 83,
+    "profits": -5.938830769414363
+  },
+  {
+    "address": "0xeeab37ed9f0fc208065af1be9a17c343e5e1b0bb",
+    "totalTrades": 82,
+    "profits": 19.026962721718505
+  },
+  {
+    "address": "0x54211dbe3ed2eb60511206daae077b8ebcb9e4dd",
+    "totalTrades": 81,
+    "profits": -0.032697
+  },
+  {
+    "address": "0x28e37925e4e628f37332901a98cfbba66f314b23",
+    "totalTrades": 80,
+    "profits": -59.06346526096642
+  },
+  {
+    "address": "0xa0ada0dc2e8a23b209b18ef5b2a45e962c51bdcf",
+    "totalTrades": 80,
+    "profits": -1311.5291793927836
+  },
+  {
+    "address": "0x9ce8f85083fcf364467a827cb15730102306ed1c",
+    "totalTrades": 80,
+    "profits": 9.323077196581426
+  },
+  {
+    "address": "0x797f63620e62dbc83a5bc88c6a43494ded428cbe",
+    "totalTrades": 80,
+    "profits": -52.64183018131658
+  },
+  {
+    "address": "0x66ba684c60bbff0558b3498d0d657f8bfbcf1360",
+    "totalTrades": 71,
+    "profits": -2.734760826011085
+  },
+  {
+    "address": "0x764f4909251f81976a0a2dcebce95333e4c27517",
+    "totalTrades": 70,
+    "profits": 0.21945
+  },
+  {
+    "address": "0x36df1a9cf97af4ab6dd9669ff6fc715f02e82ef4",
+    "totalTrades": 70,
+    "profits": 0.9130316831683168
+  },
+  {
+    "address": "0xa6d5f47cbb5e4f7412dd12dce162009cf0482405",
+    "totalTrades": 69,
+    "profits": -8.61437220198836
+  },
+  {
+    "address": "0x88a6288370255dbf40af80da260ac95ece7c799f",
+    "totalTrades": 68,
+    "profits": -0.9865882475247525
+  },
+  {
+    "address": "0xb95c5912e1a39394d5714969372bd222f6c2ae70",
+    "totalTrades": 67,
+    "profits": -0.33072721648836145
+  },
+  {
+    "address": "0xef29423a718e4969f48c9218151c31f815985a3b",
+    "totalTrades": 64,
+    "profits": 1.6621004120879121
+  },
+  {
+    "address": "0x5ea770f4e0cd2a27ce236190b3dffbbc205df8bf",
+    "totalTrades": 63,
+    "profits": 4.410619972282002
+  },
+  {
+    "address": "0xafef03f6a77df7c553eb96756ed37e071b0c427c",
+    "totalTrades": 62,
+    "profits": 0.5813173187443101
+  },
+  {
+    "address": "0x64513302e42194fd657800d83a481b603a1647f2",
+    "totalTrades": 62,
+    "profits": -9.967140990784314
+  },
+  {
+    "address": "0x6572340e48fed5285af01a0cf6f1076828d604e7",
+    "totalTrades": 61,
+    "profits": 0.8077702307692308
+  },
+  {
+    "address": "0xcb7d86fdd44b528348a6d73776f3e659be319b55",
+    "totalTrades": 60,
+    "profits": 5.96758815596275
+  },
+  {
+    "address": "0x2e0e74c910edc43b9126d0a37156973575a2aad5",
+    "totalTrades": 55,
+    "profits": -0.312533101010101
+  },
+  {
+    "address": "0x5424a8a250f3ac98f7561b8a0f73ce4d8148f932",
+    "totalTrades": 50,
+    "profits": 0.002191666666666667
+  },
+  {
+    "address": "0x3b93b30ab96492b67b943350e8badceac590e959",
+    "totalTrades": 50,
+    "profits": -0.06011631195010521
+  },
+  {
+    "address": "0x8beed7287bb27b91d013b727b89cb9f576e5c2dc",
+    "totalTrades": 50,
+    "profits": 0.051147142857142856
+  },
+  {
+    "address": "0xdf36d85dff91e9bfdf8b72374849fefbcc73a433",
+    "totalTrades": 48,
+    "profits": -0.040596
+  },
+  {
+    "address": "0x0ff2af96e2a9fe9b4368a17e5c49ba589233017f",
+    "totalTrades": 48,
+    "profits": 3.657010888888889
+  },
+  {
+    "address": "0xca24e1161eae18926b72cccfb4f91075fe44c4b4",
+    "totalTrades": 47,
+    "profits": 16.94055277719715
+  },
+  {
+    "address": "0x4e374c86a11c7704d41ec3ebd7bcadb0210d830f",
+    "totalTrades": 45,
+    "profits": -0.0004
+  },
+  {
+    "address": "0x0977dae40e156a2239e5405ccc8303eb9f6580a9",
+    "totalTrades": 44,
+    "profits": -10.678602735492577
+  },
+  {
+    "address": "0x5051beb48c656f965a3554f9d463719735392446",
+    "totalTrades": 44,
+    "profits": 3.054352498578113
+  },
+  {
+    "address": "0x0b4c1b15103a06ec41e9ef9572c5660ff22f926d",
+    "totalTrades": 43,
+    "profits": -5.000931665
+  },
+  {
+    "address": "0x5bb5b655f04c0e34a4e854092c63a2057818d25e",
+    "totalTrades": 43,
+    "profits": -8.622064
+  },
+  {
+    "address": "0xac75b73394c329376c214663d92156afa864a77f",
+    "totalTrades": 42,
+    "profits": 2.861837
+  },
+  {
+    "address": "0x06c68d04aaaf5da137d4a3be785d388bab9f5c23",
+    "totalTrades": 41,
+    "profits": 2.926199
+  },
+  {
+    "address": "0x265afaf61fc22129e3e8094634a62c2e4d8e9b4d",
+    "totalTrades": 40,
+    "profits": 0
+  },
+  {
+    "address": "0x655a0821de1791c55986b4ba906357d88d7a0c49",
+    "totalTrades": 40,
+    "profits": -0.9234142033822875
+  },
+  {
+    "address": "0xa722504034db80d7d84da55385f147c3d979756d",
+    "totalTrades": 39,
+    "profits": 22.902220979484234
+  },
+  {
+    "address": "0xbf473d6016f15e757c677c7a8cf88e22718b40d2",
+    "totalTrades": 36,
+    "profits": 19.918677908414463
+  },
+  {
+    "address": "0x779fd0fb9a6359f90f57d66317a397230013af18",
+    "totalTrades": 36,
+    "profits": -0.14415898601398602
+  },
+  {
+    "address": "0xe89510442c05d7e4f82d22f6248fff01f1d0c1ee",
+    "totalTrades": 36,
+    "profits": -0.552919557430922
+  },
+  {
+    "address": "0xc5c99da7106e801e5597dd4e4f8f42ee462b67e2",
+    "totalTrades": 36,
+    "profits": 101.8915705646042
+  },
+  {
+    "address": "0x565c4b1054668e392483b6619e36bc3953f92a0e",
+    "totalTrades": 34,
+    "profits": -0.069815
+  },
+  {
+    "address": "0xbfc89627b01b2872b701f48b2b808cb101e4fb20",
+    "totalTrades": 34,
+    "profits": 0.11158078377981495
+  },
+  {
+    "address": "0xa7c7f886700b2d10ce2128487121b84699f41513",
+    "totalTrades": 33,
+    "profits": -4.102475
+  },
+  {
+    "address": "0x2e3a5f60a5590959b068587c47e643e18e7f5cdf",
+    "totalTrades": 33,
+    "profits": 1.6653109799551384
+  },
+  {
+    "address": "0x068f882080da8fcb236de09e4812b9035d7690a6",
+    "totalTrades": 33,
+    "profits": 0
+  },
+  {
+    "address": "0x9ab8bc6affd317092d643e5e4ee652746a46b3f9",
+    "totalTrades": 30,
+    "profits": 59.7927
+  },
+  {
+    "address": "0x935c6a0d1e77ef9bb96d8901c06335aacf1d8433",
+    "totalTrades": 30,
+    "profits": 0.5501475584818885
+  },
+  {
+    "address": "0x9ea17078cee0372cb80e69ea47a6f99d301f69da",
+    "totalTrades": 29,
+    "profits": 0.2218077026035937
+  },
+  {
+    "address": "0x05ef8065310c4e69c15a5d9798e087ad26e261b0",
+    "totalTrades": 28,
+    "profits": 0.927916993006993
+  },
+  {
+    "address": "0x4e6f50e4193a857bb1f43e98a27cb0681b803c46",
+    "totalTrades": 28,
+    "profits": 0
+  },
+  {
+    "address": "0xe541147883bea7d08fdad88e4b154456efd0b29d",
+    "totalTrades": 27,
+    "profits": 4.006704665613922
+  },
+  {
+    "address": "0x13e21e941f695c62a6ff94c466e97bab6e73c846",
+    "totalTrades": 27,
+    "profits": -0.6317600682593857
+  },
+  {
+    "address": "0x78963548eeb3ba9e17ce981474ba30e46255bc5f",
+    "totalTrades": 27,
+    "profits": -45.92976964530892
+  },
+  {
+    "address": "0x99b665bce8f9e64aa6e4b683f6bca14476fe6a34",
+    "totalTrades": 27,
+    "profits": -0.9723777126315789
+  },
+  {
+    "address": "0x314bfdaeff6d6326c1d3b304c6728f8714919371",
+    "totalTrades": 27,
+    "profits": -4.159681755779405
+  },
+  {
+    "address": "0x6f2c94666888a89c6aa9b25f5516a517c264aa29",
+    "totalTrades": 26,
+    "profits": 0
+  },
+  {
+    "address": "0x2029f55fb536090b25c9b2fef86b7b294c5d4c71",
+    "totalTrades": 26,
+    "profits": 0.03365979797979798
+  },
+  {
+    "address": "0x41d3deae4e9cab7de5755992e957f6e775d773ea",
+    "totalTrades": 25,
+    "profits": 8.411109529411764
+  },
+  {
+    "address": "0x6a4bb8a610a8579b6d5453f0da33c295b31d8ed9",
+    "totalTrades": 24,
+    "profits": 9.17420918032787
+  },
+  {
+    "address": "0x7595964c89ed5ec8e47a43b2b57f07c6d83133fd",
+    "totalTrades": 23,
+    "profits": 1.1574102
+  },
+  {
+    "address": "0x434546d2db58f24329b294bd70794493e3e7d284",
+    "totalTrades": 23,
+    "profits": -117.5314339
+  },
+  {
+    "address": "0xd762c7724ab746161559f5f8ce1df81b2c982d14",
+    "totalTrades": 23,
+    "profits": -0.3503123266983769
+  },
+  {
+    "address": "0x4f50d47d20380172746527bbeaa274940c38efac",
+    "totalTrades": 22,
+    "profits": -1.7787504136860652
+  },
+  {
+    "address": "0x65c80c55e7fd03881c79e4da35edcacfe426ab80",
+    "totalTrades": 22,
+    "profits": 6.749448708
+  },
+  {
+    "address": "0x2fdfb9694c66388e2a40844b8944d0ffed718cc9",
+    "totalTrades": 22,
+    "profits": 2.10062
+  },
+  {
+    "address": "0x237419a830ced4824381bf5d4d699dc52509ee1a",
+    "totalTrades": 22,
+    "profits": 0
+  },
+  {
+    "address": "0xcaddd6bdc36ab041fe1bf324c51ffe6e510c2b7b",
+    "totalTrades": 22,
+    "profits": -1.642626295512246
+  },
+  {
+    "address": "0x8dc6569c28521560eaf1890bc41b2f3fc2010e1b",
+    "totalTrades": 21,
+    "profits": -1.1686789402752158
+  },
+  {
+    "address": "0x85d217b7d6cbe9d0e30ac9afedc94cf43d655b0b",
+    "totalTrades": 21,
+    "profits": 12.951413030006856
+  },
+  {
+    "address": "0x4a8b4961e0889182e4277afbb3f0dd83981670cc",
+    "totalTrades": 21,
+    "profits": 2.3577094059232904
+  },
+  {
+    "address": "0x2fe1b703b365f4b75aac45937a8ee6418738a4e9",
+    "totalTrades": 21,
+    "profits": 1.0744740362383596
+  },
+  {
+    "address": "0xe71979c345bf7c0a4e3fe350cf0fd186470d4ddc",
+    "totalTrades": 21,
+    "profits": 5.008349418339077
+  },
+  {
+    "address": "0xce4c0752125b20c5c9adce829c26a44235df9dce",
+    "totalTrades": 20,
+    "profits": -32.6825
+  },
+  {
+    "address": "0xa6f013e5e851668bddac06e6ab2b603fa3e9d7d0",
+    "totalTrades": 20,
+    "profits": 1.4315
+  },
+  {
+    "address": "0xc05067126ca203eb1b90e4a8780b607dd58b23cd",
+    "totalTrades": 20,
+    "profits": 0.027995
+  },
+  {
+    "address": "0xedcf6e153902524079335f22c3e4e971156b7718",
+    "totalTrades": 20,
+    "profits": 2.4824102019590817
+  },
+  {
+    "address": "0x260d45b054bdb6d16fcf5c3d8bb2e5ec4efc7378",
+    "totalTrades": 20,
+    "profits": -3.2863426379220777
+  },
+  {
+    "address": "0x02359349ba115b26fe715c18288c3f19dfe9f1cd",
+    "totalTrades": 19,
+    "profits": 0.20280807692307692
+  },
+  {
+    "address": "0xd03f082c2d343a0423783769e5c7eeb7bce9b9fa",
+    "totalTrades": 19,
+    "profits": -11.961103146853146
+  },
+  {
+    "address": "0x80c8f7216fbcd346376a90fe792f4af89cb2be9f",
+    "totalTrades": 19,
+    "profits": 0
+  },
+  {
+    "address": "0x5b985d300f3aac578bb9bd709da2a21a67cd3d88",
+    "totalTrades": 18,
+    "profits": 1.527763500134255
+  },
+  {
+    "address": "0x62fe1e622b5ab6e1664d79f8b74eae95cb049a1f",
+    "totalTrades": 18,
+    "profits": 14.9695
+  },
+  {
+    "address": "0x3949de8ca762114ab0f82b44a84ee2062a08e0f6",
+    "totalTrades": 18,
+    "profits": 3.50422865
+  },
+  {
+    "address": "0xb7398dfc1f50e1dbb21eb699578b792c72856e94",
+    "totalTrades": 18,
+    "profits": 8.339948694719473
+  },
+  {
+    "address": "0x4feb4ac714d209485d3a378923481660d8b051c1",
+    "totalTrades": 18,
+    "profits": 0
+  },
+  {
+    "address": "0x503fa70b5365978cc6d1784f78983bbe6f041f43",
+    "totalTrades": 17,
+    "profits": 4.541619499771992
+  },
+  {
+    "address": "0x1e047bdd87452341380eef05dbbe72627a4c28f5",
+    "totalTrades": 17,
+    "profits": -3.297699
+  },
+  {
+    "address": "0xc408b87d105a33a4632f2be35f234f6bdbdccd32",
+    "totalTrades": 17,
+    "profits": -2.487719962962963
+  },
+  {
+    "address": "0x4f91c8f1a325f261297ec8c7ff018945ff782ea7",
+    "totalTrades": 17,
+    "profits": 1.185598319327731
+  },
+  {
+    "address": "0x8a591e12b71a8ca156f79529c7e4a3c4997af982",
+    "totalTrades": 17,
+    "profits": 0.00249479696394687
+  },
+  {
+    "address": "0x309b38ec83f03f55822b424c42d9e3a7404e5e53",
+    "totalTrades": 17,
+    "profits": 68.479675
+  },
+  {
+    "address": "0x527a005b89175915221726c2288e02dce73e57d5",
+    "totalTrades": 17,
+    "profits": 0
+  },
+  {
+    "address": "0x798c6c843b9def39b1fc3d7b7aa7a60b5d5dc306",
+    "totalTrades": 17,
+    "profits": 0.07899
+  },
+  {
+    "address": "0x7224da96cd08cac1fef0d08c2f1a93451fb9d86c",
+    "totalTrades": 16,
+    "profits": -0.221982
+  },
+  {
+    "address": "0xdcd0964cf350c4c59ca329c735069f564ab657f7",
+    "totalTrades": 16,
+    "profits": 0.96151
+  },
+  {
+    "address": "0xf048539f3dc5ebe5c1f8bc9e7f37a106f25f55c9",
+    "totalTrades": 16,
+    "profits": -2.8710414285310186
+  },
+  {
+    "address": "0xee7b084f35a9dcd02ba3b80e59a33676124cf67c",
+    "totalTrades": 16,
+    "profits": 0.925742123
+  },
+  {
+    "address": "0x6b89d6110213a0ecfe8d6ad4c819faf1bf8d31f0",
+    "totalTrades": 16,
+    "profits": -52.725165025925925
+  },
+  {
+    "address": "0xd4152242dc4cbd950f521d312859626fcc7811d1",
+    "totalTrades": 16,
+    "profits": 0.069946685
+  },
+  {
+    "address": "0x3ca8322fb489755a9841ead9e3959f6ba185ab7f",
+    "totalTrades": 16,
+    "profits": 1.4243591392215948
+  },
+  {
+    "address": "0xb8a501e8c738470230ff13a9b81877d46d93b037",
+    "totalTrades": 16,
+    "profits": 0.1939598667998668
+  },
+  {
+    "address": "0x522273122b20212fe255875a4737b6f50cc72006",
+    "totalTrades": 16,
+    "profits": -0.48505414851485146
+  },
+  {
+    "address": "0x4c7f12fa7681dccbe876f20a9391737ce84587f7",
+    "totalTrades": 16,
+    "profits": 0.35293
+  },
+  {
+    "address": "0xf62b6d44701cabbb319b280f50c886ae887fba4f",
+    "totalTrades": 16,
+    "profits": -2.35683
+  },
+  {
+    "address": "0x31026b483ce8b61ca0acdbe7cb96fd8b83246406",
+    "totalTrades": 16,
+    "profits": 0
+  },
+  {
+    "address": "0x6b5d5098041decf17a614e2c5c693dad2194b2ec",
+    "totalTrades": 16,
+    "profits": 1.2033556673439227
+  },
+  {
+    "address": "0x26f38d84ab7669760cd0365c334d6fe44dc20d67",
+    "totalTrades": 15,
+    "profits": 2.536735077305248
+  },
+  {
+    "address": "0xae49bb6908cbce30264fd061272098f40a80e442",
+    "totalTrades": 15,
+    "profits": 0.2723752972972973
+  },
+  {
+    "address": "0xf60df5349575ddfb04145463cec401ba296d9cd2",
+    "totalTrades": 15,
+    "profits": -5.418048
+  },
+  {
+    "address": "0xfd26cc17e168f8f5d19f62652900dc9932964e4c",
+    "totalTrades": 15,
+    "profits": 0.51675
+  },
+  {
+    "address": "0x3918b8bb581b4320374cbffcdde51c7b92d3a22a",
+    "totalTrades": 15,
+    "profits": 0.9373337525336857
+  },
+  {
+    "address": "0x8b80028c8c644c7de49031aefa327b75c29f65b0",
+    "totalTrades": 15,
+    "profits": -0.07634954198473283
+  },
+  {
+    "address": "0xbde4cd4edeb6ae5824f7a9f64ddc4c5e87ba6b6f",
+    "totalTrades": 15,
+    "profits": 2.557935
+  },
+  {
+    "address": "0x2b555c64f7bdf8d26a0d4065ce872e6ce1830257",
+    "totalTrades": 15,
+    "profits": 6.220340789237668
+  },
+  {
+    "address": "0xcd035fb07a3b4447ede73ac52a003af7f5939338",
+    "totalTrades": 15,
+    "profits": 0
+  },
+  {
+    "address": "0xae4c8e01a55c70074a25f51f7d920dc4ce915f82",
+    "totalTrades": 15,
+    "profits": -44.69575
+  },
+  {
+    "address": "0xdebbd37ac845b0e6f6bb69070154de4b68b4d733",
+    "totalTrades": 15,
+    "profits": -8.965641501618123
+  },
+  {
+    "address": "0x693700426689bd9f3ee08ac7817a50b34130715e",
+    "totalTrades": 14,
+    "profits": -46.66954419577397
+  },
+  {
+    "address": "0x19abba5b16da8cb9ed8a9a02c6c6a8caf51e7ffc",
+    "totalTrades": 14,
+    "profits": 44.09688365934336
+  },
+  {
+    "address": "0xe6488bae39b5ad6d2a110ccf40e3c9468ac26f80",
+    "totalTrades": 14,
+    "profits": 0
+  },
+  {
+    "address": "0x6c92f15f63717855be3d4cafb92d1f3f87789138",
+    "totalTrades": 14,
+    "profits": 0
+  },
+  {
+    "address": "0xa43e1f801c4bb3d01fdd768c47bdebc2754206a2",
+    "totalTrades": 14,
+    "profits": 136.62581926198285
+  },
+  {
+    "address": "0x5782089bd69c5b09487dc23c930eb21f6d1c3cbb",
+    "totalTrades": 14,
+    "profits": 0
+  },
+  {
+    "address": "0xbdd10dbde93c7abc8f37d0947cdfa311af0a8906",
+    "totalTrades": 14,
+    "profits": 0.026976803921568628
+  },
+  {
+    "address": "0x29b7d45fa8d81a2b9bd51f7a903a91f54d04f0d7",
+    "totalTrades": 14,
+    "profits": 0.282690990990991
+  },
+  {
+    "address": "0xc58a5adec44375d0dfd0a74cd66ae7d51ac8f3de",
+    "totalTrades": 14,
+    "profits": 2.9393531652661062
+  },
+  {
+    "address": "0x0206e1db86b852a4d1dd5926ab07b2f9117fa115",
+    "totalTrades": 14,
+    "profits": 1.8550025806451613
+  },
+  {
+    "address": "0x412440218ca88c4f31cd9f0b712ec39d0417b042",
+    "totalTrades": 14,
+    "profits": -0.05609
+  },
+  {
+    "address": "0x5095cddde33844b9a7745e94bd3b41f1f4824266",
+    "totalTrades": 14,
+    "profits": 0.68549
+  },
+  {
+    "address": "0x37e519928ba0237c8c3cfacc417d8d9699849872",
+    "totalTrades": 14,
+    "profits": 0
+  },
+  {
+    "address": "0x221c00219db54293970dfe3fbcdc8f00c98e2f81",
+    "totalTrades": 13,
+    "profits": 0.0225
+  },
+  {
+    "address": "0x260f180cfaa31e8a615545767461d4a0d72902e4",
+    "totalTrades": 13,
+    "profits": -9.339266666666667
+  },
+  {
+    "address": "0x35e537c0085db5681daaaa4866eb3d7537b16631",
+    "totalTrades": 13,
+    "profits": 0.34286
+  },
+  {
+    "address": "0x4d152fdae6d54579736fdc10aacd92a6affb55a8",
+    "totalTrades": 13,
+    "profits": 0
+  },
+  {
+    "address": "0xcc8714ef555346c73bc02367923c490a53170e04",
+    "totalTrades": 13,
+    "profits": -34.5001
+  },
+  {
+    "address": "0xf733454bb020b76cfc9c4ad80367bab412edbffb",
+    "totalTrades": 13,
+    "profits": 1.08083501
+  },
+  {
+    "address": "0x31a727b710882004c0248ff32290f51073489a81",
+    "totalTrades": 13,
+    "profits": 0.6864
+  },
+  {
+    "address": "0x9165828cd2a889b04e4a2d340f77591fc947fc79",
+    "totalTrades": 13,
+    "profits": 0.15505166666666667
+  },
+  {
+    "address": "0xd6756d55ee43b61d3362c0678fbba85d755e659c",
+    "totalTrades": 13,
+    "profits": 0
+  },
+  {
+    "address": "0x3a7db224acae17de7798797d82cdf8253017dfa8",
+    "totalTrades": 13,
+    "profits": -16.79995
+  },
+  {
+    "address": "0xa46f905017692c832618faf5fce3a7c4fa335591",
+    "totalTrades": 13,
+    "profits": 0.6974285106382979
+  },
+  {
+    "address": "0xe1face394e1ea49508fb898833f0f4059a76d87c",
+    "totalTrades": 13,
+    "profits": 1.468871
+  },
+  {
+    "address": "0xd8e80673419acfbf15bf8eb0239cda90f232051f",
+    "totalTrades": 13,
+    "profits": 0.3130980769230769
+  },
+  {
+    "address": "0x35e2e4c306ddfcebe7aecf8da0858033710f5ebd",
+    "totalTrades": 13,
+    "profits": 0.716798
+  },
+  {
+    "address": "0x485167ec3ab781acf5f13633681210820fc6e448",
+    "totalTrades": 13,
+    "profits": -0.15720020202020202
+  },
+  {
+    "address": "0x29fb67819120057dcc0f141c59f7281860f6c643",
+    "totalTrades": 13,
+    "profits": -0.05499
+  },
+  {
+    "address": "0x700d0f52be88c9c484e92b0e7e687831b226a1e9",
+    "totalTrades": 12,
+    "profits": -0.18064955555555556
+  },
+  {
+    "address": "0x4f52735e6bbdf7985017d16ca328dbe71c02d0c6",
+    "totalTrades": 12,
+    "profits": 2.6000853007688827
+  },
+  {
+    "address": "0xd84bc467a6642b11c3df7001bf94485c742844a1",
+    "totalTrades": 12,
+    "profits": -0.9867976923076923
+  },
+  {
+    "address": "0x2cb9b31161a6d998b4af53de054f9dcfa74cf4e5",
+    "totalTrades": 12,
+    "profits": 0
+  },
+  {
+    "address": "0x003d1e506652cf80136c56273fc483affc6a8970",
+    "totalTrades": 12,
+    "profits": -0.11959881362763916
+  },
+  {
+    "address": "0xefaa3a2d1c8b26fefc1dfd1285c8e35f588e34a5",
+    "totalTrades": 12,
+    "profits": 0.1133
+  },
+  {
+    "address": "0xff684104992bd26b6326bca4620d733526c0ddb1",
+    "totalTrades": 12,
+    "profits": 0.22995
+  },
+  {
+    "address": "0xb6650387a46d9808d1b320ce23006ba2b0d900f7",
+    "totalTrades": 12,
+    "profits": -0.0616096
+  },
+  {
+    "address": "0xd6d48727d8835b73f8dc511a5baaf3445a6f65c9",
+    "totalTrades": 11,
+    "profits": 0.22823289898989899
+  },
+  {
+    "address": "0xd3e056ac4ac3da5160e7ed8dc48c1ab172654fb6",
+    "totalTrades": 11,
+    "profits": -0.057033050420855345
+  },
+  {
+    "address": "0x8fe436bd1cd783cda05107bc11e65872cb57201d",
+    "totalTrades": 11,
+    "profits": -0.6659014133663367
+  },
+  {
+    "address": "0x89d678a17dba68b8f9834a7c1312ee840d514a32",
+    "totalTrades": 11,
+    "profits": 0
+  },
+  {
+    "address": "0x47c3c38c009c97e214be524d05b887b2bb455e91",
+    "totalTrades": 11,
+    "profits": -0.00724
+  },
+  {
+    "address": "0xf09c6cd78e086ef83b441eae6175d929e4f3ef90",
+    "totalTrades": 11,
+    "profits": 1.4291967250004594
+  },
+  {
+    "address": "0xde7f3d23019207567344a266f358d0a863124975",
+    "totalTrades": 11,
+    "profits": 0.46973
+  },
+  {
+    "address": "0x03b4afbfe0e925ed2ed7521778753392a552fa2f",
+    "totalTrades": 11,
+    "profits": -1.325134
+  },
+  {
+    "address": "0xc76a5101d8b5a66d2edbdc4909c774c65b1fbbf0",
+    "totalTrades": 11,
+    "profits": 0.35
+  },
+  {
+    "address": "0x90f9f22dd034da42defcb6866b854ecb45ed6d16",
+    "totalTrades": 11,
+    "profits": 0
+  },
+  {
+    "address": "0x1d8b26ba8fb768d14fa9dcd20e85b9e639c963d5",
+    "totalTrades": 11,
+    "profits": 0.0527
+  },
+  {
+    "address": "0x448a380e3ed48de270972fa9b37fa6f687210bfc",
+    "totalTrades": 11,
+    "profits": 0.01549
+  },
+  {
+    "address": "0x7f84272a27b831ecce7a7c17605813718a1c1c2c",
+    "totalTrades": 11,
+    "profits": -0.35764
+  },
+  {
+    "address": "0x2cffaf39f38e46356083cee0df3b92496fde85d8",
+    "totalTrades": 11,
+    "profits": 0.169390900990099
+  },
+  {
+    "address": "0xab13d11df1a25e88acaf2ab32a92c0aa33e08034",
+    "totalTrades": 11,
+    "profits": 1.6853689066666666
+  },
+  {
+    "address": "0x4d3cf44dafcd4c1716308a3bc2fd53bc00ca7e21",
+    "totalTrades": 11,
+    "profits": -0.2719197619047619
+  },
+  {
+    "address": "0x5f4b7d6cc4ee935f48e4ae4cdefc3b96dfce0550",
+    "totalTrades": 11,
+    "profits": -2.035625
+  },
+  {
+    "address": "0xc74ba01e29d907d189df77be4f5ba4451d3608a1",
+    "totalTrades": 10,
+    "profits": -0.0725
+  },
+  {
+    "address": "0x01c2a3c5629ea4ee16ff6926ced09ac82ee6a256",
+    "totalTrades": 10,
+    "profits": 0
+  },
+  {
+    "address": "0xe46adf6764bb61553eb686b7bc6b3b0b98d99a8c",
+    "totalTrades": 10,
+    "profits": -0.10694354838709677
+  },
+  {
+    "address": "0x74d2e9655506622afcb37410e929f60d55af536c",
+    "totalTrades": 10,
+    "profits": 0.8333
+  },
+  {
+    "address": "0x28798b8a047f39a421319a610a3fb3b78fc2ea70",
+    "totalTrades": 10,
+    "profits": 0.4265572487842457
+  },
+  {
+    "address": "0x6c0d86058974c7a1216c778904a676371969b772",
+    "totalTrades": 10,
+    "profits": 0.6219903684210526
+  },
+  {
+    "address": "0xd98e44d09660a89022515d6d41662d05a14253e7",
+    "totalTrades": 10,
+    "profits": 0.93095
+  },
+  {
+    "address": "0xc6f6c89f7f297b5230d2fd028ac06f0677c1857b",
+    "totalTrades": 10,
+    "profits": 0.16
+  },
+  {
+    "address": "0xaf71d0d1ec6304b83171f7d280b87276055dc77b",
+    "totalTrades": 10,
+    "profits": 0
+  },
+  {
+    "address": "0xc74a73576f9ca7c88c905edcc5f0f5f339d52380",
+    "totalTrades": 10,
+    "profits": 0
+  },
+  {
+    "address": "0x5d47e871f81f84d3154aec772bcce14973112c69",
+    "totalTrades": 10,
+    "profits": 0.005899
+  },
+  {
+    "address": "0xc454e2b4ebb3c74b2caf83e74067a8055b375e4e",
+    "totalTrades": 10,
+    "profits": 0
+  },
+  {
+    "address": "0x713558113b03e1a110e45270af50e7b024b65d2e",
+    "totalTrades": 10,
+    "profits": -0.434060633030303
+  },
+  {
+    "address": "0x6a53cb71c0fd26f9c73619a2cba70bee3a50964a",
+    "totalTrades": 10,
+    "profits": 5.426548
+  },
+  {
+    "address": "0xfb28b2804f9fa794492acab04be3942aac15b338",
+    "totalTrades": 9,
+    "profits": -0.010099
+  },
+  {
+    "address": "0xcdf0703df91e8298a41b9a7e96a6e299c21e9630",
+    "totalTrades": 9,
+    "profits": 0.6190363636363636
+  },
+  {
+    "address": "0xfe4f3bed602817ba91c76eec5364f2180a36d780",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0xf1d1810eb1976f70fcd55f7085a7c28ff73ca239",
+    "totalTrades": 9,
+    "profits": 0.014245
+  },
+  {
+    "address": "0x6c5d5a530d24113595f0814452369a9d096c4a23",
+    "totalTrades": 9,
+    "profits": 0.036788
+  },
+  {
+    "address": "0xa25179297a3e6b19d1e055cc82db924c8c2096e1",
+    "totalTrades": 9,
+    "profits": 0.6645102040816326
+  },
+  {
+    "address": "0x4dea7ade12bcc24b5b00847bc8f868d87b60ab54",
+    "totalTrades": 9,
+    "profits": -0.482
+  },
+  {
+    "address": "0x3fc53fa09b714ea206c3d5b260fb7c826efbc9ba",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0x631824bc2297d8cfcdad27e244014c0c0e581044",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0x72fa333420493384cdf6acd2ca60d83083e61225",
+    "totalTrades": 9,
+    "profits": -0.007602618796992481
+  },
+  {
+    "address": "0x711c8784c81cb974d8deaec7007b6232a2f600be",
+    "totalTrades": 9,
+    "profits": 0.10798
+  },
+  {
+    "address": "0x90c4ed3465eb4b9954fa35e607916892ddbb6779",
+    "totalTrades": 9,
+    "profits": -0.00878752
+  },
+  {
+    "address": "0x22204f13489b373cc0a591d5639e30fde2a44ae9",
+    "totalTrades": 9,
+    "profits": -0.00025
+  },
+  {
+    "address": "0x300cded87cd0ac8c2a9eaa5bbc82962c9eb6f24b",
+    "totalTrades": 9,
+    "profits": 6.29365
+  },
+  {
+    "address": "0x8d333bf18953ad868382b4dedc3ffad192dd604f",
+    "totalTrades": 9,
+    "profits": 0.5558104682475
+  },
+  {
+    "address": "0x186012a8113ee615adc31c322a2ede7e4e9cc73f",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0xdbaa5f211aefcd1161b785b336e3818a19d98be9",
+    "totalTrades": 9,
+    "profits": 0.188574
+  },
+  {
+    "address": "0xc2707568d31f3fb1fc55b2f8b2ae5682eaa72041",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0x59aa1825b43e1affc0b0e03156ef8c7c268aba12",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0xbe6e33d4978cc99ac2306fdfb8fee93ef3b4593a",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0x352106adde87021bb4f599693bba5883d1827eb5",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0x6e5b957b8d498fc514f3b47c48ff6eed60c00c75",
+    "totalTrades": 9,
+    "profits": -0.4942848
+  },
+  {
+    "address": "0xf099af14e04fbf64f76ac560e98284d6e95ebe56",
+    "totalTrades": 9,
+    "profits": 0.1805246012345679
+  },
+  {
+    "address": "0x493b5cffc19804e8fa2883bd7e567d40027a5744",
+    "totalTrades": 9,
+    "profits": 0
+  },
+  {
+    "address": "0xa9f77714099d055483319a3d6919665d162c99a5",
+    "totalTrades": 8,
+    "profits": -0.03
+  },
+  {
+    "address": "0xbcbc8286c1b485f5e13220286b098b0db04d076c",
+    "totalTrades": 8,
+    "profits": 0.593592
+  },
+  {
+    "address": "0x83f9607fabfe9f63ae132447a39552c26b7bcd62",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0x87327889924c7694878939935b21c5beb964d378",
+    "totalTrades": 8,
+    "profits": -14.204556451612904
+  },
+  {
+    "address": "0xbbcb14ad126eaa51a352928138d83308c274ddb0",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0x5844fe58513afe1f1147fe1608a79551774b5dc8",
+    "totalTrades": 8,
+    "profits": -1.467372
+  },
+  {
+    "address": "0x002f9caf40a444f20813da783d152bdfaf42852f",
+    "totalTrades": 8,
+    "profits": 0.125
+  },
+  {
+    "address": "0xf10efd52a9f9f434b316963a87dfd4104a33cad0",
+    "totalTrades": 8,
+    "profits": 1.25
+  },
+  {
+    "address": "0xd68a8e743ad94769c2e625622511ddc9e540f486",
+    "totalTrades": 8,
+    "profits": -0.4259142857142857
+  },
+  {
+    "address": "0x23e745ad92a907c912321c17dd1355e5bc057040",
+    "totalTrades": 8,
+    "profits": 0.198125
+  },
+  {
+    "address": "0x27f1e785ba024894241ea8e4d9c89ad9e6f1130a",
+    "totalTrades": 8,
+    "profits": 0.080523
+  },
+  {
+    "address": "0xed9259c00f0b55562da66c1f947f52ecb951c9d6",
+    "totalTrades": 8,
+    "profits": 0.6796622972972973
+  },
+  {
+    "address": "0x121667b6690f5040c672c3df912a5aaf8735ca23",
+    "totalTrades": 8,
+    "profits": -0.26858
+  },
+  {
+    "address": "0x1ce1c8d9fdc8044f6fd73d95bf894a70cbe9f09e",
+    "totalTrades": 8,
+    "profits": 2.2218346153846156
+  },
+  {
+    "address": "0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab",
+    "totalTrades": 8,
+    "profits": -20.29645
+  },
+  {
+    "address": "0x9cb9ccae1658bc7c2fe84600a6487f25091dcf37",
+    "totalTrades": 8,
+    "profits": 0.002416666666666667
+  },
+  {
+    "address": "0x77bed8137d3c1640d0f45e5cd1be92291d22f7d3",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0xfdae0a43d0a26befb74ad531b83f285e40b3abab",
+    "totalTrades": 8,
+    "profits": 1.4640820987654322
+  },
+  {
+    "address": "0xaead03169f705178659760f6cba9b2e297d699d4",
+    "totalTrades": 8,
+    "profits": -0.09989
+  },
+  {
+    "address": "0x29d8d46307144b8853ff0282d106a8760a1b93cc",
+    "totalTrades": 8,
+    "profits": -0.076
+  },
+  {
+    "address": "0x59d6b8a070da3376a7fa6b940378bb7423a71787",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0x2958db51a0b4c458d0aa183e8cfb4f2e95cf6e75",
+    "totalTrades": 8,
+    "profits": 0.056666666666666664
+  },
+  {
+    "address": "0x07745055ffdc79030baef06eb4ee3ec9d7a0fbf4",
+    "totalTrades": 8,
+    "profits": 1.5662548484848484
+  },
+  {
+    "address": "0xc66447deac9c0b3031e6bb90d7c5095106ddc680",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0xfb13dbc9220bf56ec39cb521d9fb41b1680c97e9",
+    "totalTrades": 8,
+    "profits": -0.5771991938369516
+  },
+  {
+    "address": "0x9e14d28f2927cf2b16121e2d05eb427c7c9abdd8",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0x79eb84349bff7e7bce403d0b69e96de33ab0765b",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0xe1ddb1d515714c07a333767a3b30ab51bb52c201",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0x63318e1d2c1fce30bbd0fdc94a446b9629efd6bb",
+    "totalTrades": 8,
+    "profits": -0.0384
+  },
+  {
+    "address": "0xb2df2d124cc5a4c9e3eaeb9719ce2dcec88e9194",
+    "totalTrades": 8,
+    "profits": -0.23184313725490197
+  },
+  {
+    "address": "0xff81fbfd295f9186aff9e3c39d091ebb7d821725",
+    "totalTrades": 8,
+    "profits": 0.09705502997002997
+  },
+  {
+    "address": "0x7fbd882dfdc9cc579cff3f961a531394b505271f",
+    "totalTrades": 8,
+    "profits": 1.3897
+  },
+  {
+    "address": "0xbf684332aa378f9ae03255755dcf1fdeeadbab76",
+    "totalTrades": 8,
+    "profits": 0
+  },
+  {
+    "address": "0x4312dd27c04c2137e3f3f1c917224adecc3d0aee",
+    "totalTrades": 7,
+    "profits": -8.405842986488365
+  },
+  {
+    "address": "0x267c3ca6e21d037d9b311796bd7c5d7b9ddb1af0",
+    "totalTrades": 7,
+    "profits": 0.03
+  },
+  {
+    "address": "0x0cdb60476a7f09d7be1d12810053f757c393a595",
+    "totalTrades": 7,
+    "profits": -0.05050207901907357
+  },
+  {
+    "address": "0x00007bbf3344d361d747ede05548f55153280004",
+    "totalTrades": 7,
+    "profits": -0.1323529411764706
+  },
+  {
+    "address": "0xecabc67c5db9a603babb8a77a51cb67a782076dd",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x7ffc6bfecd83549d92c76ac0db87c50a1ebfc15a",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x08661d81d03b74a88bcf680e3e5eef2bd277caba",
+    "totalTrades": 7,
+    "profits": -1.1899
+  },
+  {
+    "address": "0x5dbccbcedfce48e4db487364ad7a6d944df04913",
+    "totalTrades": 7,
+    "profits": 0.48375
+  },
+  {
+    "address": "0xb30df44ff96217a52c30040a14d26261740fde2f",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x871b936c2d63cd453c82833731c2aff3ab8c8b1c",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0xb0e15dab13eacaca49c61ca6a221252c7120905f",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x3df39eb04417cf15c030759066a2a98209c5d53c",
+    "totalTrades": 7,
+    "profits": 0.271993
+  },
+  {
+    "address": "0xda9162677274b13c6c0a863ee8fba21b9fd2fa4a",
+    "totalTrades": 7,
+    "profits": -0.038
+  },
+  {
+    "address": "0x95e7cf5d4e76e07ff8cf35d7fb30df7658077b3c",
+    "totalTrades": 7,
+    "profits": -0.10319909090909091
+  },
+  {
+    "address": "0x305c2f32c32de5021f07f518623be16af8cb1f6b",
+    "totalTrades": 7,
+    "profits": 0.02497
+  },
+  {
+    "address": "0x689646a3f1f3e4c8943e77ae68e09d44b77789fb",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0xbbc818f10b2bd5d4ae1a8e3717f6324acee6ec1f",
+    "totalTrades": 7,
+    "profits": -0.027996
+  },
+  {
+    "address": "0x3cc3dccb5f8437de3e2d34e0ca11d56c2530db1c",
+    "totalTrades": 7,
+    "profits": -0.032007
+  },
+  {
+    "address": "0x579cb6dd7eb6c285048d9c9beb04f74e023150a0",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x241bfb817a3a2e2a99c7df5f14fe7aeecb33b9bd",
+    "totalTrades": 7,
+    "profits": 0.1320631512605042
+  },
+  {
+    "address": "0x918d7703600159c3623e1d072b22910e756a3d4e",
+    "totalTrades": 7,
+    "profits": 0.0315
+  },
+  {
+    "address": "0x44255c4cf957595aaf3b756e3872b906479cd7f4",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x3cc729e9cd6521e3e97cffc17a60005f1e78e5ac",
+    "totalTrades": 7,
+    "profits": -0.957225
+  },
+  {
+    "address": "0xa428979a2972db51648a4c8f8391bff57d4599de",
+    "totalTrades": 7,
+    "profits": 0.3101881818181818
+  },
+  {
+    "address": "0xbccd3ec612e0fb55484396cdcb6cd803f38c0341",
+    "totalTrades": 7,
+    "profits": 1.182709484848485
+  },
+  {
+    "address": "0x27ef256c2e9b18977d73b0c14b33901255b37a9a",
+    "totalTrades": 7,
+    "profits": 0.4639888235294118
+  },
+  {
+    "address": "0xd2f35fc3ebc5ba2eba8df389790583c64d9e4659",
+    "totalTrades": 7,
+    "profits": 0.05268727272727273
+  },
+  {
+    "address": "0x8ad05dfa9330d3f3af88a19ccb35752e15fc2f33",
+    "totalTrades": 7,
+    "profits": -0.002466
+  },
+  {
+    "address": "0x71180cc386560843ac0a6f351ba979ad379fe46b",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x1f670d969e389adffa85898eb18d14ff7e43ea16",
+    "totalTrades": 7,
+    "profits": 1.2045798
+  },
+  {
+    "address": "0xa2b08af6398647bafe85a8a85757a94659881b35",
+    "totalTrades": 7,
+    "profits": 9.784204
+  },
+  {
+    "address": "0x06ec2f2c6521101565b8b833a763dd1b41210956",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x31132888d62bbcf35b702123b8a8a37db411185a",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0xfe5a65645f2dc8fa5fbcdb7a578ee65dbaa3476d",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0x06fe45706315a6fb700be07936ba53d06a682c96",
+    "totalTrades": 7,
+    "profits": 0.002235
+  },
+  {
+    "address": "0xac904e3ae9128592a8d8ec91adce25aec177633a",
+    "totalTrades": 7,
+    "profits": 0.45224440007692307
+  },
+  {
+    "address": "0xd21b32470e1206e67cb3022e5fe1bbb494dd1aa5",
+    "totalTrades": 7,
+    "profits": -8.625374227272728
+  },
+  {
+    "address": "0x20964d4647782a528b0737d3e8e9042ec0e58439",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0xe1447914f234eb30f8725b2f564e60a655e39cc0",
+    "totalTrades": 7,
+    "profits": -0.024294
+  },
+  {
+    "address": "0xd4c11f913474b16933bb2699eb047465324d7ff1",
+    "totalTrades": 7,
+    "profits": -0.150025
+  },
+  {
+    "address": "0x22d94157d46867f25a488d7b1ef9380d53bbb2c8",
+    "totalTrades": 7,
+    "profits": 0
+  },
+  {
+    "address": "0xc497d39aa0489ab1b12c44fd69d4d7ec14dfb08d",
+    "totalTrades": 6,
+    "profits": -0.0449
+  },
+  {
+    "address": "0xb5a6281343b51828595049e45211b7a868573efc",
+    "totalTrades": 6,
+    "profits": 0.17795754954954954
+  },
+  {
+    "address": "0xb4ef672ad6775a14691053f34a83925e3f35a8d2",
+    "totalTrades": 6,
+    "profits": 0.00577385
+  },
+  {
+    "address": "0xc91e620d3d2b43c82ac8377fa2259783dd983618",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x3edc08fc9322951c9837f1c6f9acc976b7ef3268",
+    "totalTrades": 6,
+    "profits": -0.8751408
+  },
+  {
+    "address": "0x1ef2a5e67e16ff35d32102730b478cda4503a6cb",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x485e56fcea2f2d8b43af4b757957d7279edc0192",
+    "totalTrades": 6,
+    "profits": 0.012465
+  },
+  {
+    "address": "0x51e23ac2911cf098c47f79be64795efbfd2cc892",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0xf43d1be79e59df4912f5274c25668e1861462aa1",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x1492272d8252c7afa9ec63d905dccf3a2aab4d6b",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0xb7a8b32870a0d6be98f57a3759b823ced4695116",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x73cf835339731e7d04a5074a879e64f3b45e8575",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x70313ccf3f5b2b7092c0427193a1cc6e73f5c609",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x04b86367f55fd8ab6a9bdc9260683914cbdd50d9",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0xaff57fe8bbc9cc6aec3fd21e8388d2a11efaf371",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0xb4be7b07492d6b09d84d1aa73063c5023d73d278",
+    "totalTrades": 6,
+    "profits": -0.0559
+  },
+  {
+    "address": "0x363adbdfee6f7dbab16044ee90bc702d5e4928bb",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x317c849e79c14a6604a9160a1ceb9f93cae69691",
+    "totalTrades": 6,
+    "profits": -0.0050989
+  },
+  {
+    "address": "0xbc99bf34571a5aff76d1653612bf8a55dad8a75b",
+    "totalTrades": 6,
+    "profits": 1.84687
+  },
+  {
+    "address": "0xe16090c7cf3b2908c7cbb9833d30a0e473d3db78",
+    "totalTrades": 6,
+    "profits": -0.179982
+  },
+  {
+    "address": "0xb695496f2687e3617ebe725860b38f16f3f787b8",
+    "totalTrades": 6,
+    "profits": 0.4299
+  },
+  {
+    "address": "0x2d4a050ab8e0019e908689b100d8b146179c7d39",
+    "totalTrades": 6,
+    "profits": -0.0420095
+  },
+  {
+    "address": "0xaf20e5fa83537af33eeb55ce91ae384ec1c2c8e7",
+    "totalTrades": 6,
+    "profits": 0.016495
+  },
+  {
+    "address": "0xbfbb69616cc3d04eb540da65111bfc686990b59b",
+    "totalTrades": 6,
+    "profits": -0.2403
+  },
+  {
+    "address": "0x6c0f58ad4eb24da5769412bf34ddee698c4d185b",
+    "totalTrades": 6,
+    "profits": 0.0091
+  },
+  {
+    "address": "0x4cf712b5fe1591f0d87c84ddd2a21daba4218d36",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x21347d076e7e06e70d367af48ebeefee8e319185",
+    "totalTrades": 6,
+    "profits": -0.052
+  },
+  {
+    "address": "0x055da512dae6f71eaac4375374bde485a909258e",
+    "totalTrades": 6,
+    "profits": -0.0016185714285714286
+  },
+  {
+    "address": "0xbe131dc80f5727744487e10355f667f5849757f4",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x99a5d4314ed87d82b987126839c28838e5c7a859",
+    "totalTrades": 6,
+    "profits": -0.06092
+  },
+  {
+    "address": "0x4825a0225436a091c54450c070154a453ac64cbb",
+    "totalTrades": 6,
+    "profits": -2.5515
+  },
+  {
+    "address": "0x1321899fdb787053189bb5876c71da96a170835e",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0xef7f867af009c0f311f85d12142b0423cd8ad72b",
+    "totalTrades": 6,
+    "profits": -0.32697
+  },
+  {
+    "address": "0xd7f51d7c77871336a37d3ceb82b33701cb6fff41",
+    "totalTrades": 6,
+    "profits": -28.261400809716598
+  },
+  {
+    "address": "0x3f43fb0e8760d8f8ca46e08920636af1b902cbeb",
+    "totalTrades": 6,
+    "profits": -3.07467
+  },
+  {
+    "address": "0x28f6f557ea41cdd5adc70d4b3fb8f6a4a6192c11",
+    "totalTrades": 6,
+    "profits": -0.476276
+  },
+  {
+    "address": "0x9a7a7d381f0fb1bcf0f521207ef124bde9346a4c",
+    "totalTrades": 6,
+    "profits": 0.6959
+  },
+  {
+    "address": "0xbb0f03e0f8a75620f9d052e3bf788507c3787b08",
+    "totalTrades": 6,
+    "profits": 0.01986818
+  },
+  {
+    "address": "0x749433190ac7dca2ee2a552b64b17182ac9e5e20",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x561a81a1d18b65b4207509d0d7ec12039129ace0",
+    "totalTrades": 6,
+    "profits": 0.050972
+  },
+  {
+    "address": "0x57f095a1e64cde4d934f96f4a94a874127828042",
+    "totalTrades": 6,
+    "profits": 0.005195
+  },
+  {
+    "address": "0xfb4cff6bb42bcbdf0a225f3751b9d0a436c94fa2",
+    "totalTrades": 6,
+    "profits": 0.14004
+  },
+  {
+    "address": "0xe97fee2ddc04cd82ef286aad4798aae0dc913425",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0xd4be3593eb07f97de7e27be56ff7ad2f27a72364",
+    "totalTrades": 6,
+    "profits": -2.8747
+  },
+  {
+    "address": "0xeb38f4e012d203c15a5e38c2b24a28752cd64c81",
+    "totalTrades": 6,
+    "profits": -0.49944
+  },
+  {
+    "address": "0xedb7cf2aa0159569286d5874c6dd7fa8bea6b713",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x450459c41391e62adcf4185e0644ad12a7d6104e",
+    "totalTrades": 6,
+    "profits": 0
+  },
+  {
+    "address": "0x6dbb95e04c40cc9baaca35a0e81c8fa2f41e9ac2",
+    "totalTrades": 6,
+    "profits": 0.096372
+  },
+  {
+    "address": "0x23dafa4ab0b759bc0763962a72c097296f76f929",
+    "totalTrades": 6,
+    "profits": -0.007
+  },
+  {
+    "address": "0x4d579370dc7e4b36371012130088637091445059",
+    "totalTrades": 6,
+    "profits": 0.6365
+  },
+  {
+    "address": "0x011ce63cf8a95ed356c261e11064635cf5a5ce2a",
+    "totalTrades": 6,
+    "profits": -9.04927401
+  },
+  {
+    "address": "0xa34dc72cbde5b5054799c2f401d6c76ffedbe4ff",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xa8bbd768ae1bae2e29e3cea581e4d21b30727e17",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xed8b0f9dd8a468e5127109dbad351089b998b2a1",
+    "totalTrades": 5,
+    "profits": 0.04799
+  },
+  {
+    "address": "0x940582408338738852254a99c3215f7e7d1dbb8e",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x9e1bb5b7a091b124ad19e8e72e4b5f12fd2adbd2",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x680caaae8933afc5c20ec695449f2632bd1f51e4",
+    "totalTrades": 5,
+    "profits": 0.41625
+  },
+  {
+    "address": "0xf87c0ef993d28028f20956cabdc4fb3b127ad089",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x3c9923956c7a48b46a8a028ff93eb36aca927ebc",
+    "totalTrades": 5,
+    "profits": 0.11036666666666667
+  },
+  {
+    "address": "0x82a8439ba037f88bc73c4ccf55292e158a67f125",
+    "totalTrades": 5,
+    "profits": 1.545355
+  },
+  {
+    "address": "0x1d419c35db08d8bee2328e70251ec8766a11d71a",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x1b0ac7a991ecd6f79810fb11697c95dea77609bb",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x4d70eb7d900889fcef30b33c9dfa040db09f8c09",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x69a59450adb082f92fdc15aff6068b7595674233",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x08e0c64fc4afff15405761e498c999b62c113705",
+    "totalTrades": 5,
+    "profits": 0.08950819672131148
+  },
+  {
+    "address": "0xcd90287f45002f1d4e533cee65d67a0ba05a46f9",
+    "totalTrades": 5,
+    "profits": 0.144945
+  },
+  {
+    "address": "0x8c925a07b3c59f20307251f36562040571c605ed",
+    "totalTrades": 5,
+    "profits": -0.04899
+  },
+  {
+    "address": "0xd459cdb197400fd7fbd9cd3a42a6442611294261",
+    "totalTrades": 5,
+    "profits": -1.78
+  },
+  {
+    "address": "0xb2a71d1a099151ea811ba384a9b74d9c11f2edaf",
+    "totalTrades": 5,
+    "profits": 9.063291139240507
+  },
+  {
+    "address": "0xd7f1909175f71b190dfda7216e1f1a62d2a86a68",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x7ec1431c489ac12824f9b40af37dd60dde560ad8",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x0b376ac8f9a5aab4e25533e19e8b000b00013b81",
+    "totalTrades": 5,
+    "profits": 0.197337
+  },
+  {
+    "address": "0xf23e304d9c34bde438a981b232de5139fa250e73",
+    "totalTrades": 5,
+    "profits": -0.49995
+  },
+  {
+    "address": "0x6dd1d7feedb6e9ed6bcab06401df7776b7b9a185",
+    "totalTrades": 5,
+    "profits": -0.01519292
+  },
+  {
+    "address": "0x81ce9cdaf427df5f5e6c66b82e51acc804ee761f",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x190824b63255c3b1f415a3d5f64118902ff11cfb",
+    "totalTrades": 5,
+    "profits": 0.063735
+  },
+  {
+    "address": "0xd270554025d7e33f30ac1ec045eec1b235d10d38",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x90cbbb6fa66d18f463ec4238d8f90d3bd0c061f4",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x6a250e1c019ae44595d30e40c32cf5daf2d1797b",
+    "totalTrades": 5,
+    "profits": -0.0047
+  },
+  {
+    "address": "0x1602f94cd903a64a2a4d48080652f8d03e7aa205",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xcab2f51d80bfe9965cdfb2692b24c5c28c8415af",
+    "totalTrades": 5,
+    "profits": 1.822325581395349
+  },
+  {
+    "address": "0xf20f154d27d2be2ef8b1bef6827bd6d075710217",
+    "totalTrades": 5,
+    "profits": 1.7
+  },
+  {
+    "address": "0x5a6063ee0c30a39c254619b17a70665d1f228808",
+    "totalTrades": 5,
+    "profits": -0.06726268656716418
+  },
+  {
+    "address": "0x5c035bb4cb7dacbfee076a5e61aa39a10da2e956",
+    "totalTrades": 5,
+    "profits": 0.5246484848484848
+  },
+  {
+    "address": "0x044d885f03795065478481e452e028bbd9742056",
+    "totalTrades": 5,
+    "profits": 0.01399
+  },
+  {
+    "address": "0x185f56680d5d998c4b9541e29d90e52e19bcd8ad",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x1875322de4d5832c55aba31e187beaea66991799",
+    "totalTrades": 5,
+    "profits": 0.03599
+  },
+  {
+    "address": "0xc760918ff85d5edaf516685e848bc26ce71ab4be",
+    "totalTrades": 5,
+    "profits": 0.0906
+  },
+  {
+    "address": "0xc05fbce22edd39455ba77816de9bf536aadbb944",
+    "totalTrades": 5,
+    "profits": 0.004899
+  },
+  {
+    "address": "0xde70fee2b4861d469985bc2eb7ae14c8c80d85da",
+    "totalTrades": 5,
+    "profits": -0.1334
+  },
+  {
+    "address": "0x754eb9c4e499dfbf7c77de9602a40e11c3516a34",
+    "totalTrades": 5,
+    "profits": 0.19526
+  },
+  {
+    "address": "0x282173335ae1f328b34eb9acadc052e59e70a89f",
+    "totalTrades": 5,
+    "profits": 0.05498
+  },
+  {
+    "address": "0x85887b4715c3ebc3c1fc6bd39117783bfdba1b20",
+    "totalTrades": 5,
+    "profits": 0.0375
+  },
+  {
+    "address": "0x32c704fdd699f04aee031ab3608b978bea73c893",
+    "totalTrades": 5,
+    "profits": 0.0250275
+  },
+  {
+    "address": "0x42680634ad5175270f1f1bc122db9589cb2952ce",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xc2408c12a62a915ef083aee70be1115138eecc74",
+    "totalTrades": 5,
+    "profits": 0.038752
+  },
+  {
+    "address": "0xa59c963ad0fb3e3544dc902f5c72ce4b38c7f7fb",
+    "totalTrades": 5,
+    "profits": -0.009
+  },
+  {
+    "address": "0xdf20651edbb0784437a4610015e0dcacf0f6226a",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xc9c01bc57186a5f0981c4e6f4884beaeb562e532",
+    "totalTrades": 5,
+    "profits": 0.285
+  },
+  {
+    "address": "0xd4f1231e0dcc86785a9b71a996bf5e6f4a331b43",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x307899dd9686d39c003f253941b66bc871e79e80",
+    "totalTrades": 5,
+    "profits": 0.14798
+  },
+  {
+    "address": "0xbee1478aa0e827b8f509d9a5c2788d8761650420",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xc1b184c268060ccd94f4b708eba98f74ed81bc8d",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x122a7723f9d57f5100304ac6cfad2a92d5e77adc",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xd9c4475e2dd89a9a0ad0c1e9a1e1bb28df7ba298",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x78d8e8807f652b54afe33b7645a26c5ffae5291c",
+    "totalTrades": 5,
+    "profits": -1.2533913583279033
+  },
+  {
+    "address": "0x177c71f19f4afa33827cff4593146a6cdb71cfa2",
+    "totalTrades": 5,
+    "profits": 8.98652021967e-8
+  },
+  {
+    "address": "0x96aaec418ba55b8c43892849a7146ddd3d4c81db",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xfaaffa8ab87e0435100bb995f2ad5d56a3e3b6ee",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0xbe60b513db83d97ebfac0e147df8bdd482ba5a3f",
+    "totalTrades": 5,
+    "profits": 0.025471014492753623
+  },
+  {
+    "address": "0x9424bfc9f19d2c40d79ca20094a7da9d4024c44b",
+    "totalTrades": 5,
+    "profits": 0
+  },
+  {
+    "address": "0x007efd2fb97f65d4f805c3662d4d20bae6e08d9b",
+    "totalTrades": 4,
+    "profits": 0.12569074074074074
+  },
+  {
+    "address": "0x31a48fa51f4a1563c0f9b78212efb9185b91ed6f",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xff536328697859ec41b4f6a7e3a9cc3f372b0760",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xadec67a56e614f270b85c9fefcd93c5616f59403",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x08899bca3e541a0826451a559fb5ae49554ab3c5",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x2b7cb889b15f3815c56bb4c5508539cef534f5fa",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x24294201eb6447789a77be5345dc663569db537d",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x13c149aa10904c6516d212abea7d778cc1e4b7f5",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xa6919d22e8bfe23330cd628b06fe22c4c235470d",
+    "totalTrades": 4,
+    "profits": 0.00759
+  },
+  {
+    "address": "0xb7747c46be84aafcefdf9aed61f1225f88236224",
+    "totalTrades": 4,
+    "profits": 0.040139
+  },
+  {
+    "address": "0x78796929b0e10d023239c176a32031fd46c473da",
+    "totalTrades": 4,
+    "profits": -0.7684197614678899
+  },
+  {
+    "address": "0xafefa02e1858e5df91a72c96cae36a0e69de55f8",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x21639a426a07498c4e7157ba909f92da2d57ce87",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xfa09bd8ae1665a2be8ace0295b1085f5b178efa9",
+    "totalTrades": 4,
+    "profits": -0.19505
+  },
+  {
+    "address": "0xdaba53f51418cbe240e010a02938fcbdabb8c551",
+    "totalTrades": 4,
+    "profits": 0.199388
+  },
+  {
+    "address": "0x3d71650e00ceca5b907c478b288361b5de651a57",
+    "totalTrades": 4,
+    "profits": -0.0543534
+  },
+  {
+    "address": "0xd1d2bd3a92b063dfe2f6ba2ba8d67bbb3f4d96dd",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x01e6d28d21b6ac49686035d846e406f8958ea4ee",
+    "totalTrades": 4,
+    "profits": 0.044991
+  },
+  {
+    "address": "0x485cbcd9671187bd9db0bd591f6f9e24d095ec7b",
+    "totalTrades": 4,
+    "profits": 0.014666666666666666
+  },
+  {
+    "address": "0xe1f6c937127a5c73dd0c4e39e681042da3c7c504",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x9634b3b4cdd64f3510785f6ea3b7a235868c2fbc",
+    "totalTrades": 4,
+    "profits": -0.5714185185185185
+  },
+  {
+    "address": "0x0027f6718fa638e2ebb1588db228b86806bc01af",
+    "totalTrades": 4,
+    "profits": -0.0285
+  },
+  {
+    "address": "0x00e2eb1b7007bd81e892ba99c628a26d8a464611",
+    "totalTrades": 4,
+    "profits": 0.027018848484848486
+  },
+  {
+    "address": "0xc5c0eeffd0e1b95e0c60454b96e55fc04e4fa02e",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x8bd4d9dc7cc0a7fb4fc01a6cdab9152bc3133d10",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xfba9935527c34c2038294cc7dba53a8147d43bb3",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x521bcff7f89ceec661bc20dbb0bea8ad86803334",
+    "totalTrades": 4,
+    "profits": 0.03999
+  },
+  {
+    "address": "0x87eda27fa1aab375ed38cf5f3cc4f0e58abef58f",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x86ccf8f139feffa849cf2796eb8adf517da17d87",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x3e5d54d2bb93969d523f3855f0e2ba9db5729929",
+    "totalTrades": 4,
+    "profits": -0.0326975
+  },
+  {
+    "address": "0x77db4ef5eb450d3bca2b2178420834b993d118ce",
+    "totalTrades": 4,
+    "profits": 0.09798
+  },
+  {
+    "address": "0x6630a2af9f49c14c6bedeac703eb56316bd0e950",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xf3886cbc87c6a5007512928fc8cb81f02729fc43",
+    "totalTrades": 4,
+    "profits": 0.25238745
+  },
+  {
+    "address": "0xaa87ea6c28d38dffdb40434c3cc9e60877dd2caa",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x8d741c1093eebf66f193c821278a085ac02faf9f",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x0cd462db67f44191caf3756f033a564a0d37cf08",
+    "totalTrades": 4,
+    "profits": 0.12
+  },
+  {
+    "address": "0xe765cf2bcd62bb29bc5631aae1147d8a34cbc6cf",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x9a59822a8e232d8814fd663f3a19ad9f12e3d9b7",
+    "totalTrades": 4,
+    "profits": -0.10999
+  },
+  {
+    "address": "0x0d05722e630b049ba4d394a151152ad6bd487855",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x26158c00bb585e60b1e29e422e0158489b98f827",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xde7f476071e87fe1e6e4b32dd47ad40bed5da56b",
+    "totalTrades": 4,
+    "profits": 0.024769774774774773
+  },
+  {
+    "address": "0x51f0d503371b6c893803f1d42e9058af8b66cd5e",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x14695e89f5a91e3d4a381c773fc26e30c0a650d1",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x1057bea69c9add11c6e3de296866aff98366cfe3",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x038de05ff7133528fed0131ef2d5d10c166d49d4",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x66115bdd639e38a1fa3f5b321dd93fd34f45f877",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x3d8c8c270ebe897b2602f8f66677a1037885eb22",
+    "totalTrades": 4,
+    "profits": -8.67426
+  },
+  {
+    "address": "0x830432d9f348dbbea6b28332690aebe702b80d4a",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x91e50668a9d544ba77243d0f0387962e94d36ac5",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x80762d911af19e62920fa2c7939bf0146963981a",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xbdcd39ad40ab47b4d66b953a76f02b1e835474d8",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x57d1e246d2e32f6f9d10ec55fc41e8b2e2988308",
+    "totalTrades": 4,
+    "profits": -0.12003
+  },
+  {
+    "address": "0x200d001ecd3df423fa1e862f80e122b16688cfc4",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xd8fba5a2806e2524dcaca969d16d6627a477177b",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x063a94464a1d8431f954b8627276a5ba522ac0b6",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x138dd537d56f2f2761a6fc0a2a0ace67d55480fe",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x76a6d2a504c885c3aed68f8489b4a5e19d24f6fb",
+    "totalTrades": 4,
+    "profits": -0.48215
+  },
+  {
+    "address": "0xf38f63fc03eebb8e174afe3057032565a7b6606b",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x0c49c5ddd716fab378abf683108f75ed94ab9dc3",
+    "totalTrades": 4,
+    "profits": 0.0526365
+  },
+  {
+    "address": "0x0eed6ecfa4f9c3f2cb1dcd75e28a64bb69e9d367",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x7186ce946a1bc87680ff0ed8e5d684ad27b3734d",
+    "totalTrades": 4,
+    "profits": -0.145
+  },
+  {
+    "address": "0xd760fd0f7af672d73edb689873b20da1c4bc95d8",
+    "totalTrades": 4,
+    "profits": -0.09899
+  },
+  {
+    "address": "0x6146a3f0178a84b82e83bc7498c5805fc80ce67c",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xefaef3a9b2bc9b1464c1f85715b6915de4ec659d",
+    "totalTrades": 4,
+    "profits": 0.0474
+  },
+  {
+    "address": "0x003b17a52f2ecd363488b9c85ff7912e6e804c0e",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x73ca49086946bf844412c37d2f03cbcd8165708e",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x62819aaeca7c30be5504a03792e76fa656a1d612",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x4b3d1bf29b91190784061577e8891e2221719a75",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x3416f8bf33cc1a473a3f68b16f411db66791c203",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xe5bc15eebed239d005718e21ca158a8da152f1dc",
+    "totalTrades": 4,
+    "profits": 0.30402783343040185
+  },
+  {
+    "address": "0x0d71d8a431d7e2965f01a78faf7fedd94de6750c",
+    "totalTrades": 4,
+    "profits": -2.0477166666666666
+  },
+  {
+    "address": "0x1e79fe7b1927d6bf051d26bf5c19ef6f91cb1ad0",
+    "totalTrades": 4,
+    "profits": 0.07543282704601936
+  },
+  {
+    "address": "0xd665f32e06fb1aab8468b83e94791b9870867580",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x831d6f82d38f8dd8801714df5224ce1ff2d4d811",
+    "totalTrades": 4,
+    "profits": -0.6362
+  },
+  {
+    "address": "0xf45b78be3f3f3792f3339101aad200412880dee3",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xe5e5ef0596eb71b1c6cc4a54451a7e44849923ba",
+    "totalTrades": 4,
+    "profits": 0.658625
+  },
+  {
+    "address": "0xf6c393615e7bd730fbe5799221cd2c2c9f6cc40a",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x569bc14312d50126c6f4891e2310e281dfbca402",
+    "totalTrades": 4,
+    "profits": -0.005419
+  },
+  {
+    "address": "0x0c54d54f8371017473b2d5add81908b775b5a800",
+    "totalTrades": 4,
+    "profits": -0.011523141948529412
+  },
+  {
+    "address": "0xe63c23a8f5920d4eeb62e86ead5063cca5e48fe1",
+    "totalTrades": 4,
+    "profits": 5.91468
+  },
+  {
+    "address": "0x8c5fd04d70b119c9cd0e1336316def9864e78a00",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x0d3fce41412c4f80e970c920ade18efdb79ef81f",
+    "totalTrades": 4,
+    "profits": -0.06043587
+  },
+  {
+    "address": "0xcb51ce8d20df9172a258079ee5d1ba9f1ab9c1f1",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x2f20127b6a615722a16731d88143e3704c0092a9",
+    "totalTrades": 4,
+    "profits": 0.18668857142857143
+  },
+  {
+    "address": "0xa78efc3a01cb8f2f47137b97f9546b46275f54a6",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x0fa694b4c21063bda6d1f9c23dce8b237a598d7f",
+    "totalTrades": 4,
+    "profits": -0.7158875
+  },
+  {
+    "address": "0x22be567534bf9e0a9017dd55e92ee963aa05026f",
+    "totalTrades": 4,
+    "profits": 0.06799
+  },
+  {
+    "address": "0x39ead06cf8d12151a2d24116ee3de80c862802a6",
+    "totalTrades": 4,
+    "profits": 0.0056
+  },
+  {
+    "address": "0x47b184514709caca5463660eb45b4a677fee740e",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x0977104db0a026fb4af06047ea111772d2c2b3c8",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x4a18c9f1e93e600b9bfabe914503819c0f93c0a1",
+    "totalTrades": 4,
+    "profits": -0.20220740395292028
+  },
+  {
+    "address": "0x9b28c5d37af25c1c97b67519f8b1556d34f8e760",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xa62f84c82ccc02b078f5c0dfc85c4faf7735984e",
+    "totalTrades": 4,
+    "profits": 0.8222
+  },
+  {
+    "address": "0xd0c2b3336747d8d873cf09a83b57477d8f644597",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0xf373867d050dccae040b195474c3ed39e2d08582",
+    "totalTrades": 4,
+    "profits": -0.096
+  },
+  {
+    "address": "0x731df5aa088efe96473a29c37bf3095bd113b381",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x34172bd9064ffe00ed63b48d07b61144de1e1e9e",
+    "totalTrades": 4,
+    "profits": 0
+  },
+  {
+    "address": "0x397507a0cb8df765e9f7edd66ef3021218aa1f5e",
+    "totalTrades": 4,
+    "profits": -0.3856542857142857
+  },
+  {
+    "address": "0x44e9d011df8741be2493e99297e9ad67bb1aa85b",
+    "totalTrades": 3,
+    "profits": 0.05
+  },
+  {
+    "address": "0x9d3b97f1522790bdf8c8aac6243ce59e808a1b55",
+    "totalTrades": 3,
+    "profits": 0.0075
+  },
+  {
+    "address": "0xa9e06a714c6276cd65511918e3108dde03f1d2e9",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x8ad68e2c67b88ded4b1565d8b9288b665261338d",
+    "totalTrades": 3,
+    "profits": 0.485
+  },
+  {
+    "address": "0x04676a0b691f7b53b112bd814d742b065a137841",
+    "totalTrades": 3,
+    "profits": 0.0016995
+  },
+  {
+    "address": "0x483388c064fdcd036ad9df3807332023fb1cbbe7",
+    "totalTrades": 3,
+    "profits": -0.091101
+  },
+  {
+    "address": "0x32bfaf7b4c6a5e448bc044f098a86672af081b7b",
+    "totalTrades": 3,
+    "profits": 0.015
+  },
+  {
+    "address": "0x9f5a2e48fcf1ea37d87d512b649e85d82dbbd85f",
+    "totalTrades": 3,
+    "profits": 0.06498
+  },
+  {
+    "address": "0x4b1eae0aed95f862b592f40bd027a4a63b8f39f4",
+    "totalTrades": 3,
+    "profits": 0.445
+  },
+  {
+    "address": "0x9019712a70fff4f8083889f4078da540985a70db",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x5aaec466fc133d754830a5e8088133c6800fd912",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x9830242fe206809b66f57a150311aa925b96ac59",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x0c039ad9c759c88d7c936aeabf96a882adf554ea",
+    "totalTrades": 3,
+    "profits": -0.22078275280898876
+  },
+  {
+    "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+    "totalTrades": 3,
+    "profits": -0.00435
+  },
+  {
+    "address": "0x364c09c53986070d67e7c036e8428630e2393e51",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x69ed89f1ca05fd07d8f7dde9852f2e972e287a0f",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x83b7f65647a8157cbc59889629df79e34521e48a",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x8a406fbcbc9fb559ac93e47e320800e3a9ddbce6",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x14dc992ade72bf59934112195c3f3d1adfb48fb1",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x0e0dcded52abcf7affbc1983d697e2d78acd7183",
+    "totalTrades": 3,
+    "profits": -0.001592
+  },
+  {
+    "address": "0x45f1e5d98b7c338cd7cdcbcecc47ddef193674b1",
+    "totalTrades": 3,
+    "profits": 1.031157
+  },
+  {
+    "address": "0x32fe55b832594a31f7f7a3ca4327608690d8089e",
+    "totalTrades": 3,
+    "profits": -0.0964
+  },
+  {
+    "address": "0xe365fb79846b03cb1c5f9a30735dd18874ae28f9",
+    "totalTrades": 3,
+    "profits": -0.11499
+  },
+  {
+    "address": "0xc3f58d7ad014d365efa9b54a5be010c462db6473",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x8c2fd1f3ae6162fd3cb3157222dc3979b42e699e",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x6eb8212403579b4817188352da83e7934a3e64ca",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x8364c33bb670c9b4277d4f77610c1ebbd9f7ff11",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x08a1eb0201fe1300e7774daa299f18f346a23f68",
+    "totalTrades": 3,
+    "profits": 0.70258398
+  },
+  {
+    "address": "0x57bc04ca8608bc33f7d5486edbb6876f88eb700d",
+    "totalTrades": 3,
+    "profits": -0.3929
+  },
+  {
+    "address": "0xc6f6212e39a87f7349bbb4c2242f3aeaf46aa410",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x13410c0cae4a855499649482e3de014802399ebf",
+    "totalTrades": 3,
+    "profits": -0.00109989
+  },
+  {
+    "address": "0x452386e0516cc1600e9f43c719d0c80c6abc51f9",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xee532b85415dc2e2235b0d0bb4540d070d778ed3",
+    "totalTrades": 3,
+    "profits": -0.08666666666666667
+  },
+  {
+    "address": "0x3a1948c2993047abbf93b85ccce1f1ff983da65b",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xdfb9dec77ffb108af86a4b750d55897a65554d6a",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xa9528c3371616ef4e6688c47cd143b4d568a98d1",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xfbbfbf2756b062abe77e975ed0925295c87c1a15",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x1f9861c917c5ef60e88c206fa39b15870034c1af",
+    "totalTrades": 3,
+    "profits": -0.01874
+  },
+  {
+    "address": "0xca9c02f98195abc364c1b0c8dbfae55169a273cf",
+    "totalTrades": 3,
+    "profits": 0.09067318181818182
+  },
+  {
+    "address": "0x13754f77def077430ce37dff0b744d593571b29d",
+    "totalTrades": 3,
+    "profits": -0.0837
+  },
+  {
+    "address": "0x983f14fb20991589de9bdc48d6990ddb8e41d918",
+    "totalTrades": 3,
+    "profits": -3.161318
+  },
+  {
+    "address": "0x3fd1ddf28f604cfe5fefa3adc38e38be2f7208d6",
+    "totalTrades": 3,
+    "profits": 0.27510416666666665
+  },
+  {
+    "address": "0x8033562521fedecdcc05487303522375597f9094",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x70ddd33089a6c52fdc1723ab62933873f8838b58",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x475f2d1ed5de8a13a4378a828cf5efb3f5d52f53",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x7fd9bb30f4f686bfccfbf8221d4677145f8f979b",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x26e5c2c0b437996f8d45cc042c928d5a86659275",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x85897ebf5b6631e068e363fe48decb2ac7838f0f",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x7a40d3cbbc4307320094f78087590b2ecac633e5",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xb9b97135f01a5462e5f741854435c256dd6cd3ee",
+    "totalTrades": 3,
+    "profits": 0.04249
+  },
+  {
+    "address": "0x2ae7e50be2f691e460e94fd70e61f1c940d8c56a",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x3b9183d09c23b0aabe31225f949911e8a1d15763",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x2de67da4a50378955339dfa8bcad88a2656e7611",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x231340c24d41a16d0657a949b2da4683856718d6",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x78a50fd7904293b597bbd6db1c324997c0e73946",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xd9385715e7f1d2dbdb13e7c8568a5d2647c9456e",
+    "totalTrades": 3,
+    "profits": 0.059
+  },
+  {
+    "address": "0xa50368ddc3ce282eafb280a71d5153c8b58f46b2",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xc37027c11b6b416462aa7b589e6f7937ce220327",
+    "totalTrades": 3,
+    "profits": 0.06399
+  },
+  {
+    "address": "0xe8f13a9a503fb7c56e06601c51105c4c530fde09",
+    "totalTrades": 3,
+    "profits": -0.04771424
+  },
+  {
+    "address": "0x7b823000f6a2ff7834b5db3061fe1dfc7682cfe8",
+    "totalTrades": 3,
+    "profits": 0.002499
+  },
+  {
+    "address": "0x27b953b3c226e7516569e99029ea2062d4003612",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xb740d16542d99cb58321f07f2b062baa47ff6a77",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x8e362caf435689ee4e5342b988b69a475adef91f",
+    "totalTrades": 3,
+    "profits": 0.37868489
+  },
+  {
+    "address": "0x5dd1b460ed2098e8c4400304ae859ed3796d43f2",
+    "totalTrades": 3,
+    "profits": -0.033943
+  },
+  {
+    "address": "0xf4c2bdf53b4b43bc8b737ed161d1ea7f466467ce",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xececafb3fea380ed39264a7ac86a3af846375aff",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x47e90247f88f7ceef320120bd4fa3efa54024888",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x08a203b78157fc909484b952e48a2d1b9e8631d0",
+    "totalTrades": 3,
+    "profits": -0.7541323
+  },
+  {
+    "address": "0x2952fcb19b91f90e87cf0c478862f26818a634e8",
+    "totalTrades": 3,
+    "profits": 0.22226977477477478
+  },
+  {
+    "address": "0x5cdb0039db97409243ca00ca70be8616fba322a0",
+    "totalTrades": 3,
+    "profits": 0.04249
+  },
+  {
+    "address": "0xad94998f731636ed34376abf25b779e1283434d7",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xb5d100ee09863d3b1b2c9d160ecd9931de115434",
+    "totalTrades": 3,
+    "profits": 0.04929475
+  },
+  {
+    "address": "0x6be31ce1ad1c987296e6cd4b59b665c01407d55c",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xc921f14d60394509d6bcd9ad92036952cb501f4a",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x497e0642a3b9c7d90bfd148da3dee325ab14e4ba",
+    "totalTrades": 3,
+    "profits": -0.000401
+  },
+  {
+    "address": "0xafbcc39f474baf9596c1135522810d5f409dde0f",
+    "totalTrades": 3,
+    "profits": 0.0725
+  },
+  {
+    "address": "0xf1873aec96b6caec8ba026b68113884037c8c918",
+    "totalTrades": 3,
+    "profits": -0.02501
+  },
+  {
+    "address": "0xb00e81207bcda63c9e290e0b748252418818c869",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x51fe13ae9f3ad494dd75988617ffacd5d8367770",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x5c0ac266833e36e98edb52070bcea5be6c1145c6",
+    "totalTrades": 3,
+    "profits": 4.85
+  },
+  {
+    "address": "0xf2a883984d026ab14779fffe4fb7b1bdb6b02ae3",
+    "totalTrades": 3,
+    "profits": -2.31282
+  },
+  {
+    "address": "0xba475b4a955bf74f2e329be0657185f8e6200742",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x1cc3195c46c2f6af665ae281ad861eab88ed8fb5",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xf3ba8bf956d6f5dcb9682e15533bcc6fa1833fa0",
+    "totalTrades": 3,
+    "profits": 0.054972
+  },
+  {
+    "address": "0x76273dcc41356e5f0c49bb68e525175dc7e83417",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+    "totalTrades": 3,
+    "profits": 0.16996
+  },
+  {
+    "address": "0x284e60dbf2cc9368a81edbe5f36c10a06188437e",
+    "totalTrades": 3,
+    "profits": -0.45225
+  },
+  {
+    "address": "0x8b6da5f382a40951aa5c0ddda8a08e60b02a0ba1",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xdc23f95cc7f3f423f255dfd7aec7301bb56d8949",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x7e00f0aabc43365d8f35f8eacb54f851eeaebd37",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x4d1467c312a83794c99b9db678dfdfa743394ef7",
+    "totalTrades": 3,
+    "profits": -0.036297
+  },
+  {
+    "address": "0xe700e714493f1466310a0082dbda7a7c41773376",
+    "totalTrades": 3,
+    "profits": 0.23995
+  },
+  {
+    "address": "0xc13a2c835d6edf0127e0a5ed04f351e4fea14349",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x799fc7d6e369b488832c54b2efe3ad2d0fc4a5ce",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xb322bbcccf3cef3fa10ac2f29dde52f2f1981018",
+    "totalTrades": 3,
+    "profits": -1.24657
+  },
+  {
+    "address": "0xfd6c534a52c915a88bef3e5f8dd8bd35d06a1474",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x7ae29bc6fd3af339228c9a454d0072ab78798561",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xe35ef95a80839c3c261197b6c93e5765c9a6a31a",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x26a24b3b5aa16e539e6bde37597a484c4242f156",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x4a2c5a0af8b29cd5fd8eb1d02a83150a3ee10488",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x16d7dff2e56aa73faa355411f0201207ef9199ac",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xedf4a91ebec2270c12991704ab010ecb93565b2d",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x633cb2937a7fc879bd89d69a2b370ecea0e40bb7",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x6224392a437426604ef0fa00fda5dd690dd3104a",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x47f0afd02b389d051a388329b7a4fbeeed189721",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x74dd8f5758e288ae7a782675ee166c1475cb91a2",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x23f6ce52eef00f76b7770bd88d39f2156662f6c6",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x028b7cd525fffdbf63b1dae52057efceecb776f3",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xb4168e78c89ac933d79f51abb79437bebcf96c18",
+    "totalTrades": 3,
+    "profits": 0.0018
+  },
+  {
+    "address": "0x43e4e1c3773e36d6c32e0b1930239ba4cd2a3ecf",
+    "totalTrades": 3,
+    "profits": -0.03125
+  },
+  {
+    "address": "0x7958531fa29e3bddcf621cf610f4057bf04309f5",
+    "totalTrades": 3,
+    "profits": -0.005992
+  },
+  {
+    "address": "0x84ecb387395a1be65e133c75ff9e5fcc6f756db3",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xcb0ef9d06d29de182552966418e822a42445708b",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x051437aaa8f3019eb2acdf0317dc4655791d8716",
+    "totalTrades": 3,
+    "profits": 0.0875
+  },
+  {
+    "address": "0x4d5b082fc164a7bf38fab4b133c1e8f3d438d406",
+    "totalTrades": 3,
+    "profits": 0.02
+  },
+  {
+    "address": "0xda42e343c5445a02498c11d13e2edc3334b6a51e",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xfa26abcd53672984a79eafeb834f51aa11edf920",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x5688cc7c16e27f6582e5186cd35d015a0d478033",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x7143a19c74ff007cac92820a243324911407ac5d",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xf3e5d37efdb7d7efdb2d0e36ebf91d9c755bef30",
+    "totalTrades": 3,
+    "profits": 0.0175
+  },
+  {
+    "address": "0x56f2aed56854fc68181667a7babb970c03e76841",
+    "totalTrades": 3,
+    "profits": -0.0616
+  },
+  {
+    "address": "0x01a29134723ef72a968838cb1df498bc4f910bec",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0x2e091bcfa35bd803ed04a92a3c534d7c70593434",
+    "totalTrades": 3,
+    "profits": 0
+  },
+  {
+    "address": "0xac47052c48c0d2dca16b6fb3d4e05107415fe1b6",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x149a59992ff7f600b81d661b2c972c88700bd879",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xd0c81e82abddf29c6505d660f5bebe60cdff03c5",
+    "totalTrades": 2,
+    "profits": 0.0058
+  },
+  {
+    "address": "0xbf12ea9a1fec04ca1e3aa0163e1ba9f0de726aec",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x90d8c98a6d92da46433820835e2091ae9ac0f2d5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xfeaf597b1d8333e6b3d48dcf54cce89170df5a4c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x28b460cbadd0cbeedca284d19dcef6016f462fcc",
+    "totalTrades": 2,
+    "profits": -1.7278
+  },
+  {
+    "address": "0x880772af311d7f3bb2cf10a789fa1264815f14e8",
+    "totalTrades": 2,
+    "profits": -0.0297105
+  },
+  {
+    "address": "0x34e717b3cbbaa1d220157d7c45c61ace7889ddd6",
+    "totalTrades": 2,
+    "profits": 5.2975
+  },
+  {
+    "address": "0x89f2114c296d41f10745298475f2681173db37b2",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x642fd5edc017ea5bb289a984cda864ff5ec2a956",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xeb076bbf46c7040ee7cba3539135ccc43335e1ae",
+    "totalTrades": 2,
+    "profits": 0.0899
+  },
+  {
+    "address": "0x1a1705bf19fce577e4c365226b6aa50dbde5db23",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xea310c966d3ff5e09c65487f1763b21361eb71ef",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x11d8875ddb8baa34c6f29c8e2a3ce4156113eadc",
+    "totalTrades": 2,
+    "profits": 0.007498
+  },
+  {
+    "address": "0x3dc389e0a69d6364a66ab64ebd51234da9569284",
+    "totalTrades": 2,
+    "profits": -0.010499
+  },
+  {
+    "address": "0xfc1d8391c133639fe502fa3f6cfdd26ea578820c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x173216d1fd08e76fd4f25710d2849091ce2fb026",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xb218e819fe89171e73f41c0d33f8b5190ca42206",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe352fd2b69bf1c50cdbfa383943f3e6152d2d522",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xee990b992ab3e5a0dc678e09febf641e9c872459",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x23ab271ee38c3e889758e531752a7e1430c1f2d1",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc3709ae13c65e57a5bfd04a5e6b6d96894c99784",
+    "totalTrades": 2,
+    "profits": -0.025497
+  },
+  {
+    "address": "0x6b923d6311699f80bec4c30010925031cbe3c2bb",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xbc5eea869e6a7a30aa41b3b83111aedf23846e33",
+    "totalTrades": 2,
+    "profits": -0.21665655
+  },
+  {
+    "address": "0xf8adc1d947be5aa5152a08127e0641bc33d16b1d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x97c00b92704e9235d99b3b2ab07adeee9d95d6d0",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x6e8fb7711f8ce59890074804a728b33806b8cdf4",
+    "totalTrades": 2,
+    "profits": 0.2385
+  },
+  {
+    "address": "0xa41d2152515943831c8bf17accf19745b23f9b26",
+    "totalTrades": 2,
+    "profits": -0.00255
+  },
+  {
+    "address": "0xe994ad77173b4bb23bcafb395e542c27d7a2f997",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xcb59db511a5922303cc867e2853d5cad72698deb",
+    "totalTrades": 2,
+    "profits": 0.036
+  },
+  {
+    "address": "0xd2bc4e7ecfa4ec39069623854cd114dcd8771b84",
+    "totalTrades": 2,
+    "profits": 1.113484117647059
+  },
+  {
+    "address": "0x32aa30ccd7aa1c688e4f23b386ce542ca3bcde23",
+    "totalTrades": 2,
+    "profits": 0.007559567567567568
+  },
+  {
+    "address": "0xb6c91b7e00b410a38943852d53c3a018e48b1ebb",
+    "totalTrades": 2,
+    "profits": 0.16596
+  },
+  {
+    "address": "0x9a0235bde566e70316c24697e3799b75803b84be",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1b6ba2a0f34a8f0b375fc1f8f6e9d5fe3520ce5d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xf6866b99dcf37b1ddf06b1cfc47945e88b7ada99",
+    "totalTrades": 2,
+    "profits": -0.09438
+  },
+  {
+    "address": "0x1ca9fff5693230919cd8507892645e42f6b7a5d1",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xbee576e37fa607b2c1b4ad7e2878f7acfcc4b8ae",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x82bf3297e78517654d86933cbdca88c8f4f702a7",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe46558cf24163f2e744a7ce6954a0e53dea0c2d5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xb438568f470dc00afc43b6ef22a93d2fa023828d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xa61f1acbfc9808030637cc5af8e359925d27a9f3",
+    "totalTrades": 2,
+    "profits": -0.09999
+  },
+  {
+    "address": "0xe6dc7254dc531a1dc098282071988f0f6b0b678f",
+    "totalTrades": 2,
+    "profits": 0.093725
+  },
+  {
+    "address": "0xa4d627472511e001c74640dae9b58f80bef58a78",
+    "totalTrades": 2,
+    "profits": -0.042
+  },
+  {
+    "address": "0xad1c5a2139a95314a4f256b92da530aaceca39e5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xfa4d2600267f24db996f5e0b4bb8d1f1165fda2e",
+    "totalTrades": 2,
+    "profits": -0.025
+  },
+  {
+    "address": "0xc1b87323a4945a7c42c359f51edb940342fcf299",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xb9cdd70902eaf280e5f5131f460f8db604cd19fb",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x746b08095878b110f87a9e206d53ec6914a43d2c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x57e75c7d47deea5ed34d4f9dc9bc54828ce1d206",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x16b4dc7672519f2f1b233d7284a2115306fe409a",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc8a92baa8c43f006e423546e19d55b9535b5e973",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xd4a45d8055ac000a4bbd7f3c6007d491d7f3c529",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xece163d402175fc8d3c1599094b5419590c1aa4a",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x99a58a9927925805de162aba7a5c4b1e5ea5bac4",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x9b1d95c93ecd5ec23bc883fa9899cfda8e38779a",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xd8472834489c989e4f15a4dcb6a88b026112c183",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x9037a75c997bba5243a884122e9ac5b9c26ee3e2",
+    "totalTrades": 2,
+    "profits": -0.042
+  },
+  {
+    "address": "0xc16c2dc42ae495ef77bf80f811e8bf71186e6b4f",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x0bc559ce04149a4c8686ec53984b0b0f621bb9e4",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x3c91f08d6692dcf60d488ea6476148bf8c3ca76c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xebebc6b04e844ab5498f29b1083b11d06249ae83",
+    "totalTrades": 2,
+    "profits": -0.052745
+  },
+  {
+    "address": "0xdee6d2490eafd4599fa46bfac238b649adb69ebd",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x2e2dc7dd191f8aa6994368b3482a4ff9791ae2b4",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1a74166a5e57b311ff08814df079d9a3464f2bad",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x389a1a1dfe5e02ca4795bbcde92d1e4f04dccb01",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe603c11017ebceffaa32084f9bcad508cbb0d133",
+    "totalTrades": 2,
+    "profits": 0.29992
+  },
+  {
+    "address": "0xb47f0b2ceb2ae222eb1ec2eed524365b4b930ff0",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc897a7ee89139e9723e607c58e10b7ea8aa81479",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1631938a79dbe7255177104f51b2127ab63d767f",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x391d6390e08058dab2f9ac0bb9860056fc847b03",
+    "totalTrades": 2,
+    "profits": 0.21995
+  },
+  {
+    "address": "0x53d65e7abf0a6a54b438aeb18fd0031704f3ca04",
+    "totalTrades": 2,
+    "profits": 0.10325
+  },
+  {
+    "address": "0xd9547a133dc5710a0e30607134871248bbe8ab47",
+    "totalTrades": 2,
+    "profits": 0.175
+  },
+  {
+    "address": "0xdee47ef9c3ae0e7bd2e36f671d1935ed59b8fdf3",
+    "totalTrades": 2,
+    "profits": -0.40947
+  },
+  {
+    "address": "0x147c0784e9872a7f223873d693823e08ecf5a9f1",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xd7bde2bd1f3081ab98ae7f38c648990483ca6905",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x112e60c33635e1e8e8e8ac0c9ac9e7683c3c4f60",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xf7c1d1c0466860250fc54450689d303b80b3ad11",
+    "totalTrades": 2,
+    "profits": -0.007
+  },
+  {
+    "address": "0xf323cd1607428369a82dd0e9971f32d39e42e151",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x27b6131ba24444b21b3872309e98ec1e161e90b8",
+    "totalTrades": 2,
+    "profits": -0.04298
+  },
+  {
+    "address": "0x71b41d7e86e9c3de66094c95f2584f4e2ab3b2e4",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xfca6d5f3290c3e51e8343a4077355633aa15ea07",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1782fd739cce69d0108f35938b6f80277d93b99d",
+    "totalTrades": 2,
+    "profits": 0.014619887387387388
+  },
+  {
+    "address": "0x9a10fc45cf5469606c74b915f88dd90d59658dab",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x363d3241287179cc598bb5947bee43a6b121be3e",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x39e55841bb66e376f224caf7e5668117e58a2d3c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x483967af97e93d0f13bef89109e55c5ff62d36f3",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe4748bdc11f2654145bfe998a936d31932b4ff4c",
+    "totalTrades": 2,
+    "profits": 0.0075
+  },
+  {
+    "address": "0x3795f842a07fbb2875c0e55013fc6c8ce277e0c2",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x341136b44660a0d8cc1a8ce7628fc4caf96e20a6",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xaf9e08f3020e624c945cc446e8759602049cb176",
+    "totalTrades": 2,
+    "profits": 0.45662008
+  },
+  {
+    "address": "0x9c2ce25922dc592ffdf7f2c6b0a8678b21682116",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x16884a4c09185f81440ad6cc8b8850f6871fb5fd",
+    "totalTrades": 2,
+    "profits": 0.025
+  },
+  {
+    "address": "0xd1e348600a93797831d7510d6ca554334007a9e3",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x2b3af01b5cf04c3dd9bbf131f9587bee224af994",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x86a32e7310239fc932b843f0c7c61441332990bd",
+    "totalTrades": 2,
+    "profits": -0.034995
+  },
+  {
+    "address": "0x248e8fc9ce2707a404b44db83ebddf741fd33985",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xf66f51f3b707b464f1387cd9a9181f1563463694",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xec8332dc7752310a258a92926d20599989b8292c",
+    "totalTrades": 2,
+    "profits": -0.39495
+  },
+  {
+    "address": "0x2ccc6353d47c818c0fc94b384b77f117c246c7d9",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xa5960aade5bd4833bf095231d3ac1ae1586b3f98",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x14563fe2fde5c8ffe7fb3f2dca6631b5ac99b85a",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x9e72f378521d03f0d98339bffa5c9c621ec55c0e",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x8552055aacc9c0d5aee358a5bfe9c312ceb1e58d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x0d7215144b38a273c64d7077a10fae7fd93e148e",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x585755f64bb48a5c90a233e4ec4662b1d2eb81d8",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xebe2baac77cabaf7eac7abdc910f8d39c097cf40",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xcecbe670c11d4d28678955f23e0d2d708d79c893",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xb942c5450ba337a2606b1c968cfc62ef03c4ea16",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xcac736e41c80201c445836a5fb194478bb9b8646",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x8b08bb11eba51bfa4c92ac19730adc9e0fd64f2c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe4152a26a041b1e26c38f111440f434c6f075749",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe23c5d6fca54c2930e8cbd61d22afe4811bf290c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc2af14b674ef7b9d0063b0f8a9121e80fc9bf655",
+    "totalTrades": 2,
+    "profits": -0.02899
+  },
+  {
+    "address": "0x20ad988487d6a53fea7918657f45fe0bb8fd8183",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x664138a8744093833517707508df0ee3be6f6af1",
+    "totalTrades": 2,
+    "profits": -7.86e-7
+  },
+  {
+    "address": "0x081d3da486a07eb04dbaaec6974c5ee90745d664",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xce807c6d75bcc4c6e196f2294754481bfeb80117",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x5eb2ad7257ca06f8da88a1a083f7a20445cf128e",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x9e75992c35bb242bc09e78b068a11117d6ef443d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x21e8766fb7001728ed7ec708d5f77c0927b05025",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x9f1e529b51475bad1ca91ae6723d96e08aecf2ee",
+    "totalTrades": 2,
+    "profits": 1.33485
+  },
+  {
+    "address": "0x4c1b9edf4d77d501d54d88d79aaa554f31a38a95",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x57d29cfcbb247ecd8f8fd3b90e12d6ed673aff2c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xf5d8ba26df01ff031ec0c91a839fbdbbe324d109",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x2e40120c9ebcc8cd48142544eb3ebcd03e548d3f",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x68390e15708e21d2be3681d72f351d550cc386d7",
+    "totalTrades": 2,
+    "profits": -0.012988
+  },
+  {
+    "address": "0x2b7d0d9eb2e6dbdd7ae2fa4bf86c3fb411dfc371",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x57364d13258bdac76167605d9fb47e958d0d1ab1",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x0c713d257e6126b5af10f1663b4a78046532f117",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xbadcf513bb1feeb8e0dc854c912cb79709d6a7fa",
+    "totalTrades": 2,
+    "profits": 1.12984
+  },
+  {
+    "address": "0xb99060aadb1bd03a31691c6bc84d508f6573e858",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x9797585a2a6190c1ebfad1e12bb8046bf2ded86b",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x2523cecad4f6521c20353f5a1a3d97e0729af542",
+    "totalTrades": 2,
+    "profits": -0.39655
+  },
+  {
+    "address": "0x1dc0fe6a28c47a5da469e522f63ea9267671b933",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xd934f41508e703cd44bbe6aa88d4cf5a5d65250a",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x7f01d9b227593e033bf8d6fc86e634d27aa85568",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe9daebb99b1d29e1ae32f44fdfccbc8df0ef3aa7",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x7d391c7c2419b891c6cf299cb431b91749061d39",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x00718e16cce288e643eed2086037c2b1e96e6eb5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xb7a7e2ad1cb93e4db4903909a294aab9afa79c04",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xfba6337b6d512ef0d86ee62bd7cc93ea9ef819e2",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x52304fd0d8df9a24de165af560c02847ac68a01a",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xba8ec1f5ee094912266fbcca6331dff6f1a719f1",
+    "totalTrades": 2,
+    "profits": -0.000411
+  },
+  {
+    "address": "0x721ea3d1f0361d0e657ba6f2157bba53047f366f",
+    "totalTrades": 2,
+    "profits": -0.48615
+  },
+  {
+    "address": "0x36ddaf4bc03058168e44a9152fddea39b5034dbf",
+    "totalTrades": 2,
+    "profits": 0.18995
+  },
+  {
+    "address": "0x6f8bc2d82175489f50537d868bcf2e4f15c3fa95",
+    "totalTrades": 2,
+    "profits": 0.03998
+  },
+  {
+    "address": "0x1ba7df1b1525a8d13c2178abbef8a62c7acadd8b",
+    "totalTrades": 2,
+    "profits": -0.0196
+  },
+  {
+    "address": "0x99ab6d75ecf462d6d23a928d191f43e63590b20b",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x42dd75e5939d135080d0d8efa0833a7620a9b289",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x01bdb7ada61c82e951b9ed9f0d312dc9af0ba0f2",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x354fc7d605edc972b49fe4dc7ce39678dc882075",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x2c04ba843c4e67aacedff3a9f320843715b01f29",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x4f904e6b4623eb078dc03b39cf0785f906721df9",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xaa48884f9204b6f39d6601bff7535764ee043943",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x19424f9f78d5babfdecec9be66f9563599a29d5b",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x77c58cb625b7b11bc242e009ee60e1f26b8d4072",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc8f6b14cf78c5947c0088b5b7ff7e694c23dcd07",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1f414c65a2f7c7c0c7797173d8f068f413b298ef",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x95408f1ac8d65d024937797a2833d47e58a2b737",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x0ca3bd265782d7f413f053640119f59b7495792e",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x4e39383920d88add52afeded19a490d98549d7ac",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x3d19e5776d9192d1b528cd58d3953ffcae45dd47",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x8efe0da3edb4fe1b3879f611d34253e0b202a55b",
+    "totalTrades": 2,
+    "profits": -0.10099
+  },
+  {
+    "address": "0x6ff3bbd636ce43ceddc1800870cc6ea3c08d6e0f",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x5601735c4e621b1983a3779746caae16f705340b",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x789a7063b818ea742863c649f06040dc1c1118b5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x3f3a2273a0a2e169eb268959b5a1a02d64a27b40",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x30f1fa85b90ed03267cc7e0c79c3816db2b18a7f",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x534726bafdfba6fd88e380f5c26b8ff899084a02",
+    "totalTrades": 2,
+    "profits": -0.005499
+  },
+  {
+    "address": "0x87dff96c4c59bd7a6f61a75778d1bcff51836923",
+    "totalTrades": 2,
+    "profits": 0.075
+  },
+  {
+    "address": "0x1609c015abce49cc20b8d87da36c0e46c11447c3",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x6887444a5b74b746f56ae08952f4e1b404ff7ca5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xb971b77b2a9a46908dafc38a393bb2453af2b1c5",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xa61773f57104d3df713d569d1a06457aaa1139e7",
+    "totalTrades": 2,
+    "profits": 0.0505
+  },
+  {
+    "address": "0xd1fb8fd067a8046c13571b386dddb14cd90cde79",
+    "totalTrades": 2,
+    "profits": 0.25494
+  },
+  {
+    "address": "0x1588bd3e9c2757d47b3cf287419282747ad1b9ca",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1e7da35c4b8c26b55cc46978ce4d824be11062f8",
+    "totalTrades": 2,
+    "profits": 0.3885
+  },
+  {
+    "address": "0x337c3f785862d508921b569dfaf6fdbe62f424b3",
+    "totalTrades": 2,
+    "profits": 0.6553954954954955
+  },
+  {
+    "address": "0x35e6e3cb191c2371fdce78438cd0adda56c6fc46",
+    "totalTrades": 2,
+    "profits": -0.39
+  },
+  {
+    "address": "0xac3d0dc3dbfbd13ea8c6af87625ff20ae8d4c13b",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x93f337e4f9aa09fcc9c54a51b0692ca9c50de9fa",
+    "totalTrades": 2,
+    "profits": -0.003808
+  },
+  {
+    "address": "0x354169d728780502f8ff228c961baa194dd1e009",
+    "totalTrades": 2,
+    "profits": 0.8258
+  },
+  {
+    "address": "0xd492d11101b87bb231341f855c31309189a1d1b1",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x9ed92a2c187e429af92e5f51e903f912d81e2a76",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x97181bd8b7e8d3e13e17d447bde19e6107d1b459",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xd878320d7eaa775ed3e5010a4393e31e4e220cf2",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x256047a80b0bc1f363c5868ca171c7fff38b458d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x5d6d2daab1d0c9e42419b327f9a935533500caa4",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x1db3439a222c519ab44bb1144fc28167b4fa6ee6",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x46449f4acf749949a3f09f8b1e6b21bbd502dccf",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x3c92e144062297cfd08a5a9baab59aaabd3231f3",
+    "totalTrades": 2,
+    "profits": 0.570392
+  },
+  {
+    "address": "0x0d85de0195e56b5dfa52878e71f9674267fc7a39",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x0340c575d6c41ae0c29bcc5ea1a7f52dfda149bc",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc6be8448ed697ad5455ffd31bf8aa351001e032d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc3841afb98c05fcc83636d2bb17d4d923ab09739",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xc56d50d4394186201521fe0c32e6f29ac8cad1bd",
+    "totalTrades": 2,
+    "profits": 0.007899
+  },
+  {
+    "address": "0x4474299d0ee090dc90789a1486489c3d0d645e6d",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x075c2e7f27226691bd10b2f7440381817e3f41cb",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xfc6d4d8b0ea1bf18a12761e7fbcfbeb9caf69f4c",
+    "totalTrades": 2,
+    "profits": 0.004666666666666667
+  },
+  {
+    "address": "0x20cd153de35d469ba46127a0c8f18626b59a256a",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x450fc924276b71e84d2a5dc7084d1daa74f1d9aa",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x840f9ab78132ced35c4a27e0f510364e347397c3",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x2f70305965cc71bcc6f00c6253282fe33a3170a2",
+    "totalTrades": 2,
+    "profits": 0.0375
+  },
+  {
+    "address": "0x60cf4e6c02891a7bbcf11138b93613e2ba9d8aa7",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xf75b78571f6563e8acf1899f682fb10a9248cce8",
+    "totalTrades": 2,
+    "profits": 0.11124950980392156
+  },
+  {
+    "address": "0x84491bd79eb704247bdd1b2645094b87844f3202",
+    "totalTrades": 2,
+    "profits": -0.010549
+  },
+  {
+    "address": "0x7e80f2826b6c99810786cec0c19e48bb893d3635",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x54e13ca8e3be520a6858acee04c6e1f562ddf443",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xd05955436368c9659b7a1bdf8f0427ca8c193b11",
+    "totalTrades": 2,
+    "profits": 0.008055
+  },
+  {
+    "address": "0x7f5ee9d51c6f67fd6e208c4fd873154295b6aa31",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x593df2090f83f54faa17ede916f660ccefbb3b5b",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x78e8c455c998d5a023ce5df5296702bead0b4cd1",
+    "totalTrades": 2,
+    "profits": 0.13429891
+  },
+  {
+    "address": "0xc8193137f700e8893d28343fdff9369e2a16a5e4",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x411be57b4c10cfd80d9ae1e7793934f8717c93de",
+    "totalTrades": 2,
+    "profits": 0.003
+  },
+  {
+    "address": "0xbfb3c0ed69218a34c757f629debd48e31b0600c2",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x7aafc3d779ea0a235a0db3ff6b04d6dad35ef66f",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x5abe03e14a0d4572e6667b256f8ee17bbeb8e97c",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xa6ac53e2aab6ca452c5ab3aa43ccab6217430cae",
+    "totalTrades": 2,
+    "profits": -0.04701
+  },
+  {
+    "address": "0xecbc14d3817568b07619d7c0a2a74a474ceb66e6",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xca7a926ffa0fccb9bda2c4d3ac968b7c9c1276e3",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0x8322e473de1ceef7c031c8fb1de0df86a9f3613d",
+    "totalTrades": 2,
+    "profits": -0.00012899
+  },
+  {
+    "address": "0x817f4d1f707ede91f30de3f22d526472c8834ca5",
+    "totalTrades": 2,
+    "profits": -0.10299
+  },
+  {
+    "address": "0xe20abafdf0697274e18068840b847a9a637e7ba0",
+    "totalTrades": 2,
+    "profits": -0.004
+  },
+  {
+    "address": "0x79c1f455fced9c9dabbbce580daf6858bd0b1953",
+    "totalTrades": 2,
+    "profits": 0
+  },
+  {
+    "address": "0xe87e1d89e30adc6c5d335443035438b68d4f197d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9e76cdd200fe28e5fde69743abbf1ca7a96ea167",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8e4583ddc2e3047c83a4349bea0e802c20483ddb",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcf0c8edaf6efe3d1116e0cac536648b9964104cd",
+    "totalTrades": 1,
+    "profits": 0.4575
+  },
+  {
+    "address": "0xf432d9f9ba665dd465f86e248419d91bd8a74517",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xdc00c6d42397b672988fada754e2f53ef3db9f9a",
+    "totalTrades": 1,
+    "profits": 0.6099
+  },
+  {
+    "address": "0xee66fa9fda389ddf6dd4720f13abf414f27928a6",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9e4767f7fccd1926d0367941bb6e446bdd2d0328",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x27cba1153c9a0807a9af4dcf9b04dfb7016006c0",
+    "totalTrades": 1,
+    "profits": 0.035991
+  },
+  {
+    "address": "0x3f17244f636f12e4324717ba47848be81d6bcb35",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x147824b5e8fb916e37cc47494afdb1dbb41f1d66",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6ef2376fa6e12dabb3a3ed0fb44e4ff29847af68",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xccaf634a3c7ad61ddbcf3a0367504aaef93b2669",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x11a137156cf233791a756677219f88cf921b4240",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8f57047cf3ed1ca50693b4d5d3554d9ddd542e2d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe85e102e5a2c5e9f3a47d2c47e8b1f30ec119d87",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x386106dcf858988091a51191a69ff5f9b5b1403d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x12cddf160f87a92f63e5a466178bb9234625ac23",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x14e2f1f157e7dd4057d02817436d628a37120fd1",
+    "totalTrades": 1,
+    "profits": 0.21245
+  },
+  {
+    "address": "0x08c2da2d3c6068e07e538e60969fd4a387d2aece",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9feab70f3c4a944b97b7565bac4991df5b7a69ff",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa114d22883a960ab993f19965f6137703b9a2da8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd97a45b8cfb2af21175476b54e062b69fe2dde10",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7fe583fa9a92be3fee0ad6b00f8de954d71a5073",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb6cbca39b5bb229c15bf56e42dfb575b344500e3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x36ef63783cf444e59b2e28a4895876dcc75a78c7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfdd9f9381288031aab1008fc612fa8fd55b84b01",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc1c20ec7abe723ecc335de974a6a23dd04415a00",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe4273cf19eaed91920582fa0079c1c40d3e47140",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9ff2057207cd15fe4caea76bbb5a06f90e661e01",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa17ce52056ae38aacec1760011161b682050786b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x81bef8232f7a8e7b2e8f6847e898e84456b9499d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x49f9d409c580660b0f8e51835c4c6d2f4433e93c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2c26aa15bd6df2ea32d08a0e0d92ab3e32980d40",
+    "totalTrades": 1,
+    "profits": 0.14223427805967706
+  },
+  {
+    "address": "0x07e77c8739614cba5bd62be99c7e8317c25383ff",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa559dfc755af9f47c066faff066d2525e9e087b5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x13f36e7aa0cc824c63842387c85b5629fe4d4515",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1a1fd1e88c6ee555f8eb64d73fcbd3e7d1cd8941",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xebf26791d0e4d3d6096f932afcffcdfac9f9e9f8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa4ff74f6c1b86f2487a8b089cc2f599bc41f0ab4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1fb1a7166730711e9fe047f3c94a85dd3c7b31d6",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x31ef80f1e304079714215ee392c0a51842636247",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1db7332d24ebbdc5f49c34aa6830cb7f46a3647c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x888d6c1e3aa1448279fc69ed8ba5ebecfcc808fd",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x06171f047c1b817420ab5a55cd41770f9738f679",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4621e524e6f95a6280b7761bde3d150101b290f8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x11e52c75998fe2e7928b191bfc5b25937ca16741",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x497e90a0414e1f07cd39416d09f27dc62098bc14",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd88361e682e91a8bf7bd8ea256515dfcdad9ca0d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x5b18f167f7f5efb5357a2be0a9a1fd7192908ea2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7f36d8de3c249ea4f7b37cac8653975eab2e6050",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7d6105d75c5e6a40791a50a52a92365545e9b112",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x933921da1e637c4f053f703cabe100bf7034bcdd",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8498e23daa7d7efc775fc488900543e2234b0836",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfdeb776e96bfad7135941eb4aa66801f785b02c8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa74249e206bb0239e1c0fd89d49b859012aab917",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9ffa1ca74425a4504aeb39fc35acc0eb3a16a00a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8e87cb675e0f1f5ba60e06446faa3cfe4816b9e5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x784b2d270fb2ce1434c68244d7d322b5ef15f1ec",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe3233d469380271772217382ed7d70f6e103b33f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x88ea918a9da677bec4481d13d7d9a9709f3c083f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc11bda3107198b8e3e607a3ec53e56a027164061",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9d733d46663967093fab6a55c1110aadc17648fc",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x43d7fae5b5d861d6764518ef012a8a8d2d4811ba",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa66a7e1a1242d8b0a1a4b4c09e883e5b5b5487b1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfb87ecd70f5da0cc8bf74a8f41ec537c8acbc9ee",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7f86fc5ed9d324f8fa0a123ad893342642d5a305",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x052a126d5493c4f7340e154ad0b1f1ddbb2c3c08",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x21fbc6ef827c7f0476b5fa26e449081357e6196a",
+    "totalTrades": 1,
+    "profits": 0.23445
+  },
+  {
+    "address": "0xc598600180f678cb6a6376f705ad8c75963f06c4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb181da61e2418b34a80dd462be09badbe59d7ab5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7290df08321aae31fcbb56b4da7a3248e6aa90d8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xaa3597a9ee79a133392901b11a0910cbba57c785",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1234065383f9f0c38524d9540c96d5ff705591cc",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4b68268c1a4f10fe7440c1b4fee3b902136e01b7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1b26c22c1493df1399d8efa113ef99bb27ab9eb7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2ea007b62fb0b4a909d57fc8e76d112912e34171",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xce492cc2e4c3a36874ee8601b70ef486924ed966",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x955ae1cbf345a04bff9e20942ffdcc51035200aa",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x71edcf1122c7f8ac7e80dbc8a8881f7d270f0cef",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3017c658c3fa05781e96599395325ea3f2350b93",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x5985bd9d11b4213b466e5557b607c4a685f3f301",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcf12d2b5bbd585bd92af9019d690459bb5872ccb",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x53e2fb1d286e2ff662e77001ae9470155a93584b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x783d68d8000b03ad5d29447f1f07c706a0a53fde",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8b91c0dd24c4fd4f973e49ed8568921e31cf38b7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x460d38c7a4222491157a42c9c44b0b38bb4092cc",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x98b90ee4ff5891708082ae9880b744b125ec85a1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe1b7a7dbc5b3d6796e8fb2fb648a96aaa25f7ed2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd5b738c6191c5f6b658a67ae4a32c4c2d4e4b045",
+    "totalTrades": 1,
+    "profits": 0.053991
+  },
+  {
+    "address": "0xcc278238ec9748b2345fa1556804046cddf17499",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe3b1c7a434657876c3f35003885f2edf1bcaf646",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8fc8629eddb5f4ca521bc5abee576f52cc0bcfa0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x15d9f1e8eed70d4cd04e5609df292e57a2ee004a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x61f9ed0db52fdc596264f26716d44409ef8407a8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x940edec1badde802c8a72b792a03e30f4a2a0114",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xba740c9035ff3c24a69e0df231149c9cd12bae07",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x114864a2246dd26406a2274440b2a7bdaaa02404",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfe09fd1d01f8b27238126260f7d211763344423d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1d428e4d7b36b4d114db519982e77d3fe3371632",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x121548e9964b7da59a5076817c533b5481a0179a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe7cc694b34f5946b95e0931a32d64effd7b7eddc",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x967522977231d072ad0b47aaf8c5018b04913ce9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcd44cfe88b8489ea6bf1fed1f7fbb7cdfef07d9b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbfbd8d583b9cd6d741bf261a6d013803f10c59a6",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x697d27f28db7803b897f19a1237511bc70c6fb34",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xaba74d2a8998090b513b72de03f1710b0cc8719e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc68993b3a8bf30288bccf0854a479becb0171bd8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf48e2530c3a95d91a1b99f7525fc434ac51fdad3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfccb964c514c12794509ed62fa274f0e284cee82",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb1edd308933b50dfeb42bb69cd7b05b1281ec0c1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x13eadd7369a720c231c74a78d6b0b97a15cf9f5c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x33881b9a21c58607cebecb75884eba36a55e1ee9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x961bc3f77105243368bf223faa7fe1a69cdefb4e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa78465a0cfeac95b96318ebae390fa488f03113a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x62cd3b03a42ad6c1fc56046992e5afc67b90e5e2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4273c8cb546a6d068a3b92c020247a96518468ed",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3305fd893a517a917ebe1c6b1f203f13c2e2b7c4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x412f512a2eca2d6d2ee8341ab07921963846a6c3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa808ba63710fb2f052871eddd6ac7f453df609ae",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2e50ba79df20bf279f8908f406be8fb70f8d1e20",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x34c738a9034c437a1fb232e66824edf6e2624d62",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa32cc45e35b7cffbc13ffa0ccb896b4102978b38",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7819b0179dc77976098296d075d1cf7198b0a9ee",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x22904c5ff3e35435f6f05cf91fbb928547597c1b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8c057df27518f6ce63f0d363e06924de2d895675",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb6fc3a45d5fbab607220ac3951120df8002790a9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0cff75f5cdb7200b4afa9d72d08f615f4e6acd22",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x02e312409458e52b423dc7dd067198cd953dcdb2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x05c4355cb20e87e2d9cf7a59ae2b344281f76328",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x594211e70f5cc54cc74386adfe405f1c22b2c2d7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa343618637bcecb12a723c9007360c305b0507c2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa9a8bf55f609c9c4e6c74fdae57ecdd35aa6b8db",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb7c6fcfdca65da8b070797074f9cee9053915eb0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbf1d407cef910d4b0ed38af3dc938d17ac612b19",
+    "totalTrades": 1,
+    "profits": 0.094485
+  },
+  {
+    "address": "0x707cb14cf444b7f260193bd2ce5761ce73ace1a3",
+    "totalTrades": 1,
+    "profits": 0.013197
+  },
+  {
+    "address": "0x42c8a4e635fa59510fe75a4d37aa7f58776cbaa0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x22dcf30d2c43994afe3795718e6b619119909f43",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x42cebc2e8e0425fa681bdca11b088c56c4f12265",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4c9f4cb5f421435a04f7562b5758b9bd12f34680",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0cbecf33aa32a2241181dceca21fc636f6660f8a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xdda897721fb6aa98e5a66f4badf46d60d8683fd3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa6f73764fed1a058a328c0a4740053809f07875d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0a4ad317f9542dce70e9f7e937441ab5111e292e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3f067363dbfa63e6b8957c0035ed0330fdbd362e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x668a2f9d0f23f688711d37bdf898efe6e70e4fa5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfe8dd8a3ee5d0d2118102e2ee97126808b21637f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf67120102fd0b295648d1d7d84b9bbc86dca9032",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x27ee02e2753c22da0ebc22115f06e1e716d6c0b1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xacc606131a1aca21b52c57aaaa82bf6d95a9420e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3ae9a7cd8fdf4e6a1f3b2eafe484eb0622d499a8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x41a24bbe42e592534bbe77ddcbf1a8b3ef6b0453",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x194cf5980b39d770c58056f8a83cde37a7e3afa7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1223f359ab68a4a7554146b2ff8fdd1e07a3bc21",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa536cdfe5a1f564fb70d86599e345a0a89fb75e9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa7ab39cef57258baf799b4ea2ae7acbd297d4ebf",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0276dece5594a6db72e044c85488519a18f9e462",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc9403834046d64aac2f98ba9cd29a84d48dbf58d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x5d2498a8a80f4b6ec2e3cc3411b6896db116f08a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1208f01b692140528daa35fd4b0410e58980427a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xda31db6f4385ba311c70ff340d9b0613b544bb97",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8239ff0afb54509551b82db7199da6baa30fcd8e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3e2e1142f4751ca1863b541fa122261182e2325c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x99390bac1919423b87e8a8517ebf396866745c72",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x21886c649daf8c9a7bf8d6554230440a5da85100",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8df005c71b207e1bf94692dfc7f029d3225459c9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xdb856e59b077f9d2548719a71e549a7b61cb78e3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xaf413ac882c28b88254e8987b2a72bd2833f5a97",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb09a2efbbbc0656fe01814ac878d989c97724334",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x38cc13074a797bf4ada782d58d8b48293af83522",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7fef07a03f722debc76b67452aa6284818f2f5c0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xef68d7aca7ac0791f601cda7bce80d4f3d5916cf",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2a5d85d5f1e676184ca59840a459ad66fb50313c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x69005eeab9091cb8edbbfd5e7532148bf837e977",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0e972bcec4d60a19b039b7bbb2e9e63e595137e2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbf92a2ac06a507a6ac8ba84ea01ff203691add66",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0bbf2f548b462be03caf6a3b3c3a9e79257d67a5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x36fb45bd8ed0800f02aaf86269cfdbd61bbb980f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb6b7b4375c43a592592442c86d3bece81ac652ad",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2d0fe5fd4d28d970b5652d0466f933fc50a2f517",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x325c97b516a740a2954773cce74e2d8de27f034b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x30f0e09b97c4fe4ee34aa482a9c34184372adc20",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x31e4eb45aa0d92cfcc2111e3886a988e69d0781c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6a9850982a3b1f21cd1431caece3a3491fba12bd",
+    "totalTrades": 1,
+    "profits": 0.0027995
+  },
+  {
+    "address": "0xeba6a1d83e0871772d76ff9865727e2ac192b1ae",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa4e1d2bc04ab6ada91376646109ec6477c7088f9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcdf285269996b12012c25a0b3071f1e1b2b5385b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7c639e38befcfd10a6c6c2b8902d5d8375e52e6b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4963d472c530f78075fef08ed2ddaefbb5dfff2b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4dc5a25e186309fbf25c0321ab3135755c23f753",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2cb35a56d4400b65efce8745b20f4a4a3e663716",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x01a35017c1475e9c4daa88771ee5bc9ee427c28f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf48afec25a7b681442077ff42dce035692586b7e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe8dadedfd3723dd76394b1f85062adda5ea0f2bd",
+    "totalTrades": 1,
+    "profits": -3.8620714285714284
+  },
+  {
+    "address": "0x486bb557efabe5178c3723f5a7982f6b216477ab",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x31a689e7d62a6a5d59b8482f3556973c0fed7eca",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4153bfd4a2a3cdf6005eb5821ddc96f7247ae018",
+    "totalTrades": 1,
+    "profits": 0.24495
+  },
+  {
+    "address": "0x3eb24c61590e6cd6fc26cf4fb938316206147859",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4d69a1b96e15ce195cb8eb51e0cfff4567e7056d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa9d97149d6b94f7a11475b86664d0157cd242f79",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9df712718352d875ab2c294611be974251604061",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd2c39cc04891159e0fa64216bd29e9efb40b5896",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0f8c0019414099aaf0db6a89d9109f41d03d5769",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xeabf7dec6253f3ddbcb70a93fa9a5d6470f6cf74",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x69ae672aa95b648d5319d5424a7922690a55a95b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x71d284e5d88ada44545c1f2b70f9ac34624491a3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x422db8d9669c0a9b5dc633a47bdf5ac320d561f4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xefb0328d3c0a8930f0a9859ff3f64186105b99b0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7594c04858fa87fbfb241702a29b2c636066d68e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x5216bb342911b2ceb4ba609643b5f67cb3327b19",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7cf043b88cb7aaadefdd249a46e77525fe49a305",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcc09d45e3cdac675ccda6ec2cf8ac612b566fb99",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x12613899f64a89cde96a173b22f093023a599825",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb24856858656a988fbe21c00814dffcf9edcce62",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6bf1bc8c798f08615fa6b56563bc1a9164ae7eac",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa862b5237f4882a6b29d09bbf2f1a25ff08e16bb",
+    "totalTrades": 1,
+    "profits": 0.011995
+  },
+  {
+    "address": "0x632be0f9241494e4428c826417d574e3b17ad277",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4a466d358dae0cd134c6e90fd02cfd3556c58b6c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x879b61908b56e0adb9e67a088426749761be2398",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2059f560b33bf4101a19739cbc789850661e5cdc",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x48a9b43ab167d1aeec4d2cee88ef43cf625be15e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x789bb47b1feae92594c7c871968ff69aa5622e2c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa4a0ec379f72fa5e1c7d7df29a40d74e4346f398",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x593e6bf1091e433b9a58e358cc75ceaf358a7f92",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x29e0a3195a4a721a9938037f65b926b71496de20",
+    "totalTrades": 1,
+    "profits": 0.19269774774774776
+  },
+  {
+    "address": "0x215fedd5780c39fbdadb4bc3700de61a8ffdd74a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x631be4762a3d5c2fe2d9166e530f74addfcb1567",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4de137d00949da92340acc1da6f4c662f11a5bd2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1114fa65a2f3d01b045dc2c22cfb224af4f16198",
+    "totalTrades": 1,
+    "profits": 0.02499
+  },
+  {
+    "address": "0xe0872dd9bff47a87b9b499dc81c17fe2ac2e0cd6",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4f38f2da7720f1077a45b80e88c0a78c0144c136",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x88f659a3720a764f2b96e440fb30c9fd0006c118",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x50ce537ddd25763d7c914262c1794f6bd900c902",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7753233bfe961ec770602e3f80900e26a5357f36",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1317b2ee7a3971b22be575d2685bc348b5c3a33d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3d95c463726b48c5b8cb0db51994acee7b8e5304",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc4121eb4ff1cceef0e5d1e6ac7433dbeb713fa84",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc03e6fda02e1ab2093d8732b4d085c3b059f2ebb",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xaae9679318dcb47b33bceaf8f9b45834e1d54dec",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x000783970e93539003a25425e1f68e29103fac71",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x590abb419edfe4a24a3a0f3489a4b685f0520d74",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x81035fe34cac6c4692f3e34913d3d475cb83e914",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x5c5530d5bcb2895df89c810b5f79681c5605badf",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x16a33e1dbe5ea1c3d2c0b378764595887464fc73",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0947d44690bbe68bfa86c81783e071f8e578fbee",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb9edc329e9a389aaf9e5c46cfdc2361fb1955ce8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xff53a4a52b1111cb61c5f541a01963e49306a8e4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe5808e5532f885e590b46157bbb8ca96e844f503",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x297289405faf325d416658e93d93d0ade229528c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4e4d79b9b2ed617e237d9e9516f69cdfeb51f53b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x549c0421c69be943a2a60e76b19b4a801682cbd3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3382726df6df71ced9a002308820909315ed450c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x410094daa4f905bcf38012b6c5bad72916fcc426",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x124e1fafcadc2c017a17b4bbbbfff3867b7dee35",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc64aa0781e6db99373245e93dd6419447bec8815",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x45db57ae9bdfd2d505c0b3ff897b13218a5859de",
+    "totalTrades": 1,
+    "profits": 0.008498
+  },
+  {
+    "address": "0x6f0ad41af2bc92f4f947c97bbc9a91c5145929c6",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x146604361a3e69b58d3e022977a733b00f2dd627",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x58be3faa9de974ae6508f05da67b927dcfd55b29",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x54856559ca326d57d477ffbe26f50aed8326b5f0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8ca14b8a8185b96b39855834b673f580b6c22b4b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x50af5f78a48bfbb09d4a53263be9a405b4d39fec",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x75b28fb36f2c607adbd10a91f9f5b8f890d3e56c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xebc2ec9db6ecdb0f589de21f228514902f6d4898",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcd5f8fa45e0ca0937f86006b9ee8fe1eedee5fc4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbf8fe5fc94c08bb35ca5bdd2e348fc2e9028257b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3f3f76aec7322432495156129d7f4172d756629c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x16406e7af39e71370c58a0681869eac887e49d1a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x209446f357472c00c9981ab373a929cfabe3ac4a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x822f01218c83173f3b81375820be232c1c13b2db",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf7c751457363e84f5fda68e527b318468f334cec",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa7c855f258e616838dd7e25978e4f81fcea0d5d5",
+    "totalTrades": 1,
+    "profits": 0.6034363636363637
+  },
+  {
+    "address": "0x9c0a383fb3e87dd6ca3363ace6b98fc225f701b0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x5ac843eecbf67669d4003aa49ae5e0136dc73365",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x54446860349a3596465eec0fa5ca048538cd75bc",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7795d2138ad22e17598958109ae1e307b057540f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1a171a91b4aa1a669e2397d6670746ddcdd4fbbe",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x339906c08fe4044544154a099bcc1566158e18de",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xce13c1f43b8b58b50bdac3c4c624893ad6cc7c4b",
+    "totalTrades": 1,
+    "profits": 0.02495
+  },
+  {
+    "address": "0x37bb3f30f906425496b881dde2d59387bde0a584",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x38d6a550ebe865aca6938faaba0b34fcabb0d011",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x59146abf1949dc23536eddf6d774d5bec38cf09c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe836f5b999dcf3ed6a1fc9c9ad5fda616cccfd23",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xdb0374ea2c3120e10b9ffd60ac2b465a0826e39f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6fea7665684584884124c1867d7ec31b56c43373",
+    "totalTrades": 1,
+    "profits": 0.032995
+  },
+  {
+    "address": "0x3a1aeaac9ad1e85cbe9c9f636855ea360b1fff6e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x83be1e43f2bd64cbfd5ba322d92cde387f9d6104",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0ffec9528225c08799fcac286b4bc3aed344f9e0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x67406744a662bfe759fae06a496cd60dd0612031",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x72866e0fb4a66bc5e15e15e763b447b77ac30d59",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x66c18ac12b1d4790939e84aa3476adfcd8284180",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0e02c1d572c3079cfc964a2364112e785206a5a9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8521ea5a7e40e4e95658dc016201db1999cfcb6b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd01e783614670bd91405f9454468bec786b1f7f8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xef42cf85be6adf3081ada73af87e27996046fe63",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4ba63456e5d00e275c561125796ff5a9ad5db990",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xae41da057a3a544302b5448273e0b1b764327ec8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7d9600ae60273da411cbbca6974ce18f378a9dc5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcea0af25df578f7b83b3658ee08df0308c8efce1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x47b5ed2279478151d1631014aa90f876fec4a136",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6365ca7eeac872310727dacebfd5c31fe9ebacea",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9cbf187b0e1e150d7cfe95089292f0828d94fcdb",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x305546d195ff63dbbed249fd20d3957f64e92d2a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x268ae302b51e97cf56547f549b32feb3bcb36f62",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd7a088de4d41cb945d23cea02a07a28b9d11a71c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x90f0e52a5c766508d7210443eec8d7507edda9d7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf4ae6165c3e05ae7426c5b5200e8b9a7565ac595",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd00ef47e995f4c0d1a988892a6c9a2b22c13f959",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbcb4f68f6b85efe5f8af1471fa496f172d123cad",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7e08b626815d8bbe5c61c1fc1be79a31bb6d5691",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x62cf4b57b3b0d731ea5e14f0b398080b21b03a4c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfb2258531bf849cfff97278164eb3eca2f24a2db",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x172389824bef8469998e920ef45c04c5d7689c9c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x594f5b1d405c41fd5732d89cf0a442f6361575bb",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc218fee85e82ad596c86576017ca1aba274075c4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1dffdb114e58baedbd25290a1efffa9fc3726d1f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xdbc0a68c62ee8bdfa54809ea8782f8ccbb9a8907",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0dbb74cd877e3d9d98ad1298f571cd246114c502",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x35e352e52fc7b7daa82c8e875c45294800bc530b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xaaf5cc30ef3a571adf322d138f3a90205d0d76ef",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xda5dfd4557cb05ba8ada631adc44e40217f22ff3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb841457ef1eb2c4237ed840e304d8e6091eb1912",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x02a58a673128f257b6fd2e326350b2457932f66d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x517dd6f2440f8a32c0d1e19f91ad23c3ef57f5f5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x530cf036ed4fa58f7301a9c788c9806624cefd19",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfed0d042938ad807fb9abb683c9dac8a0d05e426",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd2357fffbcdc3780835ceff1447c357c413ddd65",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x901bba704452a07b934ba09b435e4f45dd2a69d4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4a2fcc8afeb7034c650e0fbb0fe93cdf97220c1b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x68a6346da04078e1065dea068caecb5ec73112d3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa1e58bad5c1ca9712abccb64a5e012474540f83a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbf44a51684e98a18b227edf35d09c760aa2a879a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf1c383cda60205ec27dd52edfffe0b2ecc4cf995",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6b80ca9c66cdcecc39893993df117082cc32bb16",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3f80f924ee22a5eca90bf855087d3cb593cc015c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xaed2f1af07f03f7a033d4aa58fd0c341a1a7335e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3bf479974ebee8665ce62c7e8863ade0c23d6110",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf4edbde312c70c09a277dc4904d6dc2f9133c049",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x14e3e8432a98dfdb59c74d9bb849163e18bf597b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb1b7d4bf12855299c24f1b6d7dc3e316bb85e14c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb0fb351bbab912aeaed02062ed98108f97323833",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf22f00d0b95b1b728078066e5f4410f6b2be8fae",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x51904b09216975ba76a2dd94e69010b1a0ee9643",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8ea3774f6e6363dd9b829bf5c3349f863fc40e66",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb188ee1daca51ce6b58ccf8a81ce4025a714bc73",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7e38aaf9f63cca9749027e36b4dfe26eb93bb776",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2abe087c85a216841164baf3caf331f082b4b880",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x297e625054f2bb2413d955435b390542fd60cca8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x62caffdafa8f723dfd3777e1ec74f6ac7389a384",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xfba822b5c612c311676977cd5c34d241c2fd2042",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf8d575d8fc46a0cbd4512376b9f2b6273507ae24",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x32892683df9b0f69083ec2f25ea9a01420b8d0eb",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4ccef2a037f4c21359467740055f33d2556b0096",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4d9c1ccb01ab387a68d725ca59c4eebf4668e357",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x5b67117392ace42139b45c311568a996faaf4440",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x92b9a7b6caacfe68420eda7c1167834a73e383f1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x34c3a5ea06a3a67229fb21a7043243b0eb3e853f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9494ae1853cb370787d17530c46b197e67034eea",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4d0f7c819430783286f9bb54d09e95ab2262fce6",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x816d45ac87a47a4fa0e081ff5f78e1a40af3720b",
+    "totalTrades": 1,
+    "profits": 0.05277214611872146
+  },
+  {
+    "address": "0x42032c22c510ad0698f16be9b99640efdeb02832",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0b5fd644b2c21f50f83e1163dc5903079869ac17",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcda7f691a11d55587d2f75b1cd7c86bf86c724ed",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbc77fcf29ef2026db29604e5a48b7efcf459cd95",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0ad82809168be581d1e708457b4a45b0bb311632",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x19f45ea63b9d9b864ae2eee603e7b106df875754",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7993897ddfcdb6db0d855e72096d6dddb94d3448",
+    "totalTrades": 1,
+    "profits": 0.040788
+  },
+  {
+    "address": "0xff16d64179a02d6a56a1183a28f1d6293646e2dd",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe6afd2458399e8dafd6829b25362770ce75dbb6b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbb7aa1c3a857f3e3686db5c61c576edad9ec76a9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbfe3df7944983d2a2abc7924744962c6771db1b4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe61bdc131c622e4fd59634fdf7b157b7791cae7d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc40bd06b22a74dfaa8ccb2a310a247256f62bd27",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x48a0fd4826fbe82091064922507780d30c40f6dd",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6c5c9d3b7c2cd9f651dbbbe9bedfdc8f3937c813",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x446252b54d626cf4192e5c74545761dfaf7e5a50",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x958df4bf58a7dd5d33ac8ac966c1fd1cfda1ed02",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcd22a3962a067472b335cf2564365c3034bc975b",
+    "totalTrades": 1,
+    "profits": 0.16995
+  },
+  {
+    "address": "0x75afaece8cf2a7974b1e541648923afd9339b3f8",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x435b9aa949c04d9d88286d22eaeb0de8316cd83e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x61f9f97700d391d875fa14e020bd6f1e862ca10b",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x180df15230387f0f26898a0a4e774e193bbcb503",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe29a521f93f941035663a1455fa3c0d1c6d599dd",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x7d72f11194774ca2052c15173fcceb7c5f87a006",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8fdc07cc76529566bbe2991401541df8b011db61",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x729f984b794622c094227d5318d643e46578783f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x90cd76f26e1c8fb995dc293266db0ef88b996959",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd75c2022bda486dc4a950618c744186c43c6872d",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xaa6a4d9e6c81d1f8d4eca26b3d969af8b5738d35",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6a2a495c02936fc3c4f8bd7a74e8162621bb2e50",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x63a375129e51adf4eaa1e6ff26c03c5fce2ab9a9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa905b3f9fb83e1fc7a2481cb3fe3fa31abcd3b06",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x230fa8abab4d710aaa798e6120ff9792a285164e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xab4890849234561289150a00889d59bf17f74ac5",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x80e774718b3781d4527f0ecb0751074778870800",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x82f0c350d6556d5c9e9458e1e475e951c27804fc",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbb72e559fbca47d5d10e60c6fd919351c8662f32",
+    "totalTrades": 1,
+    "profits": -0.25505
+  },
+  {
+    "address": "0xdf2c7fc1d1a231f845293e88b378be988580bc77",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x92ac688074e38c4a26948d3a6ac56c879e6c99a1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x10885898f58f73cba69e0df9114779d8740e8b83",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2ad19d2a360dfa04e94bed4eeeefed6bcde1e940",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb34bbbf660edccf5b4425e50a936efa25cac26a7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x469d97e8b9623b890f08b2a0ad9fc74e8b5ef342",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb43f7ae0f07d0397a2bc0a9eeac03997d4b8af22",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb7922c63b04707b47e3e8561b1339dcea3e08368",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xde982bab0b3757d5fc412385e18d7ceebf7d0216",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc6e9a88d65673f15dbd4450f54ca1b38d11aca88",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb40147285ce4937f7fedb7d184ae35c8d283c364",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3efec8fbbaf733073b8aafc123bc17d77b78f6e4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x39fdb8a6c15e074c8cf951104f1d9038343d9eba",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xacf51aed1fab83d04b727368a5817b876c06fc88",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd55ff3ac8482638b1cb4dba5e62a7323057a5c16",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x903ddd91207f737255ca93eb5885c0e087be0fc3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x3dc979163f1449f50f8ea3a84608a199a677448e",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x80911f9557f80378e6692afc3071795d3b0b872c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe80e8a006daa243f527e042ca18a72e7fa161b06",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4759ea66e086dd0acdcb611149300ecc7f4ad506",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x8307ee66531d5cf37e84d2781b54279e3a49ab94",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb3e62c2ec57a1375c193362bcf6dc1c7db616ea1",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x93bfa154c8bb3d7a61082cc2eecc450508561c71",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xbc8a8e271d2d6ea79f402ec1e535f60df902499a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xcc1004304901bd943079f2e75b642b77a094293a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6734f6dcaac7a8a538102fe9ab7d0f6f9f4409dd",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xeaa829cd5a115fa19a8b67c8b9ed405ac93d5c57",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2fd632641731a1046fa24bd80746fbc29d29c91f",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xed7abdd4398ba02a892434e018b8594110fd2e34",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb5c351b83ff3eb8727ae04e2409265b755c88591",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xf92d38c0478a1932300d17d4d3af5bf91da8bf14",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9751450f31d05bd876af6710eacfafd5a1f9acf4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x0a136378ccf77da0b017e44f8cc46eba558464fe",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x14ea212c473855bb235bc04225a9e029c7669962",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9e889af7167f7dcbbb5cdafe947f1392b31b2357",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1dd23003de1f2825a8bfbebd651969e979fcb384",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x47930c76790c865217472f2ddb4d14c640ee450a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x015415663ded6f47f57940ae029654fd39ff6213",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x42336826ae2d0cb9ddcdea88dfd023a6b48cd926",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x03ed2992a1d07ab57ec01f0c8914e22b53e48d87",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd23538093bed5c71b2750b385a48dc9a0483672c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x1cf41ad63f67f3e7f8a1db240d812f5392b9a9c4",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x358658c2fee3bd6580b01c3b0405b1b0d4b68c92",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xe99b1148e185d2b8e4e901f60c0230696d3fde2a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6029848f040dd17a54231b5683e0a8deefc0f127",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xa0af40e2d1e92760ac3ad52a883e9d4cccb42bac",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x14f149b201c41475d12c0f5c18a8668476d86ac2",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xefed04b9c41827f103917503848d6e4395357ebb",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x212c7e4df3c88e5b46b1497fefd9754c3810b6a0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc009c7ae5f3e6df9810a8244ed9c9e3d35b789a3",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2badcdeb7a29e44800b3b32bb627fb06e6a1551e",
+    "totalTrades": 1,
+    "profits": 0.05399
+  },
+  {
+    "address": "0xc57162bccb0666cec1d5f8a90112d3fb00405341",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x9f7dd5ea934d188a599567ee104e97fa46cb4496",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6b563f9488e865eb59439e658de9dfa7605f9e21",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x4fd78fe86bf0cb7f7817941693b15619bec97d92",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x03c391eb1d0982dfffa73c7ffebc0948b62fa057",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xb8e3a018196a1e411b8440b4fcf301a511ed29d0",
+    "totalTrades": 1,
+    "profits": 0.14148140404040405
+  },
+  {
+    "address": "0xca1fe98cf0a8f1c84960e8a34c117b2b7bb688b0",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x6d45b364ccbef5c7c61f1b6449c03a3cab28e9f7",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xdaf7aad37a559f8afb187f2acf52142db8b1a2d9",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x2b29e454cbacf9d19e70c5c6ea4eb5931e7ec179",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x495b7cc40503d3d60d1a182cfe783a80e531154a",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0x058251232c086247ca91998472245d8ae213666c",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xc7391970d642faf65fabac8f63b0d41c4481d787",
+    "totalTrades": 1,
+    "profits": 0
+  },
+  {
+    "address": "0xd0251bfcbadaa605e1057616c1530130cbc850f9",
+    "totalTrades": 1,
+    "profits": 0
+  }
+]}

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <style>
+    h1 {
+      font-family: 'Roboto', sans-serif;
+      color: #555555;
+      font-weight: 300;
+      font-size: 32px;
+      margin-left: 20px;
+    }
+
+    #chart {
+      margin-top: 100px !important;
+    }
+  </style>
+  <title>Augur Leaderboard</title>
+
+</head>
+<body>
+<noscript>
+  You need to enable JavaScript to run this app.
+</noscript>
+<div id="root">
+  <h1>Augur Leaderboard</h1>
+  <div class="row">
+    <div class="col m6 s12">
+      <div id="chart" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+    </div>
+  <div id="admin" class="col m6 s12">
+    <div class="card material-table">
+      <div class="table-header">
+        <span class="table-title">Updated on block 7116000</span>
+        <div class="actions">
+          <a href="#" class="search-toggle waves-effect btn-flat nopadding"><i class="material-icons">search</i></a>
+        </div>
+      </div>
+      <table id="datatable">
+        <thead>
+          <tr>
+            <th>Address</th>
+            <th>Number of Trades</th>
+            <th>Realized Profits (ETH)</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+  </div>
+</div>
+</div>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+  <script type="text/javascript">
+    (function(window, document, undefined) {
+
+  var factory = function($, DataTable) {
+    "use strict";
+
+    $('.search-toggle').click(function() {
+      if ($('.hiddensearch').css('display') == 'none')
+        $('.hiddensearch').slideDown();
+      else
+        $('.hiddensearch').slideUp();
+    });
+
+    /* Set the defaults for DataTables initialisation */
+    $.extend(true, DataTable.defaults, {
+      dom: "<'hiddensearch'f'>" +
+        "tr" +
+        "<'table-footer'lip'>",
+      renderer: 'material'
+    });
+
+    /* Default class modification */
+    $.extend(DataTable.ext.classes, {
+      sWrapper: "dataTables_wrapper",
+      sFilterInput: "form-control input-sm",
+      sLengthSelect: "form-control input-sm"
+    });
+
+    /* Bootstrap paging button renderer */
+    DataTable.ext.renderer.pageButton.material = function(settings, host, idx, buttons, page, pages) {
+      var api = new DataTable.Api(settings);
+      var classes = settings.oClasses;
+      var lang = settings.oLanguage.oPaginate;
+      var btnDisplay, btnClass, counter = 0;
+
+      var attach = function(container, buttons) {
+        var i, ien, node, button;
+        var clickHandler = function(e) {
+          e.preventDefault();
+          if (!$(e.currentTarget).hasClass('disabled')) {
+            api.page(e.data.action).draw(false);
+          }
+        };
+
+        for (i = 0, ien = buttons.length; i < ien; i++) {
+          button = buttons[i];
+
+          if ($.isArray(button)) {
+            attach(container, button);
+          } else {
+            btnDisplay = '';
+            btnClass = '';
+
+            switch (button) {
+
+              case 'first':
+                btnDisplay = lang.sFirst;
+                btnClass = button + (page > 0 ?
+                  '' : ' disabled');
+                break;
+
+              case 'previous':
+                btnDisplay = '<i class="material-icons">chevron_left</i>';
+                btnClass = button + (page > 0 ?
+                  '' : ' disabled');
+                break;
+
+              case 'next':
+                btnDisplay = '<i class="material-icons">chevron_right</i>';
+                btnClass = button + (page < pages - 1 ?
+                  '' : ' disabled');
+                break;
+
+              case 'last':
+                btnDisplay = lang.sLast;
+                btnClass = button + (page < pages - 1 ?
+                  '' : ' disabled');
+                break;
+
+            }
+
+            if (btnDisplay) {
+              node = $('<li>', {
+                  'class': classes.sPageButton + ' ' + btnClass,
+                  'id': idx === 0 && typeof button === 'string' ?
+                    settings.sTableId + '_' + button : null
+                })
+                .append($('<a>', {
+                    'href': '#',
+                    'aria-controls': settings.sTableId,
+                    'data-dt-idx': counter,
+                    'tabindex': settings.iTabIndex
+                  })
+                  .html(btnDisplay)
+                )
+                .appendTo(container);
+
+              settings.oApi._fnBindAction(
+                node, {
+                  action: button
+                }, clickHandler
+              );
+
+              counter++;
+            }
+          }
+        }
+      };
+
+      // IE9 throws an 'unknown error' if document.activeElement is used
+      // inside an iframe or frame. 
+      var activeEl;
+
+      try {
+        // Because this approach is destroying and recreating the paging
+        // elements, focus is lost on the select button which is bad for
+        // accessibility. So we want to restore focus once the draw has
+        // completed
+        activeEl = $(document.activeElement).data('dt-idx');
+      } catch (e) {}
+
+      attach(
+        $(host).empty().html('<ul class="material-pagination"/>').children('ul'),
+        buttons
+      );
+
+      if (activeEl) {
+        $(host).find('[data-dt-idx=' + activeEl + ']').focus();
+      }
+    };
+
+    /*
+     * TableTools Bootstrap compatibility
+     * Required TableTools 2.1+
+     */
+    if (DataTable.TableTools) {
+      // Set the classes that TableTools uses to something suitable for Bootstrap
+      $.extend(true, DataTable.TableTools.classes, {
+        "container": "DTTT btn-group",
+        "buttons": {
+          "normal": "btn btn-default",
+          "disabled": "disabled"
+        },
+        "collection": {
+          "container": "DTTT_dropdown dropdown-menu",
+          "buttons": {
+            "normal": "",
+            "disabled": "disabled"
+          }
+        },
+        "print": {
+          "info": "DTTT_print_info"
+        },
+        "select": {
+          "row": "active"
+        }
+      });
+
+      // Have the collection use a material compatible drop down
+      $.extend(true, DataTable.TableTools.DEFAULTS.oTags, {
+        "collection": {
+          "container": "ul",
+          "button": "li",
+          "liner": "a"
+        }
+      });
+    }
+
+  }; // /factory
+
+  // Define as an AMD module if possible
+  if (typeof define === 'function' && define.amd) {
+    define(['jquery', 'datatables'], factory);
+  } else if (typeof exports === 'object') {
+    // Node/CommonJS
+    factory(require('jquery'), require('datatables'));
+  } else if (jQuery) {
+    // Otherwise simply initialise as normal, stopping multiple evaluation
+    factory(jQuery, jQuery.fn.dataTable);
+  }
+
+})(window, document);
+
+$(document).ready(function() {
+  $('#datatable').dataTable({
+    "ajax": './leaderboard.json',
+    "columns": [
+      { 
+         "data": "address",
+         "render": function(data, type, row, meta){
+            if(type === 'display'){
+                data = '<a href="https://etherscan.io/address/' + data + '" target="_blank">' + data + '</a>';
+            }
+
+            return data;
+         }
+      },
+      { data: 'totalTrades' },
+      { data: 'profits' }
+    ],
+    "order": [[ 2, "desc" ]],
+    "oLanguage": {
+      "sStripClasses": "",
+      "sSearch": "",
+      "sSearchPlaceholder": "Enter any keyword here to filter...",
+      "sInfo": "_START_ -_END_ of _TOTAL_",
+      "sLengthMenu": '<span>Rows per page:</span><select class="browser-default">' +
+        '<option value="10">10</option>' +
+        '<option value="20">20</option>' +
+        '<option value="30">30</option>' +
+        '<option value="40">40</option>' +
+        '<option value="50">50</option>' +
+        '<option value="-1">All</option>' +
+        '</select></div>'
+    },
+    bAutoWidth: false
+  });
+
+  var pieData = [["0x2a544ee7dca6663841ac2956530bbd1bd482e657", 84.93518335662814],["0x196a5b3fc7a7e4fb6627525be8dabb43c66dd8c3", 16.118449220598816],["0xb1a587ba36c49e37f58c081b7071f4217db3f3ed", 18.354020527035004],["0x008c84421da5527f462886cec43d2717b686a7e4", 856.4656120181398],["0x4a9767e85a4854c0660c38bb254a696eb5e08b7c", 8.327184631316992],["0x54d7a0afda8303eaca8af53de597aba1bed4d3b6", 37.37290640114534],["0x74e3d6152e92b4aa3ed58efecc6985274eb27a93", 0.02867854578754579],["0x204ee2ce359972ae9d6f8dd5162380ca0a62f3f8", 0.01700292348557544],["0x5725e5a918eedc6f750ffac876230a09fdfabdd4", 0.633095140600323],["0x482df8d3d1a4805a150c3416ea23fe1caebe9c9f", 10.844071750368212],["0x76af50b39de841a048832863e39a3076041dbef4", 48.89053668929551],["0x6d9d708278877d474319e63b08f8b7440774d720", 35.11982616],["0xcfc16a8d8dfb85524245a7fd27b28ed1ddd1af91", 4.1200512728704295],["0xeeab37ed9f0fc208065af1be9a17c343e5e1b0bb", 19.026962721718505],["0x9ce8f85083fcf364467a827cb15730102306ed1c", 9.323077196581426],["0x764f4909251f81976a0a2dcebce95333e4c27517", 0.21945],["0x36df1a9cf97af4ab6dd9669ff6fc715f02e82ef4", 0.9130316831683168],["0xef29423a718e4969f48c9218151c31f815985a3b", 1.6621004120879121],["0x5ea770f4e0cd2a27ce236190b3dffbbc205df8bf", 4.410619972282002],["0xafef03f6a77df7c553eb96756ed37e071b0c427c", 0.5813173187443101],["0x6572340e48fed5285af01a0cf6f1076828d604e7", 0.8077702307692308],["0xcb7d86fdd44b528348a6d73776f3e659be319b55", 5.96758815596275],["0x5424a8a250f3ac98f7561b8a0f73ce4d8148f932", 0.002191666666666667],["0x8beed7287bb27b91d013b727b89cb9f576e5c2dc", 0.051147142857142856],["0x0ff2af96e2a9fe9b4368a17e5c49ba589233017f", 3.657010888888889],["0xca24e1161eae18926b72cccfb4f91075fe44c4b4", 16.94055277719715],["0x5051beb48c656f965a3554f9d463719735392446", 3.054352498578113],["0xac75b73394c329376c214663d92156afa864a77f", 2.861837],["0x06c68d04aaaf5da137d4a3be785d388bab9f5c23", 2.926199],["0xa722504034db80d7d84da55385f147c3d979756d", 22.902220979484234],["0xbf473d6016f15e757c677c7a8cf88e22718b40d2", 19.918677908414463],["0xc5c99da7106e801e5597dd4e4f8f42ee462b67e2", 101.8915705646042],["0xbfc89627b01b2872b701f48b2b808cb101e4fb20", 0.11158078377981495],["0x2e3a5f60a5590959b068587c47e643e18e7f5cdf", 1.6653109799551384],["0x9ab8bc6affd317092d643e5e4ee652746a46b3f9", 59.7927],["0x935c6a0d1e77ef9bb96d8901c06335aacf1d8433", 0.5501475584818885],["0x9ea17078cee0372cb80e69ea47a6f99d301f69da", 0.2218077026035937],["0x05ef8065310c4e69c15a5d9798e087ad26e261b0", 0.927916993006993],["0xe541147883bea7d08fdad88e4b154456efd0b29d", 4.006704665613922],["0x2029f55fb536090b25c9b2fef86b7b294c5d4c71", 0.03365979797979798],["0x41d3deae4e9cab7de5755992e957f6e775d773ea", 8.411109529411764],["0x6a4bb8a610a8579b6d5453f0da33c295b31d8ed9", 9.17420918032787],["0x7595964c89ed5ec8e47a43b2b57f07c6d83133fd", 1.1574102],["0x65c80c55e7fd03881c79e4da35edcacfe426ab80", 6.749448708],["0x2fdfb9694c66388e2a40844b8944d0ffed718cc9", 2.10062],["0x85d217b7d6cbe9d0e30ac9afedc94cf43d655b0b", 12.951413030006856],["0x4a8b4961e0889182e4277afbb3f0dd83981670cc", 2.3577094059232904],["0x2fe1b703b365f4b75aac45937a8ee6418738a4e9", 1.0744740362383596],["0xe71979c345bf7c0a4e3fe350cf0fd186470d4ddc", 5.008349418339077],["0xa6f013e5e851668bddac06e6ab2b603fa3e9d7d0", 1.4315],["0xc05067126ca203eb1b90e4a8780b607dd58b23cd", 0.027995],["0xedcf6e153902524079335f22c3e4e971156b7718", 2.4824102019590817],["0x02359349ba115b26fe715c18288c3f19dfe9f1cd", 0.20280807692307692],["0x5b985d300f3aac578bb9bd709da2a21a67cd3d88", 1.527763500134255],["0x62fe1e622b5ab6e1664d79f8b74eae95cb049a1f", 14.9695],["0x3949de8ca762114ab0f82b44a84ee2062a08e0f6", 3.50422865],["0xb7398dfc1f50e1dbb21eb699578b792c72856e94", 8.339948694719473],["0x503fa70b5365978cc6d1784f78983bbe6f041f43", 4.541619499771992],["0x4f91c8f1a325f261297ec8c7ff018945ff782ea7", 1.185598319327731],["0x8a591e12b71a8ca156f79529c7e4a3c4997af982", 0.00249479696394687],["0x309b38ec83f03f55822b424c42d9e3a7404e5e53", 68.479675],["0x798c6c843b9def39b1fc3d7b7aa7a60b5d5dc306", 0.07899],["0xdcd0964cf350c4c59ca329c735069f564ab657f7", 0.96151],["0xee7b084f35a9dcd02ba3b80e59a33676124cf67c", 0.925742123],["0xd4152242dc4cbd950f521d312859626fcc7811d1", 0.069946685],["0x3ca8322fb489755a9841ead9e3959f6ba185ab7f", 1.4243591392215948],["0xb8a501e8c738470230ff13a9b81877d46d93b037", 0.1939598667998668],["0x4c7f12fa7681dccbe876f20a9391737ce84587f7", 0.35293],["0x6b5d5098041decf17a614e2c5c693dad2194b2ec", 1.2033556673439227],["0x26f38d84ab7669760cd0365c334d6fe44dc20d67", 2.536735077305248],["0xae49bb6908cbce30264fd061272098f40a80e442", 0.2723752972972973],["0xfd26cc17e168f8f5d19f62652900dc9932964e4c", 0.51675],["0x3918b8bb581b4320374cbffcdde51c7b92d3a22a", 0.9373337525336857],["0xbde4cd4edeb6ae5824f7a9f64ddc4c5e87ba6b6f", 2.557935],["0x2b555c64f7bdf8d26a0d4065ce872e6ce1830257", 6.220340789237668],["0x19abba5b16da8cb9ed8a9a02c6c6a8caf51e7ffc", 44.09688365934336],["0xa43e1f801c4bb3d01fdd768c47bdebc2754206a2", 136.62581926198285],["0xbdd10dbde93c7abc8f37d0947cdfa311af0a8906", 0.026976803921568628],["0x29b7d45fa8d81a2b9bd51f7a903a91f54d04f0d7", 0.282690990990991],["0xc58a5adec44375d0dfd0a74cd66ae7d51ac8f3de", 2.9393531652661062],["0x0206e1db86b852a4d1dd5926ab07b2f9117fa115", 1.8550025806451613],["0x5095cddde33844b9a7745e94bd3b41f1f4824266", 0.68549],["0x221c00219db54293970dfe3fbcdc8f00c98e2f81", 0.0225],["0x35e537c0085db5681daaaa4866eb3d7537b16631", 0.34286],["0xf733454bb020b76cfc9c4ad80367bab412edbffb", 1.08083501],["0x31a727b710882004c0248ff32290f51073489a81", 0.6864],["0x9165828cd2a889b04e4a2d340f77591fc947fc79", 0.15505166666666667],["0xa46f905017692c832618faf5fce3a7c4fa335591", 0.6974285106382979],["0xe1face394e1ea49508fb898833f0f4059a76d87c", 1.468871],["0xd8e80673419acfbf15bf8eb0239cda90f232051f", 0.3130980769230769],["0x35e2e4c306ddfcebe7aecf8da0858033710f5ebd", 0.716798],["0x4f52735e6bbdf7985017d16ca328dbe71c02d0c6", 2.6000853007688827],["0xefaa3a2d1c8b26fefc1dfd1285c8e35f588e34a5", 0.1133],["0xff684104992bd26b6326bca4620d733526c0ddb1", 0.22995],["0xd6d48727d8835b73f8dc511a5baaf3445a6f65c9", 0.22823289898989899],["0xf09c6cd78e086ef83b441eae6175d929e4f3ef90", 1.4291967250004594],["0xde7f3d23019207567344a266f358d0a863124975", 0.46973],["0xc76a5101d8b5a66d2edbdc4909c774c65b1fbbf0", 0.35],["0x1d8b26ba8fb768d14fa9dcd20e85b9e639c963d5", 0.0527],["0x448a380e3ed48de270972fa9b37fa6f687210bfc", 0.01549],["0x2cffaf39f38e46356083cee0df3b92496fde85d8", 0.169390900990099],["0xab13d11df1a25e88acaf2ab32a92c0aa33e08034", 1.6853689066666666],["0x74d2e9655506622afcb37410e929f60d55af536c", 0.8333],["0x28798b8a047f39a421319a610a3fb3b78fc2ea70", 0.4265572487842457],["0x6c0d86058974c7a1216c778904a676371969b772", 0.6219903684210526],["0xd98e44d09660a89022515d6d41662d05a14253e7", 0.93095],["0xc6f6c89f7f297b5230d2fd028ac06f0677c1857b", 0.16],["0x5d47e871f81f84d3154aec772bcce14973112c69", 0.005899],["0x6a53cb71c0fd26f9c73619a2cba70bee3a50964a", 5.426548],["0xcdf0703df91e8298a41b9a7e96a6e299c21e9630", 0.6190363636363636],["0xf1d1810eb1976f70fcd55f7085a7c28ff73ca239", 0.014245],["0x6c5d5a530d24113595f0814452369a9d096c4a23", 0.036788],["0xa25179297a3e6b19d1e055cc82db924c8c2096e1", 0.6645102040816326],["0x711c8784c81cb974d8deaec7007b6232a2f600be", 0.10798],["0x300cded87cd0ac8c2a9eaa5bbc82962c9eb6f24b", 6.29365],["0x8d333bf18953ad868382b4dedc3ffad192dd604f", 0.5558104682475],["0xdbaa5f211aefcd1161b785b336e3818a19d98be9", 0.188574],["0xf099af14e04fbf64f76ac560e98284d6e95ebe56", 0.1805246012345679],["0xbcbc8286c1b485f5e13220286b098b0db04d076c", 0.593592],["0x002f9caf40a444f20813da783d152bdfaf42852f", 0.125],["0xf10efd52a9f9f434b316963a87dfd4104a33cad0", 1.25],["0x23e745ad92a907c912321c17dd1355e5bc057040", 0.198125],["0x27f1e785ba024894241ea8e4d9c89ad9e6f1130a", 0.080523],["0xed9259c00f0b55562da66c1f947f52ecb951c9d6", 0.6796622972972973],["0x1ce1c8d9fdc8044f6fd73d95bf894a70cbe9f09e", 2.2218346153846156],["0x9cb9ccae1658bc7c2fe84600a6487f25091dcf37", 0.002416666666666667],["0xfdae0a43d0a26befb74ad531b83f285e40b3abab", 1.4640820987654322],["0x2958db51a0b4c458d0aa183e8cfb4f2e95cf6e75", 0.056666666666666664],["0x07745055ffdc79030baef06eb4ee3ec9d7a0fbf4", 1.5662548484848484],["0xff81fbfd295f9186aff9e3c39d091ebb7d821725", 0.09705502997002997],["0x7fbd882dfdc9cc579cff3f961a531394b505271f", 1.3897],["0x267c3ca6e21d037d9b311796bd7c5d7b9ddb1af0", 0.03],["0x5dbccbcedfce48e4db487364ad7a6d944df04913", 0.48375],["0x3df39eb04417cf15c030759066a2a98209c5d53c", 0.271993],["0x305c2f32c32de5021f07f518623be16af8cb1f6b", 0.02497],["0x241bfb817a3a2e2a99c7df5f14fe7aeecb33b9bd", 0.1320631512605042],["0x918d7703600159c3623e1d072b22910e756a3d4e", 0.0315],["0xa428979a2972db51648a4c8f8391bff57d4599de", 0.3101881818181818],["0xbccd3ec612e0fb55484396cdcb6cd803f38c0341", 1.182709484848485],["0x27ef256c2e9b18977d73b0c14b33901255b37a9a", 0.4639888235294118],["0xd2f35fc3ebc5ba2eba8df389790583c64d9e4659", 0.05268727272727273],["0x1f670d969e389adffa85898eb18d14ff7e43ea16", 1.2045798],["0xa2b08af6398647bafe85a8a85757a94659881b35", 9.784204],["0x06fe45706315a6fb700be07936ba53d06a682c96", 0.002235],["0xac904e3ae9128592a8d8ec91adce25aec177633a", 0.45224440007692307],["0xb5a6281343b51828595049e45211b7a868573efc", 0.17795754954954954],["0xb4ef672ad6775a14691053f34a83925e3f35a8d2", 0.00577385],["0x485e56fcea2f2d8b43af4b757957d7279edc0192", 0.012465],["0xbc99bf34571a5aff76d1653612bf8a55dad8a75b", 1.84687],["0xb695496f2687e3617ebe725860b38f16f3f787b8", 0.4299],["0xaf20e5fa83537af33eeb55ce91ae384ec1c2c8e7", 0.016495],["0x6c0f58ad4eb24da5769412bf34ddee698c4d185b", 0.0091],["0x9a7a7d381f0fb1bcf0f521207ef124bde9346a4c", 0.6959],["0xbb0f03e0f8a75620f9d052e3bf788507c3787b08", 0.01986818],["0x561a81a1d18b65b4207509d0d7ec12039129ace0", 0.050972],["0x57f095a1e64cde4d934f96f4a94a874127828042", 0.005195],["0xfb4cff6bb42bcbdf0a225f3751b9d0a436c94fa2", 0.14004],["0x6dbb95e04c40cc9baaca35a0e81c8fa2f41e9ac2", 0.096372],["0x4d579370dc7e4b36371012130088637091445059", 0.6365],["0xed8b0f9dd8a468e5127109dbad351089b998b2a1", 0.04799],["0x680caaae8933afc5c20ec695449f2632bd1f51e4", 0.41625],["0x3c9923956c7a48b46a8a028ff93eb36aca927ebc", 0.11036666666666667],["0x82a8439ba037f88bc73c4ccf55292e158a67f125", 1.545355],["0x08e0c64fc4afff15405761e498c999b62c113705", 0.08950819672131148],["0xcd90287f45002f1d4e533cee65d67a0ba05a46f9", 0.144945],["0xb2a71d1a099151ea811ba384a9b74d9c11f2edaf", 9.063291139240507],["0x0b376ac8f9a5aab4e25533e19e8b000b00013b81", 0.197337],["0x190824b63255c3b1f415a3d5f64118902ff11cfb", 0.063735],["0xcab2f51d80bfe9965cdfb2692b24c5c28c8415af", 1.822325581395349],["0xf20f154d27d2be2ef8b1bef6827bd6d075710217", 1.7],["0x5c035bb4cb7dacbfee076a5e61aa39a10da2e956", 0.5246484848484848],["0x044d885f03795065478481e452e028bbd9742056", 0.01399],["0x1875322de4d5832c55aba31e187beaea66991799", 0.03599],["0xc760918ff85d5edaf516685e848bc26ce71ab4be", 0.0906],["0xc05fbce22edd39455ba77816de9bf536aadbb944", 0.004899],["0x754eb9c4e499dfbf7c77de9602a40e11c3516a34", 0.19526],["0x282173335ae1f328b34eb9acadc052e59e70a89f", 0.05498],["0x85887b4715c3ebc3c1fc6bd39117783bfdba1b20", 0.0375],["0x32c704fdd699f04aee031ab3608b978bea73c893", 0.0250275],["0xc2408c12a62a915ef083aee70be1115138eecc74", 0.038752],["0xc9c01bc57186a5f0981c4e6f4884beaeb562e532", 0.285],["0x307899dd9686d39c003f253941b66bc871e79e80", 0.14798],["0x177c71f19f4afa33827cff4593146a6cdb71cfa2", 8.98652021967e-8],["0xbe60b513db83d97ebfac0e147df8bdd482ba5a3f", 0.025471014492753623],["0x007efd2fb97f65d4f805c3662d4d20bae6e08d9b", 0.12569074074074074],["0xa6919d22e8bfe23330cd628b06fe22c4c235470d", 0.00759],["0xb7747c46be84aafcefdf9aed61f1225f88236224", 0.040139],["0xdaba53f51418cbe240e010a02938fcbdabb8c551", 0.199388],["0x01e6d28d21b6ac49686035d846e406f8958ea4ee", 0.044991],["0x485cbcd9671187bd9db0bd591f6f9e24d095ec7b", 0.014666666666666666],["0x00e2eb1b7007bd81e892ba99c628a26d8a464611", 0.027018848484848486],["0x521bcff7f89ceec661bc20dbb0bea8ad86803334", 0.03999],["0x77db4ef5eb450d3bca2b2178420834b993d118ce", 0.09798],["0xf3886cbc87c6a5007512928fc8cb81f02729fc43", 0.25238745],["0x0cd462db67f44191caf3756f033a564a0d37cf08", 0.12],["0xde7f476071e87fe1e6e4b32dd47ad40bed5da56b", 0.024769774774774773],["0x0c49c5ddd716fab378abf683108f75ed94ab9dc3", 0.0526365],["0xefaef3a9b2bc9b1464c1f85715b6915de4ec659d", 0.0474],["0xe5bc15eebed239d005718e21ca158a8da152f1dc", 0.30402783343040185],["0x1e79fe7b1927d6bf051d26bf5c19ef6f91cb1ad0", 0.07543282704601936],["0xe5e5ef0596eb71b1c6cc4a54451a7e44849923ba", 0.658625],["0xe63c23a8f5920d4eeb62e86ead5063cca5e48fe1", 5.91468],["0x2f20127b6a615722a16731d88143e3704c0092a9", 0.18668857142857143],["0x22be567534bf9e0a9017dd55e92ee963aa05026f", 0.06799],["0x39ead06cf8d12151a2d24116ee3de80c862802a6", 0.0056],["0xa62f84c82ccc02b078f5c0dfc85c4faf7735984e", 0.8222],["0x44e9d011df8741be2493e99297e9ad67bb1aa85b", 0.05],["0x9d3b97f1522790bdf8c8aac6243ce59e808a1b55", 0.0075],["0x8ad68e2c67b88ded4b1565d8b9288b665261338d", 0.485],["0x04676a0b691f7b53b112bd814d742b065a137841", 0.0016995],["0x32bfaf7b4c6a5e448bc044f098a86672af081b7b", 0.015],["0x9f5a2e48fcf1ea37d87d512b649e85d82dbbd85f", 0.06498],["0x4b1eae0aed95f862b592f40bd027a4a63b8f39f4", 0.445],["0x45f1e5d98b7c338cd7cdcbcecc47ddef193674b1", 1.031157],["0x08a1eb0201fe1300e7774daa299f18f346a23f68", 0.70258398],["0xca9c02f98195abc364c1b0c8dbfae55169a273cf", 0.09067318181818182],["0x3fd1ddf28f604cfe5fefa3adc38e38be2f7208d6", 0.27510416666666665],["0xb9b97135f01a5462e5f741854435c256dd6cd3ee", 0.04249],["0xd9385715e7f1d2dbdb13e7c8568a5d2647c9456e", 0.059],["0xc37027c11b6b416462aa7b589e6f7937ce220327", 0.06399],["0x7b823000f6a2ff7834b5db3061fe1dfc7682cfe8", 0.002499],["0x8e362caf435689ee4e5342b988b69a475adef91f", 0.37868489],["0x2952fcb19b91f90e87cf0c478862f26818a634e8", 0.22226977477477478],["0x5cdb0039db97409243ca00ca70be8616fba322a0", 0.04249],["0xb5d100ee09863d3b1b2c9d160ecd9931de115434", 0.04929475],["0xafbcc39f474baf9596c1135522810d5f409dde0f", 0.0725],["0x5c0ac266833e36e98edb52070bcea5be6c1145c6", 4.85],["0xf3ba8bf956d6f5dcb9682e15533bcc6fa1833fa0", 0.054972],["0x68d36dcbdd7bbf206e27134f28103abe7cf972df", 0.16996],["0xe700e714493f1466310a0082dbda7a7c41773376", 0.23995],["0xb4168e78c89ac933d79f51abb79437bebcf96c18", 0.0018],["0x051437aaa8f3019eb2acdf0317dc4655791d8716", 0.0875],["0x4d5b082fc164a7bf38fab4b133c1e8f3d438d406", 0.02],["0xf3e5d37efdb7d7efdb2d0e36ebf91d9c755bef30", 0.0175],["0xd0c81e82abddf29c6505d660f5bebe60cdff03c5", 0.0058],["0x34e717b3cbbaa1d220157d7c45c61ace7889ddd6", 5.2975],["0xeb076bbf46c7040ee7cba3539135ccc43335e1ae", 0.0899],["0x11d8875ddb8baa34c6f29c8e2a3ce4156113eadc", 0.007498],["0x6e8fb7711f8ce59890074804a728b33806b8cdf4", 0.2385],["0xcb59db511a5922303cc867e2853d5cad72698deb", 0.036],["0xd2bc4e7ecfa4ec39069623854cd114dcd8771b84", 1.113484117647059],["0x32aa30ccd7aa1c688e4f23b386ce542ca3bcde23", 0.007559567567567568],["0xb6c91b7e00b410a38943852d53c3a018e48b1ebb", 0.16596],["0xe6dc7254dc531a1dc098282071988f0f6b0b678f", 0.093725],["0xe603c11017ebceffaa32084f9bcad508cbb0d133", 0.29992],["0x391d6390e08058dab2f9ac0bb9860056fc847b03", 0.21995],["0x53d65e7abf0a6a54b438aeb18fd0031704f3ca04", 0.10325],["0xd9547a133dc5710a0e30607134871248bbe8ab47", 0.175],["0x1782fd739cce69d0108f35938b6f80277d93b99d", 0.014619887387387388],["0xe4748bdc11f2654145bfe998a936d31932b4ff4c", 0.0075],["0xaf9e08f3020e624c945cc446e8759602049cb176", 0.45662008],["0x16884a4c09185f81440ad6cc8b8850f6871fb5fd", 0.025],["0x9f1e529b51475bad1ca91ae6723d96e08aecf2ee", 1.33485],["0xbadcf513bb1feeb8e0dc854c912cb79709d6a7fa", 1.12984],["0x36ddaf4bc03058168e44a9152fddea39b5034dbf", 0.18995],["0x6f8bc2d82175489f50537d868bcf2e4f15c3fa95", 0.03998],["0x87dff96c4c59bd7a6f61a75778d1bcff51836923", 0.075],["0xa61773f57104d3df713d569d1a06457aaa1139e7", 0.0505],["0xd1fb8fd067a8046c13571b386dddb14cd90cde79", 0.25494],["0x1e7da35c4b8c26b55cc46978ce4d824be11062f8", 0.3885],["0x337c3f785862d508921b569dfaf6fdbe62f424b3", 0.6553954954954955],["0x354169d728780502f8ff228c961baa194dd1e009", 0.8258],["0x3c92e144062297cfd08a5a9baab59aaabd3231f3", 0.570392],["0xc56d50d4394186201521fe0c32e6f29ac8cad1bd", 0.007899],["0xfc6d4d8b0ea1bf18a12761e7fbcfbeb9caf69f4c", 0.004666666666666667],["0x2f70305965cc71bcc6f00c6253282fe33a3170a2", 0.0375],["0xf75b78571f6563e8acf1899f682fb10a9248cce8", 0.11124950980392156],["0xd05955436368c9659b7a1bdf8f0427ca8c193b11", 0.008055],["0x78e8c455c998d5a023ce5df5296702bead0b4cd1", 0.13429891],["0x411be57b4c10cfd80d9ae1e7793934f8717c93de", 0.003],["0xcf0c8edaf6efe3d1116e0cac536648b9964104cd", 0.4575],["0xdc00c6d42397b672988fada754e2f53ef3db9f9a", 0.6099],["0x27cba1153c9a0807a9af4dcf9b04dfb7016006c0", 0.035991],["0x14e2f1f157e7dd4057d02817436d628a37120fd1", 0.21245],["0x2c26aa15bd6df2ea32d08a0e0d92ab3e32980d40", 0.14223427805967706],["0x21fbc6ef827c7f0476b5fa26e449081357e6196a", 0.23445],["0xd5b738c6191c5f6b658a67ae4a32c4c2d4e4b045", 0.053991],["0xbf1d407cef910d4b0ed38af3dc938d17ac612b19", 0.094485],["0x707cb14cf444b7f260193bd2ce5761ce73ace1a3", 0.013197],["0x6a9850982a3b1f21cd1431caece3a3491fba12bd", 0.0027995],["0x4153bfd4a2a3cdf6005eb5821ddc96f7247ae018", 0.24495],["0xa862b5237f4882a6b29d09bbf2f1a25ff08e16bb", 0.011995],["0x29e0a3195a4a721a9938037f65b926b71496de20", 0.19269774774774776],["0x1114fa65a2f3d01b045dc2c22cfb224af4f16198", 0.02499],["0x45db57ae9bdfd2d505c0b3ff897b13218a5859de", 0.008498],["0xa7c855f258e616838dd7e25978e4f81fcea0d5d5", 0.6034363636363637],["0xce13c1f43b8b58b50bdac3c4c624893ad6cc7c4b", 0.02495],["0x6fea7665684584884124c1867d7ec31b56c43373", 0.032995],["0x816d45ac87a47a4fa0e081ff5f78e1a40af3720b", 0.05277214611872146],["0x7993897ddfcdb6db0d855e72096d6dddb94d3448", 0.040788],["0xcd22a3962a067472b335cf2564365c3034bc975b", 0.16995],["0x2badcdeb7a29e44800b3b32bb627fb06e6a1551e", 0.05399],["0xb8e3a018196a1e411b8440b4fcf301a511ed29d0", 0.14148140404040405]];
+
+  Highcharts.chart('chart', {
+  chart: {
+        type: 'pie',
+        backgroundColor: null
+      },
+      title: {
+        text: 'Realized Profits by Address'
+      },
+      subtitle: {
+        text: '(only shows profits > 0)'
+      },
+      plotOptions: {
+        pie: {
+          shadow: false,
+          colors: ['rgba(195,159,223,0.2)', 'rgba(76,225,182,0.2)', 'rgba(112,187,253,0.2)'],
+          borderColor: null,
+          dataLabels: {
+            enabled: false
+          }
+        }
+      },
+      credits: {
+        enabled: false
+      },
+    series: [{
+      name: 'Profits',
+      colorByPoint: true,
+      fillOpacity: 0.2,
+      data: pieData
+    }]
+});
+});
+</script>
+</body>
+</html>
+
