@@ -1,5 +1,6 @@
 {
-  "data":[
+  "data":
+  [
   {
     "address": "0xb35339e4bf2ccea197af9dfef83a229de38bc506",
     "totalTrades": 6,
@@ -48,87 +49,87 @@
   {
     "address": "0xc64e96319366da7d00ef4bc14b42e8b1f3a31f52",
     "totalTrades": 1328,
-    "profits": -282.2447402334914
+    "profits": -181.71436815441132
   },
   {
     "address": "0x2a544ee7dca6663841ac2956530bbd1bd482e657",
     "totalTrades": 662,
-    "profits": 84.93518335662814
+    "profits": 125.07469697222486
   },
   {
     "address": "0x196a5b3fc7a7e4fb6627525be8dabb43c66dd8c3",
     "totalTrades": 274,
-    "profits": 16.118449220598816
+    "profits": 18.73041095775998
   },
   {
     "address": "0x9162a85e01a1863c9fa3549c5d83af1f587f1ac7",
     "totalTrades": 239,
-    "profits": -4.100030107275695
+    "profits": -1.7617907665658834
   },
   {
     "address": "0x2404a39e447d0c8b417049fc42b468a26990b4cc",
     "totalTrades": 229,
-    "profits": -387.5938528955714
+    "profits": 127.71067889668937
   },
   {
     "address": "0xd1ce6dca191446f3f99b951ad24853074923b101",
     "totalTrades": 226,
-    "profits": -69.46906047022476
+    "profits": 333.59741785541036
   },
   {
     "address": "0xb1a587ba36c49e37f58c081b7071f4217db3f3ed",
     "totalTrades": 210,
-    "profits": 18.354020527035004
+    "profits": 51.970547132443414
   },
   {
     "address": "0xa7f3dfed2bcf7b35a8824e11ae8f723650edfb58",
     "totalTrades": 193,
-    "profits": -17.1061255999524
+    "profits": 21.07285242985845
   },
   {
     "address": "0x408bcc8c6d3e929f707b45fd2a3e4afe8c5c3bbf",
     "totalTrades": 189,
-    "profits": -7.506047773590317
+    "profits": 54.810011928137925
   },
   {
     "address": "0x008c84421da5527f462886cec43d2717b686a7e4",
     "totalTrades": 177,
-    "profits": 856.4656120181398
+    "profits": 734.0713522860085
   },
   {
     "address": "0x4a9767e85a4854c0660c38bb254a696eb5e08b7c",
     "totalTrades": 166,
-    "profits": 8.327184631316992
+    "profits": 7.1841899753969205
   },
   {
     "address": "0x6be9fa484fa24fedb0369b6ccb343f9c3a621026",
     "totalTrades": 155,
-    "profits": -5.089103173342474
+    "profits": 8.758597520301297
   },
   {
     "address": "0xf2153d402f5a5d4ff5ef6bdb815c3c962c9d3e53",
     "totalTrades": 151,
-    "profits": -109.48732694668594
+    "profits": -27.022804522550373
   },
   {
     "address": "0xdf8d7f7d2d2c25f02a347a001c3ba2cceadbf4c2",
     "totalTrades": 150,
-    "profits": -18.16762532351043
+    "profits": 20.646949723312485
   },
   {
     "address": "0x54d7a0afda8303eaca8af53de597aba1bed4d3b6",
     "totalTrades": 136,
-    "profits": 37.37290640114534
+    "profits": 43.819083868677815
   },
   {
     "address": "0x74e3d6152e92b4aa3ed58efecc6985274eb27a93",
     "totalTrades": 131,
-    "profits": 0.02867854578754579
+    "profits": 0.03395190476190476
   },
   {
     "address": "0x204ee2ce359972ae9d6f8dd5162380ca0a62f3f8",
     "totalTrades": 131,
-    "profits": 0.01700292348557544
+    "profits": 0.024875067194033037
   },
   {
     "address": "0xb65bb533b44932a0a64c8cbc11671e81a52fd47c",
@@ -138,7 +139,7 @@
   {
     "address": "0xe4a8dfca175cdca4ae370f5b7aaff24bd1c9c8ef",
     "totalTrades": 125,
-    "profits": -150.33854471643235
+    "profits": -122.29134971643234
   },
   {
     "address": "0x3b1364a4989f59cf5b92edc0e2094740862e8494",
@@ -148,97 +149,97 @@
   {
     "address": "0x5725e5a918eedc6f750ffac876230a09fdfabdd4",
     "totalTrades": 115,
-    "profits": 0.633095140600323
+    "profits": 1.2299653095238094
   },
   {
     "address": "0x482df8d3d1a4805a150c3416ea23fe1caebe9c9f",
     "totalTrades": 114,
-    "profits": 10.844071750368212
+    "profits": 333.2882799267796
   },
   {
     "address": "0x5a84153e40968e93f175a534ee806cdf2c8c51cb",
     "totalTrades": 106,
-    "profits": -223.44009717669695
+    "profits": 7.591660191417153
   },
   {
     "address": "0x828c6d028d1f804b94e738568be05cdcafc74396",
     "totalTrades": 97,
-    "profits": -24.10222120918642
+    "profits": 34.040568045964775
   },
   {
     "address": "0x76af50b39de841a048832863e39a3076041dbef4",
     "totalTrades": 93,
-    "profits": 48.89053668929551
+    "profits": 133.65026347601741
   },
   {
     "address": "0x871930f59563f379f00070dfc59876e05e730f89",
     "totalTrades": 93,
-    "profits": -2.495016362298719
+    "profits": 1.9307268043679477
   },
   {
     "address": "0xbc171a6258a8727d77d639d3079a628c523c6458",
     "totalTrades": 92,
-    "profits": -0.27626936799026014
+    "profits": 3.4606621420020813
   },
   {
     "address": "0xb6a3f13173d04a785358ed19f2fb81dad342f294",
     "totalTrades": 90,
-    "profits": -27.723351951729065
+    "profits": 1.6156706489379118
   },
   {
     "address": "0x6d9d708278877d474319e63b08f8b7440774d720",
     "totalTrades": 89,
-    "profits": 35.11982616
+    "profits": 42.73951471801475
   },
   {
     "address": "0xcfc16a8d8dfb85524245a7fd27b28ed1ddd1af91",
     "totalTrades": 87,
-    "profits": 4.1200512728704295
+    "profits": 8.79199228864993
   },
   {
     "address": "0x60dc0b25f6aa160ec8748a52f6c360c213454bd1",
     "totalTrades": 84,
-    "profits": -13.49272208510446
+    "profits": 15.400686972804955
   },
   {
     "address": "0xc6f776a903cfa54f702ea7daf15cdca45d64f17e",
     "totalTrades": 83,
-    "profits": -5.938830769414363
+    "profits": 9.653679210585638
   },
   {
     "address": "0xeeab37ed9f0fc208065af1be9a17c343e5e1b0bb",
     "totalTrades": 82,
-    "profits": 19.026962721718505
+    "profits": 0.9855237894745826
   },
   {
     "address": "0x54211dbe3ed2eb60511206daae077b8ebcb9e4dd",
     "totalTrades": 81,
-    "profits": -0.032697
+    "profits": -0.0027
   },
   {
     "address": "0x28e37925e4e628f37332901a98cfbba66f314b23",
     "totalTrades": 80,
-    "profits": -59.06346526096642
+    "profits": 157.68304759983013
   },
   {
     "address": "0xa0ada0dc2e8a23b209b18ef5b2a45e962c51bdcf",
     "totalTrades": 80,
-    "profits": -1311.5291793927836
+    "profits": -382.88268307209955
   },
   {
     "address": "0x9ce8f85083fcf364467a827cb15730102306ed1c",
     "totalTrades": 80,
-    "profits": 9.323077196581426
+    "profits": 13.191977196581426
   },
   {
     "address": "0x797f63620e62dbc83a5bc88c6a43494ded428cbe",
     "totalTrades": 80,
-    "profits": -52.64183018131658
+    "profits": 176.26772939018633
   },
   {
     "address": "0x66ba684c60bbff0558b3498d0d657f8bfbcf1360",
     "totalTrades": 71,
-    "profits": -2.734760826011085
+    "profits": 5.237104501720313
   },
   {
     "address": "0x764f4909251f81976a0a2dcebce95333e4c27517",
@@ -248,42 +249,42 @@
   {
     "address": "0x36df1a9cf97af4ab6dd9669ff6fc715f02e82ef4",
     "totalTrades": 70,
-    "profits": 0.9130316831683168
+    "profits": 1.9700265275813296
   },
   {
     "address": "0xa6d5f47cbb5e4f7412dd12dce162009cf0482405",
     "totalTrades": 69,
-    "profits": -8.61437220198836
+    "profits": 4.47943938250824
   },
   {
     "address": "0x88a6288370255dbf40af80da260ac95ece7c799f",
     "totalTrades": 68,
-    "profits": -0.9865882475247525
+    "profits": 0.7483117524752475
   },
   {
     "address": "0xb95c5912e1a39394d5714969372bd222f6c2ae70",
     "totalTrades": 67,
-    "profits": -0.33072721648836145
+    "profits": 0.13069306306306305
   },
   {
     "address": "0xef29423a718e4969f48c9218151c31f815985a3b",
     "totalTrades": 64,
-    "profits": 1.6621004120879121
+    "profits": 1.4470820945258445
   },
   {
     "address": "0x5ea770f4e0cd2a27ce236190b3dffbbc205df8bf",
     "totalTrades": 63,
-    "profits": 4.410619972282002
+    "profits": 94.68168084289475
   },
   {
     "address": "0xafef03f6a77df7c553eb96756ed37e071b0c427c",
     "totalTrades": 62,
-    "profits": 0.5813173187443101
+    "profits": 4.676289021510816
   },
   {
     "address": "0x64513302e42194fd657800d83a481b603a1647f2",
     "totalTrades": 62,
-    "profits": -9.967140990784314
+    "profits": -9.482094912352942
   },
   {
     "address": "0x6572340e48fed5285af01a0cf6f1076828d604e7",
@@ -293,7 +294,7 @@
   {
     "address": "0xcb7d86fdd44b528348a6d73776f3e659be319b55",
     "totalTrades": 60,
-    "profits": 5.96758815596275
+    "profits": 12.46243931832873
   },
   {
     "address": "0x2e0e74c910edc43b9126d0a37156973575a2aad5",
@@ -308,7 +309,7 @@
   {
     "address": "0x3b93b30ab96492b67b943350e8badceac590e959",
     "totalTrades": 50,
-    "profits": -0.06011631195010521
+    "profits": 9.404655006308598
   },
   {
     "address": "0x8beed7287bb27b91d013b727b89cb9f576e5c2dc",
@@ -318,17 +319,17 @@
   {
     "address": "0xdf36d85dff91e9bfdf8b72374849fefbcc73a433",
     "totalTrades": 48,
-    "profits": -0.040596
+    "profits": -0.0006
   },
   {
     "address": "0x0ff2af96e2a9fe9b4368a17e5c49ba589233017f",
     "totalTrades": 48,
-    "profits": 3.657010888888889
+    "profits": 3.931930888888889
   },
   {
     "address": "0xca24e1161eae18926b72cccfb4f91075fe44c4b4",
     "totalTrades": 47,
-    "profits": 16.94055277719715
+    "profits": 287.23808446661235
   },
   {
     "address": "0x4e374c86a11c7704d41ec3ebd7bcadb0210d830f",
@@ -338,27 +339,27 @@
   {
     "address": "0x0977dae40e156a2239e5405ccc8303eb9f6580a9",
     "totalTrades": 44,
-    "profits": -10.678602735492577
+    "profits": -0.48739007683642044
   },
   {
     "address": "0x5051beb48c656f965a3554f9d463719735392446",
     "totalTrades": 44,
-    "profits": 3.054352498578113
+    "profits": 4.054252498578113
   },
   {
     "address": "0x0b4c1b15103a06ec41e9ef9572c5660ff22f926d",
     "totalTrades": 43,
-    "profits": -5.000931665
+    "profits": -4.544981665
   },
   {
     "address": "0x5bb5b655f04c0e34a4e854092c63a2057818d25e",
     "totalTrades": 43,
-    "profits": -8.622064
+    "profits": -5.718484
   },
   {
     "address": "0xac75b73394c329376c214663d92156afa864a77f",
     "totalTrades": 42,
-    "profits": 2.861837
+    "profits": 4.367405
   },
   {
     "address": "0x06c68d04aaaf5da137d4a3be785d388bab9f5c23",
@@ -373,37 +374,37 @@
   {
     "address": "0x655a0821de1791c55986b4ba906357d88d7a0c49",
     "totalTrades": 40,
-    "profits": -0.9234142033822875
+    "profits": 15.128965167145047
   },
   {
     "address": "0xa722504034db80d7d84da55385f147c3d979756d",
     "totalTrades": 39,
-    "profits": 22.902220979484234
+    "profits": 19.411897752475248
   },
   {
     "address": "0xbf473d6016f15e757c677c7a8cf88e22718b40d2",
     "totalTrades": 36,
-    "profits": 19.918677908414463
+    "profits": 29.44682356045066
   },
   {
     "address": "0x779fd0fb9a6359f90f57d66317a397230013af18",
     "totalTrades": 36,
-    "profits": -0.14415898601398602
+    "profits": 0.20580601398601397
   },
   {
     "address": "0xe89510442c05d7e4f82d22f6248fff01f1d0c1ee",
     "totalTrades": 36,
-    "profits": -0.552919557430922
+    "profits": 0.764178265747491
   },
   {
     "address": "0xc5c99da7106e801e5597dd4e4f8f42ee462b67e2",
     "totalTrades": 36,
-    "profits": 101.8915705646042
+    "profits": 106.21121172589451
   },
   {
     "address": "0x565c4b1054668e392483b6619e36bc3953f92a0e",
     "totalTrades": 34,
-    "profits": -0.069815
+    "profits": 0.930085
   },
   {
     "address": "0xbfc89627b01b2872b701f48b2b808cb101e4fb20",
@@ -418,7 +419,7 @@
   {
     "address": "0x2e3a5f60a5590959b068587c47e643e18e7f5cdf",
     "totalTrades": 33,
-    "profits": 1.6653109799551384
+    "profits": 1.5105927981369565
   },
   {
     "address": "0x068f882080da8fcb236de09e4812b9035d7690a6",
@@ -433,12 +434,12 @@
   {
     "address": "0x935c6a0d1e77ef9bb96d8901c06335aacf1d8433",
     "totalTrades": 30,
-    "profits": 0.5501475584818885
+    "profits": 0.6501375584818885
   },
   {
     "address": "0x9ea17078cee0372cb80e69ea47a6f99d301f69da",
     "totalTrades": 29,
-    "profits": 0.2218077026035937
+    "profits": 0.6217677026035937
   },
   {
     "address": "0x05ef8065310c4e69c15a5d9798e087ad26e261b0",
@@ -453,17 +454,17 @@
   {
     "address": "0xe541147883bea7d08fdad88e4b154456efd0b29d",
     "totalTrades": 27,
-    "profits": 4.006704665613922
+    "profits": 4.00655861990099
   },
   {
     "address": "0x13e21e941f695c62a6ff94c466e97bab6e73c846",
     "totalTrades": 27,
-    "profits": -0.6317600682593857
+    "profits": -1.078377133105802
   },
   {
     "address": "0x78963548eeb3ba9e17ce981474ba30e46255bc5f",
     "totalTrades": 27,
-    "profits": -45.92976964530892
+    "profits": -39.667635
   },
   {
     "address": "0x99b665bce8f9e64aa6e4b683f6bca14476fe6a34",
@@ -473,7 +474,7 @@
   {
     "address": "0x314bfdaeff6d6326c1d3b304c6728f8714919371",
     "totalTrades": 27,
-    "profits": -4.159681755779405
+    "profits": -0.16008175577940525
   },
   {
     "address": "0x6f2c94666888a89c6aa9b25f5516a517c264aa29",
@@ -483,27 +484,27 @@
   {
     "address": "0x2029f55fb536090b25c9b2fef86b7b294c5d4c71",
     "totalTrades": 26,
-    "profits": 0.03365979797979798
+    "profits": 0.13364979797979798
   },
   {
     "address": "0x41d3deae4e9cab7de5755992e957f6e775d773ea",
     "totalTrades": 25,
-    "profits": 8.411109529411764
+    "profits": 7.892286
   },
   {
     "address": "0x6a4bb8a610a8579b6d5453f0da33c295b31d8ed9",
     "totalTrades": 24,
-    "profits": 9.17420918032787
+    "profits": 7.644396
   },
   {
     "address": "0x7595964c89ed5ec8e47a43b2b57f07c6d83133fd",
     "totalTrades": 23,
-    "profits": 1.1574102
+    "profits": 1.3573902
   },
   {
     "address": "0x434546d2db58f24329b294bd70794493e3e7d284",
     "totalTrades": 23,
-    "profits": -117.5314339
+    "profits": -37.5394339
   },
   {
     "address": "0xd762c7724ab746161559f5f8ce1df81b2c982d14",
@@ -513,7 +514,7 @@
   {
     "address": "0x4f50d47d20380172746527bbeaa274940c38efac",
     "totalTrades": 22,
-    "profits": -1.7787504136860652
+    "profits": 0.9859730863139348
   },
   {
     "address": "0x65c80c55e7fd03881c79e4da35edcacfe426ab80",
@@ -533,12 +534,12 @@
   {
     "address": "0xcaddd6bdc36ab041fe1bf324c51ffe6e510c2b7b",
     "totalTrades": 22,
-    "profits": -1.642626295512246
+    "profits": 0.5977828357651541
   },
   {
     "address": "0x8dc6569c28521560eaf1890bc41b2f3fc2010e1b",
     "totalTrades": 21,
-    "profits": -1.1686789402752158
+    "profits": -0.7187239402752159
   },
   {
     "address": "0x85d217b7d6cbe9d0e30ac9afedc94cf43d655b0b",
@@ -548,17 +549,17 @@
   {
     "address": "0x4a8b4961e0889182e4277afbb3f0dd83981670cc",
     "totalTrades": 21,
-    "profits": 2.3577094059232904
+    "profits": 32.35670920592329
   },
   {
     "address": "0x2fe1b703b365f4b75aac45937a8ee6418738a4e9",
     "totalTrades": 21,
-    "profits": 1.0744740362383596
+    "profits": 0.8330395566900674
   },
   {
     "address": "0xe71979c345bf7c0a4e3fe350cf0fd186470d4ddc",
     "totalTrades": 21,
-    "profits": 5.008349418339077
+    "profits": 11.342359461750624
   },
   {
     "address": "0xce4c0752125b20c5c9adce829c26a44235df9dce",
@@ -578,12 +579,12 @@
   {
     "address": "0xedcf6e153902524079335f22c3e4e971156b7718",
     "totalTrades": 20,
-    "profits": 2.4824102019590817
+    "profits": 3.2003384019590815
   },
   {
     "address": "0x260d45b054bdb6d16fcf5c3d8bb2e5ec4efc7378",
     "totalTrades": 20,
-    "profits": -3.2863426379220777
+    "profits": 2.7056742857142857
   },
   {
     "address": "0x02359349ba115b26fe715c18288c3f19dfe9f1cd",
@@ -593,7 +594,7 @@
   {
     "address": "0xd03f082c2d343a0423783769e5c7eeb7bce9b9fa",
     "totalTrades": 19,
-    "profits": -11.961103146853146
+    "profits": -2.118646853146853
   },
   {
     "address": "0x80c8f7216fbcd346376a90fe792f4af89cb2be9f",
@@ -603,17 +604,17 @@
   {
     "address": "0x5b985d300f3aac578bb9bd709da2a21a67cd3d88",
     "totalTrades": 18,
-    "profits": 1.527763500134255
+    "profits": 0.03585230446620806
   },
   {
     "address": "0x62fe1e622b5ab6e1664d79f8b74eae95cb049a1f",
     "totalTrades": 18,
-    "profits": 14.9695
+    "profits": 6.952
   },
   {
     "address": "0x3949de8ca762114ab0f82b44a84ee2062a08e0f6",
     "totalTrades": 18,
-    "profits": 3.50422865
+    "profits": 3.7907
   },
   {
     "address": "0xb7398dfc1f50e1dbb21eb699578b792c72856e94",
@@ -628,22 +629,22 @@
   {
     "address": "0x503fa70b5365978cc6d1784f78983bbe6f041f43",
     "totalTrades": 17,
-    "profits": 4.541619499771992
+    "profits": 6.620283463735955
   },
   {
     "address": "0x1e047bdd87452341380eef05dbbe72627a4c28f5",
     "totalTrades": 17,
-    "profits": -3.297699
+    "profits": 2.401731
   },
   {
     "address": "0xc408b87d105a33a4632f2be35f234f6bdbdccd32",
     "totalTrades": 17,
-    "profits": -2.487719962962963
+    "profits": 1.1193870370370371
   },
   {
     "address": "0x4f91c8f1a325f261297ec8c7ff018945ff782ea7",
     "totalTrades": 17,
-    "profits": 1.185598319327731
+    "profits": 1.679392313321725
   },
   {
     "address": "0x8a591e12b71a8ca156f79529c7e4a3c4997af982",
@@ -663,12 +664,12 @@
   {
     "address": "0x798c6c843b9def39b1fc3d7b7aa7a60b5d5dc306",
     "totalTrades": 17,
-    "profits": 0.07899
+    "profits": 1.87869
   },
   {
     "address": "0x7224da96cd08cac1fef0d08c2f1a93451fb9d86c",
     "totalTrades": 16,
-    "profits": -0.221982
+    "profits": -0.131991
   },
   {
     "address": "0xdcd0964cf350c4c59ca329c735069f564ab657f7",
@@ -678,17 +679,17 @@
   {
     "address": "0xf048539f3dc5ebe5c1f8bc9e7f37a106f25f55c9",
     "totalTrades": 16,
-    "profits": -2.8710414285310186
+    "profits": -1.1146534585636703
   },
   {
     "address": "0xee7b084f35a9dcd02ba3b80e59a33676124cf67c",
     "totalTrades": 16,
-    "profits": 0.925742123
+    "profits": 1.155719123
   },
   {
     "address": "0x6b89d6110213a0ecfe8d6ad4c819faf1bf8d31f0",
     "totalTrades": 16,
-    "profits": -52.725165025925925
+    "profits": -16.441554285857674
   },
   {
     "address": "0xd4152242dc4cbd950f521d312859626fcc7811d1",
@@ -708,7 +709,7 @@
   {
     "address": "0x522273122b20212fe255875a4737b6f50cc72006",
     "totalTrades": 16,
-    "profits": -0.48505414851485146
+    "profits": 0.17186585148514852
   },
   {
     "address": "0x4c7f12fa7681dccbe876f20a9391737ce84587f7",
@@ -718,7 +719,7 @@
   {
     "address": "0xf62b6d44701cabbb319b280f50c886ae887fba4f",
     "totalTrades": 16,
-    "profits": -2.35683
+    "profits": -0.657
   },
   {
     "address": "0x31026b483ce8b61ca0acdbe7cb96fd8b83246406",
@@ -728,12 +729,12 @@
   {
     "address": "0x6b5d5098041decf17a614e2c5c693dad2194b2ec",
     "totalTrades": 16,
-    "profits": 1.2033556673439227
+    "profits": 2.170050568149245
   },
   {
     "address": "0x26f38d84ab7669760cd0365c334d6fe44dc20d67",
     "totalTrades": 15,
-    "profits": 2.536735077305248
+    "profits": 1.9964189771058871
   },
   {
     "address": "0xae49bb6908cbce30264fd061272098f40a80e442",
@@ -753,22 +754,22 @@
   {
     "address": "0x3918b8bb581b4320374cbffcdde51c7b92d3a22a",
     "totalTrades": 15,
-    "profits": 0.9373337525336857
+    "profits": 1.9891954039581132
   },
   {
     "address": "0x8b80028c8c644c7de49031aefa327b75c29f65b0",
     "totalTrades": 15,
-    "profits": -0.07634954198473283
+    "profits": 0.476865
   },
   {
     "address": "0xbde4cd4edeb6ae5824f7a9f64ddc4c5e87ba6b6f",
     "totalTrades": 15,
-    "profits": 2.557935
+    "profits": 3.541668993993994
   },
   {
     "address": "0x2b555c64f7bdf8d26a0d4065ce872e6ce1830257",
     "totalTrades": 15,
-    "profits": 6.220340789237668
+    "profits": 8.22855
   },
   {
     "address": "0xcd035fb07a3b4447ede73ac52a003af7f5939338",
@@ -778,22 +779,22 @@
   {
     "address": "0xae4c8e01a55c70074a25f51f7d920dc4ce915f82",
     "totalTrades": 15,
-    "profits": -44.69575
+    "profits": -4.69796
   },
   {
     "address": "0xdebbd37ac845b0e6f6bb69070154de4b68b4d733",
     "totalTrades": 15,
-    "profits": -8.965641501618123
+    "profits": -4.696068501618123
   },
   {
     "address": "0x693700426689bd9f3ee08ac7817a50b34130715e",
     "totalTrades": 14,
-    "profits": -46.66954419577397
+    "profits": -40.65819545391898
   },
   {
     "address": "0x19abba5b16da8cb9ed8a9a02c6c6a8caf51e7ffc",
     "totalTrades": 14,
-    "profits": 44.09688365934336
+    "profits": 26.933715017066003
   },
   {
     "address": "0xe6488bae39b5ad6d2a110ccf40e3c9468ac26f80",
@@ -808,7 +809,7 @@
   {
     "address": "0xa43e1f801c4bb3d01fdd768c47bdebc2754206a2",
     "totalTrades": 14,
-    "profits": 136.62581926198285
+    "profits": 136.72580926198285
   },
   {
     "address": "0x5782089bd69c5b09487dc23c930eb21f6d1c3cbb",
@@ -818,7 +819,7 @@
   {
     "address": "0xbdd10dbde93c7abc8f37d0947cdfa311af0a8906",
     "totalTrades": 14,
-    "profits": 0.026976803921568628
+    "profits": 4.6550371208229775
   },
   {
     "address": "0x29b7d45fa8d81a2b9bd51f7a903a91f54d04f0d7",
@@ -828,7 +829,7 @@
   {
     "address": "0xc58a5adec44375d0dfd0a74cd66ae7d51ac8f3de",
     "totalTrades": 14,
-    "profits": 2.9393531652661062
+    "profits": 2.774519831932773
   },
   {
     "address": "0x0206e1db86b852a4d1dd5926ab07b2f9117fa115",
@@ -838,7 +839,7 @@
   {
     "address": "0x412440218ca88c4f31cd9f0b712ec39d0417b042",
     "totalTrades": 14,
-    "profits": -0.05609
+    "profits": 0.037
   },
   {
     "address": "0x5095cddde33844b9a7745e94bd3b41f1f4824266",
@@ -853,12 +854,12 @@
   {
     "address": "0x221c00219db54293970dfe3fbcdc8f00c98e2f81",
     "totalTrades": 13,
-    "profits": 0.0225
+    "profits": 0.08855154929577465
   },
   {
     "address": "0x260f180cfaa31e8a615545767461d4a0d72902e4",
     "totalTrades": 13,
-    "profits": -9.339266666666667
+    "profits": 40.65573333333333
   },
   {
     "address": "0x35e537c0085db5681daaaa4866eb3d7537b16631",
@@ -873,7 +874,7 @@
   {
     "address": "0xcc8714ef555346c73bc02367923c490a53170e04",
     "totalTrades": 13,
-    "profits": -34.5001
+    "profits": -13.5022
   },
   {
     "address": "0xf733454bb020b76cfc9c4ad80367bab412edbffb",
@@ -883,7 +884,7 @@
   {
     "address": "0x31a727b710882004c0248ff32290f51073489a81",
     "totalTrades": 13,
-    "profits": 0.6864
+    "profits": 0.5197
   },
   {
     "address": "0x9165828cd2a889b04e4a2d340f77591fc947fc79",
@@ -898,12 +899,12 @@
   {
     "address": "0x3a7db224acae17de7798797d82cdf8253017dfa8",
     "totalTrades": 13,
-    "profits": -16.79995
+    "profits": -16.3
   },
   {
     "address": "0xa46f905017692c832618faf5fce3a7c4fa335591",
     "totalTrades": 13,
-    "profits": 0.6974285106382979
+    "profits": 0.638136
   },
   {
     "address": "0xe1face394e1ea49508fb898833f0f4059a76d87c",
@@ -913,7 +914,7 @@
   {
     "address": "0xd8e80673419acfbf15bf8eb0239cda90f232051f",
     "totalTrades": 13,
-    "profits": 0.3130980769230769
+    "profits": 0.333575
   },
   {
     "address": "0x35e2e4c306ddfcebe7aecf8da0858033710f5ebd",
@@ -923,27 +924,27 @@
   {
     "address": "0x485167ec3ab781acf5f13633681210820fc6e448",
     "totalTrades": 13,
-    "profits": -0.15720020202020202
+    "profits": 2.342549797979798
   },
   {
     "address": "0x29fb67819120057dcc0f141c59f7281860f6c643",
     "totalTrades": 13,
-    "profits": -0.05499
+    "profits": 0.045
   },
   {
     "address": "0x700d0f52be88c9c484e92b0e7e687831b226a1e9",
     "totalTrades": 12,
-    "profits": -0.18064955555555556
+    "profits": -0.020665555555555555
   },
   {
     "address": "0x4f52735e6bbdf7985017d16ca328dbe71c02d0c6",
     "totalTrades": 12,
-    "profits": 2.6000853007688827
+    "profits": 1.142138037087291
   },
   {
     "address": "0xd84bc467a6642b11c3df7001bf94485c742844a1",
     "totalTrades": 12,
-    "profits": -0.9867976923076923
+    "profits": -0.3868576923076923
   },
   {
     "address": "0x2cb9b31161a6d998b4af53de054f9dcfa74cf4e5",
@@ -953,7 +954,7 @@
   {
     "address": "0x003d1e506652cf80136c56273fc483affc6a8970",
     "totalTrades": 12,
-    "profits": -0.11959881362763916
+    "profits": -0.019608813627639155
   },
   {
     "address": "0xefaa3a2d1c8b26fefc1dfd1285c8e35f588e34a5",
@@ -968,12 +969,12 @@
   {
     "address": "0xb6650387a46d9808d1b320ce23006ba2b0d900f7",
     "totalTrades": 12,
-    "profits": -0.0616096
+    "profits": 0.0383804
   },
   {
     "address": "0xd6d48727d8835b73f8dc511a5baaf3445a6f65c9",
     "totalTrades": 11,
-    "profits": 0.22823289898989899
+    "profits": 0.258229898989899
   },
   {
     "address": "0xd3e056ac4ac3da5160e7ed8dc48c1ab172654fb6",
@@ -993,7 +994,7 @@
   {
     "address": "0x47c3c38c009c97e214be524d05b887b2bb455e91",
     "totalTrades": 11,
-    "profits": -0.00724
+    "profits": 0.08025
   },
   {
     "address": "0xf09c6cd78e086ef83b441eae6175d929e4f3ef90",
@@ -1008,7 +1009,7 @@
   {
     "address": "0x03b4afbfe0e925ed2ed7521778753392a552fa2f",
     "totalTrades": 11,
-    "profits": -1.325134
+    "profits": -0.125254
   },
   {
     "address": "0xc76a5101d8b5a66d2edbdc4909c774c65b1fbbf0",
@@ -1023,7 +1024,7 @@
   {
     "address": "0x1d8b26ba8fb768d14fa9dcd20e85b9e639c963d5",
     "totalTrades": 11,
-    "profits": 0.0527
+    "profits": 0.0377
   },
   {
     "address": "0x448a380e3ed48de270972fa9b37fa6f687210bfc",
@@ -1033,12 +1034,12 @@
   {
     "address": "0x7f84272a27b831ecce7a7c17605813718a1c1c2c",
     "totalTrades": 11,
-    "profits": -0.35764
+    "profits": -0.25765
   },
   {
     "address": "0x2cffaf39f38e46356083cee0df3b92496fde85d8",
     "totalTrades": 11,
-    "profits": 0.169390900990099
+    "profits": 0.483472900990099
   },
   {
     "address": "0xab13d11df1a25e88acaf2ab32a92c0aa33e08034",
@@ -1048,7 +1049,7 @@
   {
     "address": "0x4d3cf44dafcd4c1716308a3bc2fd53bc00ca7e21",
     "totalTrades": 11,
-    "profits": -0.2719197619047619
+    "profits": 0.1280402380952381
   },
   {
     "address": "0x5f4b7d6cc4ee935f48e4ae4cdefc3b96dfce0550",
@@ -1078,7 +1079,7 @@
   {
     "address": "0x28798b8a047f39a421319a610a3fb3b78fc2ea70",
     "totalTrades": 10,
-    "profits": 0.4265572487842457
+    "profits": 0.38629080600895566
   },
   {
     "address": "0x6c0d86058974c7a1216c778904a676371969b772",
@@ -1088,7 +1089,7 @@
   {
     "address": "0xd98e44d09660a89022515d6d41662d05a14253e7",
     "totalTrades": 10,
-    "profits": 0.93095
+    "profits": 1.4309
   },
   {
     "address": "0xc6f6c89f7f297b5230d2fd028ac06f0677c1857b",
@@ -1118,7 +1119,7 @@
   {
     "address": "0x713558113b03e1a110e45270af50e7b024b65d2e",
     "totalTrades": 10,
-    "profits": -0.434060633030303
+    "profits": 0.315864366969697
   },
   {
     "address": "0x6a53cb71c0fd26f9c73619a2cba70bee3a50964a",
@@ -1128,7 +1129,7 @@
   {
     "address": "0xfb28b2804f9fa794492acab04be3942aac15b338",
     "totalTrades": 9,
-    "profits": -0.010099
+    "profits": -0.0001
   },
   {
     "address": "0xcdf0703df91e8298a41b9a7e96a6e299c21e9630",
@@ -1153,7 +1154,7 @@
   {
     "address": "0xa25179297a3e6b19d1e055cc82db924c8c2096e1",
     "totalTrades": 9,
-    "profits": 0.6645102040816326
+    "profits": 0.25536825617271575
   },
   {
     "address": "0x4dea7ade12bcc24b5b00847bc8f868d87b60ab54",
@@ -1163,7 +1164,7 @@
   {
     "address": "0x3fc53fa09b714ea206c3d5b260fb7c826efbc9ba",
     "totalTrades": 9,
-    "profits": 0
+    "profits": 0.37588
   },
   {
     "address": "0x631824bc2297d8cfcdad27e244014c0c0e581044",
@@ -1173,7 +1174,7 @@
   {
     "address": "0x72fa333420493384cdf6acd2ca60d83083e61225",
     "totalTrades": 9,
-    "profits": -0.007602618796992481
+    "profits": 0.09238738120300752
   },
   {
     "address": "0x711c8784c81cb974d8deaec7007b6232a2f600be",
@@ -1238,7 +1239,7 @@
   {
     "address": "0xf099af14e04fbf64f76ac560e98284d6e95ebe56",
     "totalTrades": 9,
-    "profits": 0.1805246012345679
+    "profits": 0.18020884320987654
   },
   {
     "address": "0x493b5cffc19804e8fa2883bd7e567d40027a5744",
@@ -1263,7 +1264,7 @@
   {
     "address": "0x87327889924c7694878939935b21c5beb964d378",
     "totalTrades": 8,
-    "profits": -14.204556451612904
+    "profits": -0.617
   },
   {
     "address": "0xbbcb14ad126eaa51a352928138d83308c274ddb0",
@@ -1273,7 +1274,7 @@
   {
     "address": "0x5844fe58513afe1f1147fe1608a79551774b5dc8",
     "totalTrades": 8,
-    "profits": -1.467372
+    "profits": -0.167502
   },
   {
     "address": "0x002f9caf40a444f20813da783d152bdfaf42852f",
@@ -1288,7 +1289,7 @@
   {
     "address": "0xd68a8e743ad94769c2e625622511ddc9e540f486",
     "totalTrades": 8,
-    "profits": -0.4259142857142857
+    "profits": 0.5739857142857143
   },
   {
     "address": "0x23e745ad92a907c912321c17dd1355e5bc057040",
@@ -1308,7 +1309,7 @@
   {
     "address": "0x121667b6690f5040c672c3df912a5aaf8735ca23",
     "totalTrades": 8,
-    "profits": -0.26858
+    "profits": -0.09875
   },
   {
     "address": "0x1ce1c8d9fdc8044f6fd73d95bf894a70cbe9f09e",
@@ -1318,7 +1319,7 @@
   {
     "address": "0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab",
     "totalTrades": 8,
-    "profits": -20.29645
+    "profits": 1.591361
   },
   {
     "address": "0x9cb9ccae1658bc7c2fe84600a6487f25091dcf37",
@@ -1333,17 +1334,17 @@
   {
     "address": "0xfdae0a43d0a26befb74ad531b83f285e40b3abab",
     "totalTrades": 8,
-    "profits": 1.4640820987654322
+    "profits": 2.393777777777778
   },
   {
     "address": "0xaead03169f705178659760f6cba9b2e297d699d4",
     "totalTrades": 8,
-    "profits": -0.09989
+    "profits": 0.0001
   },
   {
     "address": "0x29d8d46307144b8853ff0282d106a8760a1b93cc",
     "totalTrades": 8,
-    "profits": -0.076
+    "profits": 0.15583774647887325
   },
   {
     "address": "0x59d6b8a070da3376a7fa6b940378bb7423a71787",
@@ -1368,7 +1369,7 @@
   {
     "address": "0xfb13dbc9220bf56ec39cb521d9fb41b1680c97e9",
     "totalTrades": 8,
-    "profits": -0.5771991938369516
+    "profits": 0.5213323586744639
   },
   {
     "address": "0x9e14d28f2927cf2b16121e2d05eb427c7c9abdd8",
@@ -1393,12 +1394,12 @@
   {
     "address": "0xb2df2d124cc5a4c9e3eaeb9719ce2dcec88e9194",
     "totalTrades": 8,
-    "profits": -0.23184313725490197
+    "profits": 2.75025
   },
   {
     "address": "0xff81fbfd295f9186aff9e3c39d091ebb7d821725",
     "totalTrades": 8,
-    "profits": 0.09705502997002997
+    "profits": 0.382055
   },
   {
     "address": "0x7fbd882dfdc9cc579cff3f961a531394b505271f",
@@ -1413,7 +1414,7 @@
   {
     "address": "0x4312dd27c04c2137e3f3f1c917224adecc3d0aee",
     "totalTrades": 7,
-    "profits": -8.405842986488365
+    "profits": 10.836046002647862
   },
   {
     "address": "0x267c3ca6e21d037d9b311796bd7c5d7b9ddb1af0",
@@ -1423,7 +1424,7 @@
   {
     "address": "0x0cdb60476a7f09d7be1d12810053f757c393a595",
     "totalTrades": 7,
-    "profits": -0.05050207901907357
+    "profits": 0.05948692098092643
   },
   {
     "address": "0x00007bbf3344d361d747ede05548f55153280004",
@@ -1433,7 +1434,7 @@
   {
     "address": "0xecabc67c5db9a603babb8a77a51cb67a782076dd",
     "totalTrades": 7,
-    "profits": 0
+    "profits": 40.440858530471566
   },
   {
     "address": "0x7ffc6bfecd83549d92c76ac0db87c50a1ebfc15a",
@@ -1443,7 +1444,7 @@
   {
     "address": "0x08661d81d03b74a88bcf680e3e5eef2bd277caba",
     "totalTrades": 7,
-    "profits": -1.1899
+    "profits": -0.19
   },
   {
     "address": "0x5dbccbcedfce48e4db487364ad7a6d944df04913",
@@ -1473,17 +1474,17 @@
   {
     "address": "0xda9162677274b13c6c0a863ee8fba21b9fd2fa4a",
     "totalTrades": 7,
-    "profits": -0.038
+    "profits": 0.011995
   },
   {
     "address": "0x95e7cf5d4e76e07ff8cf35d7fb30df7658077b3c",
     "totalTrades": 7,
-    "profits": -0.10319909090909091
+    "profits": -0.0032090909090909093
   },
   {
     "address": "0x305c2f32c32de5021f07f518623be16af8cb1f6b",
     "totalTrades": 7,
-    "profits": 0.02497
+    "profits": 0.12496
   },
   {
     "address": "0x689646a3f1f3e4c8943e77ae68e09d44b77789fb",
@@ -1493,12 +1494,12 @@
   {
     "address": "0xbbc818f10b2bd5d4ae1a8e3717f6324acee6ec1f",
     "totalTrades": 7,
-    "profits": -0.027996
+    "profits": 0.012
   },
   {
     "address": "0x3cc3dccb5f8437de3e2d34e0ca11d56c2530db1c",
     "totalTrades": 7,
-    "profits": -0.032007
+    "profits": -0.00201
   },
   {
     "address": "0x579cb6dd7eb6c285048d9c9beb04f74e023150a0",
@@ -1508,7 +1509,7 @@
   {
     "address": "0x241bfb817a3a2e2a99c7df5f14fe7aeecb33b9bd",
     "totalTrades": 7,
-    "profits": 0.1320631512605042
+    "profits": 0.23205315126050421
   },
   {
     "address": "0x918d7703600159c3623e1d072b22910e756a3d4e",
@@ -1538,7 +1539,7 @@
   {
     "address": "0x27ef256c2e9b18977d73b0c14b33901255b37a9a",
     "totalTrades": 7,
-    "profits": 0.4639888235294118
+    "profits": 0.36398882352941175
   },
   {
     "address": "0xd2f35fc3ebc5ba2eba8df389790583c64d9e4659",
@@ -1563,7 +1564,7 @@
   {
     "address": "0xa2b08af6398647bafe85a8a85757a94659881b35",
     "totalTrades": 7,
-    "profits": 9.784204
+    "profits": 9.384204
   },
   {
     "address": "0x06ec2f2c6521101565b8b833a763dd1b41210956",
@@ -1583,7 +1584,7 @@
   {
     "address": "0x06fe45706315a6fb700be07936ba53d06a682c96",
     "totalTrades": 7,
-    "profits": 0.002235
+    "profits": 3.2933776056338027
   },
   {
     "address": "0xac904e3ae9128592a8d8ec91adce25aec177633a",
@@ -1603,7 +1604,7 @@
   {
     "address": "0xe1447914f234eb30f8725b2f564e60a655e39cc0",
     "totalTrades": 7,
-    "profits": -0.024294
+    "profits": -0.004296
   },
   {
     "address": "0xd4c11f913474b16933bb2699eb047465324d7ff1",
@@ -1628,7 +1629,7 @@
   {
     "address": "0xb4ef672ad6775a14691053f34a83925e3f35a8d2",
     "totalTrades": 6,
-    "profits": 0.00577385
+    "profits": 0.14426
   },
   {
     "address": "0xc91e620d3d2b43c82ac8377fa2259783dd983618",
@@ -1638,7 +1639,7 @@
   {
     "address": "0x3edc08fc9322951c9837f1c6f9acc976b7ef3268",
     "totalTrades": 6,
-    "profits": -0.8751408
+    "profits": -0.1042179
   },
   {
     "address": "0x1ef2a5e67e16ff35d32102730b478cda4503a6cb",
@@ -1703,7 +1704,7 @@
   {
     "address": "0x317c849e79c14a6604a9160a1ceb9f93cae69691",
     "totalTrades": 6,
-    "profits": -0.0050989
+    "profits": 0.0059
   },
   {
     "address": "0xbc99bf34571a5aff76d1653612bf8a55dad8a75b",
@@ -1713,7 +1714,7 @@
   {
     "address": "0xe16090c7cf3b2908c7cbb9833d30a0e473d3db78",
     "totalTrades": 6,
-    "profits": -0.179982
+    "profits": 0
   },
   {
     "address": "0xb695496f2687e3617ebe725860b38f16f3f787b8",
@@ -1723,7 +1724,7 @@
   {
     "address": "0x2d4a050ab8e0019e908689b100d8b146179c7d39",
     "totalTrades": 6,
-    "profits": -0.0420095
+    "profits": -0.03701
   },
   {
     "address": "0xaf20e5fa83537af33eeb55ce91ae384ec1c2c8e7",
@@ -1778,12 +1779,12 @@
   {
     "address": "0xef7f867af009c0f311f85d12142b0423cd8ad72b",
     "totalTrades": 6,
-    "profits": -0.32697
+    "profits": -0.027
   },
   {
     "address": "0xd7f51d7c77871336a37d3ceb82b33701cb6fff41",
     "totalTrades": 6,
-    "profits": -28.261400809716598
+    "profits": -8.98
   },
   {
     "address": "0x3f43fb0e8760d8f8ca46e08920636af1b902cbeb",
@@ -1793,7 +1794,7 @@
   {
     "address": "0x28f6f557ea41cdd5adc70d4b3fb8f6a4a6192c11",
     "totalTrades": 6,
-    "profits": -0.476276
+    "profits": 0.083668
   },
   {
     "address": "0x9a7a7d381f0fb1bcf0f521207ef124bde9346a4c",
@@ -1823,7 +1824,7 @@
   {
     "address": "0xfb4cff6bb42bcbdf0a225f3751b9d0a436c94fa2",
     "totalTrades": 6,
-    "profits": 0.14004
+    "profits": 0.54
   },
   {
     "address": "0xe97fee2ddc04cd82ef286aad4798aae0dc913425",
@@ -1833,12 +1834,12 @@
   {
     "address": "0xd4be3593eb07f97de7e27be56ff7ad2f27a72364",
     "totalTrades": 6,
-    "profits": -2.8747
+    "profits": 0.125
   },
   {
     "address": "0xeb38f4e012d203c15a5e38c2b24a28752cd64c81",
     "totalTrades": 6,
-    "profits": -0.49944
+    "profits": 0.1005
   },
   {
     "address": "0xedb7cf2aa0159569286d5874c6dd7fa8bea6b713",
@@ -1868,7 +1869,7 @@
   {
     "address": "0x011ce63cf8a95ed356c261e11064635cf5a5ce2a",
     "totalTrades": 6,
-    "profits": -9.04927401
+    "profits": -2.080071
   },
   {
     "address": "0xa34dc72cbde5b5054799c2f401d6c76ffedbe4ff",
@@ -1883,7 +1884,7 @@
   {
     "address": "0xed8b0f9dd8a468e5127109dbad351089b998b2a1",
     "totalTrades": 5,
-    "profits": 0.04799
+    "profits": 0.2275428431372549
   },
   {
     "address": "0x940582408338738852254a99c3215f7e7d1dbb8e",
@@ -1948,7 +1949,7 @@
   {
     "address": "0x8c925a07b3c59f20307251f36562040571c605ed",
     "totalTrades": 5,
-    "profits": -0.04899
+    "profits": 0.001005
   },
   {
     "address": "0xd459cdb197400fd7fbd9cd3a42a6442611294261",
@@ -1958,7 +1959,7 @@
   {
     "address": "0xb2a71d1a099151ea811ba384a9b74d9c11f2edaf",
     "totalTrades": 5,
-    "profits": 9.063291139240507
+    "profits": 9
   },
   {
     "address": "0xd7f1909175f71b190dfda7216e1f1a62d2a86a68",
@@ -1978,17 +1979,17 @@
   {
     "address": "0xf23e304d9c34bde438a981b232de5139fa250e73",
     "totalTrades": 5,
-    "profits": -0.49995
+    "profits": 0
   },
   {
     "address": "0x6dd1d7feedb6e9ed6bcab06401df7776b7b9a185",
     "totalTrades": 5,
-    "profits": -0.01519292
+    "profits": 0.05241422285714286
   },
   {
     "address": "0x81ce9cdaf427df5f5e6c66b82e51acc804ee761f",
     "totalTrades": 5,
-    "profits": 0
+    "profits": 0.008295081596668408
   },
   {
     "address": "0x190824b63255c3b1f415a3d5f64118902ff11cfb",
@@ -2018,7 +2019,7 @@
   {
     "address": "0xcab2f51d80bfe9965cdfb2692b24c5c28c8415af",
     "totalTrades": 5,
-    "profits": 1.822325581395349
+    "profits": 1.22
   },
   {
     "address": "0xf20f154d27d2be2ef8b1bef6827bd6d075710217",
@@ -2028,7 +2029,7 @@
   {
     "address": "0x5a6063ee0c30a39c254619b17a70665d1f228808",
     "totalTrades": 5,
-    "profits": -0.06726268656716418
+    "profits": 1.19
   },
   {
     "address": "0x5c035bb4cb7dacbfee076a5e61aa39a10da2e956",
@@ -2068,7 +2069,7 @@
   {
     "address": "0x754eb9c4e499dfbf7c77de9602a40e11c3516a34",
     "totalTrades": 5,
-    "profits": 0.19526
+    "profits": 0.195809
   },
   {
     "address": "0x282173335ae1f328b34eb9acadc052e59e70a89f",
@@ -2143,7 +2144,7 @@
   {
     "address": "0x78d8e8807f652b54afe33b7645a26c5ffae5291c",
     "totalTrades": 5,
-    "profits": -1.2533913583279033
+    "profits": 0.6955860649627497
   },
   {
     "address": "0x177c71f19f4afa33827cff4593146a6cdb71cfa2",
@@ -2163,7 +2164,7 @@
   {
     "address": "0xbe60b513db83d97ebfac0e147df8bdd482ba5a3f",
     "totalTrades": 5,
-    "profits": 0.025471014492753623
+    "profits": 0.20781591496221177
   },
   {
     "address": "0x9424bfc9f19d2c40d79ca20094a7da9d4024c44b",
@@ -2223,7 +2224,7 @@
   {
     "address": "0x78796929b0e10d023239c176a32031fd46c473da",
     "totalTrades": 4,
-    "profits": -0.7684197614678899
+    "profits": 0.08985696916104786
   },
   {
     "address": "0xafefa02e1858e5df91a72c96cae36a0e69de55f8",
@@ -2248,7 +2249,7 @@
   {
     "address": "0x3d71650e00ceca5b907c478b288361b5de651a57",
     "totalTrades": 4,
-    "profits": -0.0543534
+    "profits": -0.0003588
   },
   {
     "address": "0xd1d2bd3a92b063dfe2f6ba2ba8d67bbb3f4d96dd",
@@ -2273,12 +2274,12 @@
   {
     "address": "0x9634b3b4cdd64f3510785f6ea3b7a235868c2fbc",
     "totalTrades": 4,
-    "profits": -0.5714185185185185
+    "profits": 0.42848148148148146
   },
   {
     "address": "0x0027f6718fa638e2ebb1588db228b86806bc01af",
     "totalTrades": 4,
-    "profits": -0.0285
+    "profits": 0.07149
   },
   {
     "address": "0x00e2eb1b7007bd81e892ba99c628a26d8a464611",
@@ -2358,7 +2359,7 @@
   {
     "address": "0x9a59822a8e232d8814fd663f3a19ad9f12e3d9b7",
     "totalTrades": 4,
-    "profits": -0.10999
+    "profits": -0.01
   },
   {
     "address": "0x0d05722e630b049ba4d394a151152ad6bd487855",
@@ -2403,7 +2404,7 @@
   {
     "address": "0x3d8c8c270ebe897b2602f8f66677a1037885eb22",
     "totalTrades": 4,
-    "profits": -8.67426
+    "profits": -1.275
   },
   {
     "address": "0x830432d9f348dbbea6b28332690aebe702b80d4a",
@@ -2453,7 +2454,7 @@
   {
     "address": "0x76a6d2a504c885c3aed68f8489b4a5e19d24f6fb",
     "totalTrades": 4,
-    "profits": -0.48215
+    "profits": 0.51775
   },
   {
     "address": "0xf38f63fc03eebb8e174afe3057032565a7b6606b",
@@ -2478,7 +2479,7 @@
   {
     "address": "0xd760fd0f7af672d73edb689873b20da1c4bc95d8",
     "totalTrades": 4,
-    "profits": -0.09899
+    "profits": -0.00409578710903466
   },
   {
     "address": "0x6146a3f0178a84b82e83bc7498c5805fc80ce67c",
@@ -2523,7 +2524,7 @@
   {
     "address": "0x0d71d8a431d7e2965f01a78faf7fedd94de6750c",
     "totalTrades": 4,
-    "profits": -2.0477166666666666
+    "profits": 0.81865
   },
   {
     "address": "0x1e79fe7b1927d6bf051d26bf5c19ef6f91cb1ad0",
@@ -2563,7 +2564,7 @@
   {
     "address": "0x0c54d54f8371017473b2d5add81908b775b5a800",
     "totalTrades": 4,
-    "profits": -0.011523141948529412
+    "profits": 0.0007756280514705882
   },
   {
     "address": "0xe63c23a8f5920d4eeb62e86ead5063cca5e48fe1",
@@ -2578,7 +2579,7 @@
   {
     "address": "0x0d3fce41412c4f80e970c920ade18efdb79ef81f",
     "totalTrades": 4,
-    "profits": -0.06043587
+    "profits": 0.13194489
   },
   {
     "address": "0xcb51ce8d20df9172a258079ee5d1ba9f1ab9c1f1",
@@ -2623,7 +2624,7 @@
   {
     "address": "0x4a18c9f1e93e600b9bfabe914503819c0f93c0a1",
     "totalTrades": 4,
-    "profits": -0.20220740395292028
+    "profits": -0.0022274039529202754
   },
   {
     "address": "0x9b28c5d37af25c1c97b67519f8b1556d34f8e760",
@@ -2638,7 +2639,7 @@
   {
     "address": "0xd0c2b3336747d8d873cf09a83b57477d8f644597",
     "totalTrades": 4,
-    "profits": 0
+    "profits": -0.34768571428571426
   },
   {
     "address": "0xf373867d050dccae040b195474c3ed39e2d08582",
@@ -2658,7 +2659,7 @@
   {
     "address": "0x397507a0cb8df765e9f7edd66ef3021218aa1f5e",
     "totalTrades": 4,
-    "profits": -0.3856542857142857
+    "profits": 0.33084
   },
   {
     "address": "0x44e9d011df8741be2493e99297e9ad67bb1aa85b",
@@ -2723,7 +2724,7 @@
   {
     "address": "0x0c039ad9c759c88d7c936aeabf96a882adf554ea",
     "totalTrades": 3,
-    "profits": -0.22078275280898876
+    "profits": -0.07079775280898877
   },
   {
     "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
@@ -2773,7 +2774,7 @@
   {
     "address": "0xe365fb79846b03cb1c5f9a30735dd18874ae28f9",
     "totalTrades": 3,
-    "profits": -0.11499
+    "profits": -0.015
   },
   {
     "address": "0xc3f58d7ad014d365efa9b54a5be010c462db6473",
@@ -2803,7 +2804,7 @@
   {
     "address": "0x57bc04ca8608bc33f7d5486edbb6876f88eb700d",
     "totalTrades": 3,
-    "profits": -0.3929
+    "profits": 0.10705
   },
   {
     "address": "0xc6f6212e39a87f7349bbb4c2242f3aeaf46aa410",
@@ -2813,7 +2814,7 @@
   {
     "address": "0x13410c0cae4a855499649482e3de014802399ebf",
     "totalTrades": 3,
-    "profits": -0.00109989
+    "profits": 0
   },
   {
     "address": "0x452386e0516cc1600e9f43c719d0c80c6abc51f9",
@@ -2823,7 +2824,7 @@
   {
     "address": "0xee532b85415dc2e2235b0d0bb4540d070d778ed3",
     "totalTrades": 3,
-    "profits": -0.08666666666666667
+    "profits": -0.18
   },
   {
     "address": "0x3a1948c2993047abbf93b85ccce1f1ff983da65b",
@@ -2868,12 +2869,12 @@
   {
     "address": "0x3fd1ddf28f604cfe5fefa3adc38e38be2f7208d6",
     "totalTrades": 3,
-    "profits": 0.27510416666666665
+    "profits": -0.19
   },
   {
     "address": "0x8033562521fedecdcc05487303522375597f9094",
     "totalTrades": 3,
-    "profits": 0
+    "profits": 0.01208943661971831
   },
   {
     "address": "0x70ddd33089a6c52fdc1723ab62933873f8838b58",
@@ -2883,7 +2884,7 @@
   {
     "address": "0x475f2d1ed5de8a13a4378a828cf5efb3f5d52f53",
     "totalTrades": 3,
-    "profits": 0
+    "profits": 0.067
   },
   {
     "address": "0x7fd9bb30f4f686bfccfbf8221d4677145f8f979b",
@@ -2978,7 +2979,7 @@
   {
     "address": "0x5dd1b460ed2098e8c4400304ae859ed3796d43f2",
     "totalTrades": 3,
-    "profits": -0.033943
+    "profits": 0.0010535
   },
   {
     "address": "0xf4c2bdf53b4b43bc8b737ed161d1ea7f466467ce",
@@ -2998,7 +2999,7 @@
   {
     "address": "0x08a203b78157fc909484b952e48a2d1b9e8631d0",
     "totalTrades": 3,
-    "profits": -0.7541323
+    "profits": 0.12278
   },
   {
     "address": "0x2952fcb19b91f90e87cf0c478862f26818a634e8",
@@ -3033,7 +3034,7 @@
   {
     "address": "0x497e0642a3b9c7d90bfd148da3dee325ab14e4ba",
     "totalTrades": 3,
-    "profits": -0.000401
+    "profits": 0.039595
   },
   {
     "address": "0xafbcc39f474baf9596c1135522810d5f409dde0f",
@@ -3063,7 +3064,7 @@
   {
     "address": "0xf2a883984d026ab14779fffe4fb7b1bdb6b02ae3",
     "totalTrades": 3,
-    "profits": -2.31282
+    "profits": -0.513
   },
   {
     "address": "0xba475b4a955bf74f2e329be0657185f8e6200742",
@@ -3093,7 +3094,7 @@
   {
     "address": "0x284e60dbf2cc9368a81edbe5f36c10a06188437e",
     "totalTrades": 3,
-    "profits": -0.45225
+    "profits": 0.0477
   },
   {
     "address": "0x8b6da5f382a40951aa5c0ddda8a08e60b02a0ba1",
@@ -3113,7 +3114,7 @@
   {
     "address": "0x4d1467c312a83794c99b9db678dfdfa743394ef7",
     "totalTrades": 3,
-    "profits": -0.036297
+    "profits": -0.0063
   },
   {
     "address": "0xe700e714493f1466310a0082dbda7a7c41773376",
@@ -3353,7 +3354,7 @@
   {
     "address": "0x3dc389e0a69d6364a66ab64ebd51234da9569284",
     "totalTrades": 2,
-    "profits": -0.010499
+    "profits": -0.0005
   },
   {
     "address": "0xfc1d8391c133639fe502fa3f6cfdd26ea578820c",
@@ -3388,7 +3389,7 @@
   {
     "address": "0xc3709ae13c65e57a5bfd04a5e6b6d96894c99784",
     "totalTrades": 2,
-    "profits": -0.025497
+    "profits": 0.0045
   },
   {
     "address": "0x6b923d6311699f80bec4c30010925031cbe3c2bb",
@@ -3398,7 +3399,7 @@
   {
     "address": "0xbc5eea869e6a7a30aa41b3b83111aedf23846e33",
     "totalTrades": 2,
-    "profits": -0.21665655
+    "profits": 0.0428175
   },
   {
     "address": "0xf8adc1d947be5aa5152a08127e0641bc33d16b1d",
@@ -3458,7 +3459,7 @@
   {
     "address": "0xf6866b99dcf37b1ddf06b1cfc47945e88b7ada99",
     "totalTrades": 2,
-    "profits": -0.09438
+    "profits": 0.1056
   },
   {
     "address": "0x1ca9fff5693230919cd8507892645e42f6b7a5d1",
@@ -3488,7 +3489,7 @@
   {
     "address": "0xa61f1acbfc9808030637cc5af8e359925d27a9f3",
     "totalTrades": 2,
-    "profits": -0.09999
+    "profits": 0
   },
   {
     "address": "0xe6dc7254dc531a1dc098282071988f0f6b0b678f",
@@ -3588,7 +3589,7 @@
   {
     "address": "0xebebc6b04e844ab5498f29b1083b11d06249ae83",
     "totalTrades": 2,
-    "profits": -0.052745
+    "profits": -0.00275
   },
   {
     "address": "0xdee6d2490eafd4599fa46bfac238b649adb69ebd",
@@ -3653,7 +3654,7 @@
   {
     "address": "0xdee47ef9c3ae0e7bd2e36f671d1935ed59b8fdf3",
     "totalTrades": 2,
-    "profits": -0.40947
+    "profits": -0.1095
   },
   {
     "address": "0x147c0784e9872a7f223873d693823e08ecf5a9f1",
@@ -3683,7 +3684,7 @@
   {
     "address": "0x27b6131ba24444b21b3872309e98ec1e161e90b8",
     "totalTrades": 2,
-    "profits": -0.04298
+    "profits": 0.05701
   },
   {
     "address": "0x71b41d7e86e9c3de66094c95f2584f4e2ab3b2e4",
@@ -3763,7 +3764,7 @@
   {
     "address": "0x86a32e7310239fc932b843f0c7c61441332990bd",
     "totalTrades": 2,
-    "profits": -0.034995
+    "profits": 0.015
   },
   {
     "address": "0x248e8fc9ce2707a404b44db83ebddf741fd33985",
@@ -3778,7 +3779,7 @@
   {
     "address": "0xec8332dc7752310a258a92926d20599989b8292c",
     "totalTrades": 2,
-    "profits": -0.39495
+    "profits": 0.105
   },
   {
     "address": "0x2ccc6353d47c818c0fc94b384b77f117c246c7d9",
@@ -3818,7 +3819,7 @@
   {
     "address": "0xebe2baac77cabaf7eac7abdc910f8d39c097cf40",
     "totalTrades": 2,
-    "profits": 0
+    "profits": -0.0414
   },
   {
     "address": "0xcecbe670c11d4d28678955f23e0d2d708d79c893",
@@ -3883,7 +3884,7 @@
   {
     "address": "0x9e75992c35bb242bc09e78b068a11117d6ef443d",
     "totalTrades": 2,
-    "profits": 0
+    "profits": 0.57315
   },
   {
     "address": "0x21e8766fb7001728ed7ec708d5f77c0927b05025",
@@ -3918,7 +3919,7 @@
   {
     "address": "0x68390e15708e21d2be3681d72f351d550cc386d7",
     "totalTrades": 2,
-    "profits": -0.012988
+    "profits": -0.002989
   },
   {
     "address": "0x2b7d0d9eb2e6dbdd7ae2fa4bf86c3fb411dfc371",
@@ -3928,7 +3929,7 @@
   {
     "address": "0x57364d13258bdac76167605d9fb47e958d0d1ab1",
     "totalTrades": 2,
-    "profits": 0
+    "profits": 0.1174
   },
   {
     "address": "0x0c713d257e6126b5af10f1663b4a78046532f117",
@@ -4008,7 +4009,7 @@
   {
     "address": "0x721ea3d1f0361d0e657ba6f2157bba53047f366f",
     "totalTrades": 2,
-    "profits": -0.48615
+    "profits": 0.0138
   },
   {
     "address": "0x36ddaf4bc03058168e44a9152fddea39b5034dbf",
@@ -4103,7 +4104,7 @@
   {
     "address": "0x8efe0da3edb4fe1b3879f611d34253e0b202a55b",
     "totalTrades": 2,
-    "profits": -0.10099
+    "profits": -0.001
   },
   {
     "address": "0x6ff3bbd636ce43ceddc1800870cc6ea3c08d6e0f",
@@ -4133,7 +4134,7 @@
   {
     "address": "0x534726bafdfba6fd88e380f5c26b8ff899084a02",
     "totalTrades": 2,
-    "profits": -0.005499
+    "profits": 0.0045
   },
   {
     "address": "0x87dff96c4c59bd7a6f61a75778d1bcff51836923",
@@ -4318,7 +4319,7 @@
   {
     "address": "0x84491bd79eb704247bdd1b2645094b87844f3202",
     "totalTrades": 2,
-    "profits": -0.010549
+    "profits": -0.00055
   },
   {
     "address": "0x7e80f2826b6c99810786cec0c19e48bb893d3635",
@@ -4393,12 +4394,12 @@
   {
     "address": "0x8322e473de1ceef7c031c8fb1de0df86a9f3613d",
     "totalTrades": 2,
-    "profits": -0.00012899
+    "profits": -0.000029
   },
   {
     "address": "0x817f4d1f707ede91f30de3f22d526472c8834ca5",
     "totalTrades": 2,
-    "profits": -0.10299
+    "profits": -0.003
   },
   {
     "address": "0xe20abafdf0697274e18068840b847a9a637e7ba0",
@@ -4748,7 +4749,7 @@
   {
     "address": "0x052a126d5493c4f7340e154ad0b1f1ddbb2c3c08",
     "totalTrades": 1,
-    "profits": 0
+    "profits": -0.0300825
   },
   {
     "address": "0x21fbc6ef827c7f0476b5fa26e449081357e6196a",
@@ -5268,7 +5269,7 @@
   {
     "address": "0xef68d7aca7ac0791f601cda7bce80d4f3d5916cf",
     "totalTrades": 1,
-    "profits": 0
+    "profits": 0.07596
   },
   {
     "address": "0x2a5d85d5f1e676184ca59840a459ad66fb50313c",
@@ -5378,7 +5379,7 @@
   {
     "address": "0xe8dadedfd3723dd76394b1f85062adda5ea0f2bd",
     "totalTrades": 1,
-    "profits": -3.8620714285714284
+    "profits": 4.13
   },
   {
     "address": "0x486bb557efabe5178c3723f5a7982f6b216477ab",
@@ -6208,7 +6209,7 @@
   {
     "address": "0x816d45ac87a47a4fa0e081ff5f78e1a40af3720b",
     "totalTrades": 1,
-    "profits": 0.05277214611872146
+    "profits": 0.15276214611872146
   },
   {
     "address": "0x42032c22c510ad0698f16be9b99640efdeb02832",
@@ -6720,4 +6721,5 @@
     "totalTrades": 1,
     "profits": 0
   }
-]}
+]
+}
